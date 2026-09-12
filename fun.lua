@@ -1,2 +1,725 @@
---// Join Now discord.gg/77nEeYeFRp
-return(function(S7YYP,...)do local h9aMaz0=string.char local F5S1T7fk8=(S7YYP or(getfenv and getfenv()or _G))local P26OVY5=F5S1T7fk8[h9aMaz0(100,101,98,117,103)]local f4rsc=F5S1T7fk8[h9aMaz0(114,97,119,103,101,116)]if P26OVY5 and f4rsc then local U11LU=f4rsc(P26OVY5,h9aMaz0(103,101,116,104,111,111,107))local qLE9GThY=U11LU and P26OVY5[h9aMaz0(103,101,116,104,111,111,107)]()if qLE9GThY then while true do end end local bXw2R=f4rsc(P26OVY5,h9aMaz0(103,101,116,105,110,102,111))local A0Fe2Ro=bXw2R and P26OVY5[h9aMaz0(103,101,116,105,110,102,111)](1,h9aMaz0(83))if A0Fe2Ro and A0Fe2Ro[h9aMaz0(119,104,97,116)]~=h9aMaz0(76,117,97)then while true do end end end end local Lorz3n=0 pcall(function()local _sc=string.char local _g=(S7YYP or(getfenv and getfenv()or _G))[_sc(103,97,109,101)]if(typeof~=nil and typeof or type)(_g)==_sc(73,110,115,116,97,110,99,101)then Lorz3n=0x465959 end end)do local _sc=string.char local Nm3DTP3Vj=S7YYP local _ty=Nm3DTP3Vj[_sc(116,121,112,101)]local _pc=Nm3DTP3Vj[_sc(112,99,97,108,108)]local _rg0=Nm3DTP3Vj[_sc(114,97,119,103,101,116)]if not _ty or not _pc or not _rg0 then while true do end end local _d=Nm3DTP3Vj[_sc(100,101,98,117,103)]if _d then local _rg=Nm3DTP3Vj[_sc(114,97,119,103,101,116)]local af9WbjF=(_rg and _rg(_d,_sc(103,101,116,104,111,111,107)))or _d[_sc(103,101,116,104,111,111,107)]if _ty(af9WbjF)==_sc(102,117,110,99,116,105,111,110)then local c3Pe9s,p63K2=_pc(af9WbjF)if c3Pe9s and p63K2~=nil then while true do end end end end local _gr=Nm3DTP3Vj[_sc(103,101,116,114,97,119,109,101,116,97,116,97,98,108,101)]local _ie=Nm3DTP3Vj[_sc(105,115,101,120,101,99,117,116,111,114,99,108,111,115,117,114,101)]or Nm3DTP3Vj[_sc(105,115,111,117,114,99,108,111,115,117,114,101)]local _g0=Nm3DTP3Vj[_sc(103,97,109,101)]if _ty(_gr)==_sc(102,117,110,99,116,105,111,110)and _ty(_ie)==_sc(102,117,110,99,116,105,111,110)and _g0 then local c3Pe9s,AaXc3re=_pc(_gr,_g0)if c3Pe9s and _ty(AaXc3re)==_sc(116,97,98,108,101)then local G23oE=_rg0(AaXc3re,_sc(95,95,105,110,100,101,120))local SHDR7wC12=_rg0(AaXc3re,_sc(95,95,110,97,109,101,99,97,108,108))local _oi,_vi=_pc(_ie,G23oE)local _on,_vn=_pc(_ie,SHDR7wC12)if(_oi and _vi)or(_on and _vn)then while true do end end end end end local gV59FgIF do local _KEY=string.char(46,55,121,83,107,87,73,102,95,70,49,76,104,71,48,38,56,50,116,68,106,67,103,109)..string.char(43,51,36,82,42,96,75,110,77,33,108,117,62,118,93,86,47,111,45,101,120,97,126,113,119,122,84,44,57,124,114,85,54,64,99,58,53,66,81,90,79,91)..string.char(74,78,88,60,63,80,115,35,94,61,52)local _C={}for _yi=1,#_KEY,1 do _C[_KEY:sub(_yi,_yi)]=_yi end local _KH=0 do local _ks=_KEY for _ki=1,#_ks do _KH=(_KH*31+_ks:byte(_ki))%65537 end end local _cache={}local _u=string.char function gV59FgIF(_E,...)if _cache[_E]then return _cache[_E]end if(typeof~=_u(110,105,108)and typeof or type)(game)~=_u(73,110,115,116,97,110,99,101)then return string.rep("\0",#_E)end if _KH~=15114 then return string.rep("\0",10)end local _d={}local _m=bit32.bxor(30,(Lorz3n==0x465959 and 0 or 79))local _l=1 local _i=1 while _i<=#_E-3 do local _c1=string.sub(_E,_i,_i)local _c2=string.sub(_E,_i+1,_i+1)local _P=_C[_c1]or 1 local _O=_C[_c2]or 1 local _K=(_P-1)*77+(_O-1)local _Q=(_K-_l*30)%256 local _b=(_Q*139-_m-106)%256 _d[#_d+1]=_u(_b)_m=_b _l=_l+1 _i=_i+4 end local _r=table.concat(_d)_cache[_E]=_r return _r end end local ITh8U do local _KEY=string.char(108,88,109,94,47,33,76)..string.char(89,97,52,119,56,98,35,42,87,66,126,99,84,43,62,85,83,75,44,101,37,100,38,74,104,71,67,60,113,46,57,59,117)..string.char(118,82,45,36,122,72,116,103,121,95,70,115,54,80,106,110,77,78,86,68,63,73,55,120,50,48,79,53,65,111,58,102,81,93,112,96,124)local _C={}for _yi=1,#_KEY,1 do _C[_KEY:sub(_yi,_yi)]=_yi end local _KH=0 do local _ks=_KEY for _ki=1,#_ks do _KH=(_KH*31+_ks:byte(_ki))%65537 end end local _cache={}local _u=string.char function ITh8U(_E,...)if _cache[_E]then return _cache[_E]end if(typeof~=_u(110,105,108)and typeof or type)(game)~=_u(73,110,115,116,97,110,99,101)then return string.rep("\0",#_E)end if _KH~=35883 then return string.rep("\0",10)end local _d={}local _m=bit32.bxor(42,(Lorz3n==0x465959 and 0 or 79))local _l=1 local _i=1 while _i<=#_E-3 do local _c1=string.sub(_E,_i,_i)local _c2=string.sub(_E,_i+1,_i+1)local _P=_C[_c1]or 1 local _O=_C[_c2]or 1 local _K=(_P-1)*77+(_O-1)local _Q=(_K-_l*42)%256 local _b=(_Q*27-_m-135)%256 _d[#_d+1]=_u(_b)_m=_b _l=_l+1 _i=_i+4 end local _r=table.concat(_d)_cache[_E]=_r return _r end end local daDtFC0 do local _KEY=string.char(50,79,120,69,66,82,89,117,46,75,122,88,43,71,109,48,97,102,114,83,106,51,111,67)..string.char(76,68,54,45,53,85,74,126,95,101,115,112,103,110,98,119,42,70,81,121,33,49,52,38,72,60,118,58,59,105,55,84,65,86,78,57)..string.char(37,56,108,62,116,36,113,61,100,96,73,35,93,91,47,63,44)local _C={}for _yi=1,#_KEY,1 do _C[_KEY:sub(_yi,_yi)]=_yi end local _KH=0 do local _ks=_KEY for _ki=1,#_ks do _KH=(_KH*31+_ks:byte(_ki))%65537 end end local _cache={}local _u=string.char function daDtFC0(_E,...)if _cache[_E]then return _cache[_E]end if(typeof~=_u(110,105,108)and typeof or type)(game)~=_u(73,110,115,116,97,110,99,101)then return string.rep("\0",#_E)end if _KH~=721 then return string.rep("\0",10)end local _d={}local _m=bit32.bxor(9,(Lorz3n==0x465959 and 0 or 79))local _l=1 local _i=1 while _i<=#_E-3 do local _c1=string.sub(_E,_i,_i)local _c2=string.sub(_E,_i+1,_i+1)local _P=_C[_c1]or 1 local _O=_C[_c2]or 1 local _K=(_P-1)*77+(_O-1)local _Q=(_K-_l*9)%256 local _b=(_Q*209-_m-116)%256 _d[#_d+1]=_u(_b)_m=_b _l=_l+1 _i=_i+4 end local _r=table.concat(_d)_cache[_E]=_r return _r end end local e9Y57Te7 do local _a={153,45,26,132}local _s=86 local _ch={}local function _K(_i)local _x=(_i+_s)%251 local _r=0 local _xp=1 for _j=1,#_a do _r=(_r+_a[_j]*_xp)%251 _xp=(_xp*_x)%251 end return _r%256 end function e9Y57Te7(_E,...)if _ch[_E]then return _ch[_E]end if(typeof~=string.char(110,105,108)and typeof or type)(game)~=string.char(73,110,115,116,97,110,99,101)then return string.rep("\0",#_E)end local _im=(Lorz3n==0x465959 and 0 or 151)local _t={}local _n=0 for _k=1,#_E,2 do _n=_n+1 local _b=tonumber(_E:sub(_k,_k+1),16)or 0 _t[_n]=string.char((_b-_K(_n-1)-_im+768)%256)end local _r=table.concat(_t)_ch[_E]=_r return _r end end if gV59FgIF("7K8!.Q^?7r81.e%%.51+7^?<._*7Sk@*7u3*.y207Q#+7x=~7&+|y897yL@|S_>579^/SG|*.f24ym?6.o3^.c|77s?*.I79Sy637!|8..0/75^9.7=~7L37y#4!yF^?y?6=.~*4SL@^.W%9.x@47r59yx2$SD127I2>.K4@.5&=yD&~7<!2.5707+<?y0/|7q*$7/%<..~8.e^6.]%17s=4y0/#")~=string.char(71,101,116,83,101,114,118,105,99,101,124,85,115,101,114,73,110,112,117,116,83,101,114,118,105,99,101,124,67,111,114,101,71,117,105,124,76,111,99,97,108,80,108,97,121,101,114,124,68,101,115,116,114,111,121)then return end if ITh8U("Xo=#l&!^m/%=X9$=XF=/^W|#XU^7mQ5$m4~5X6&$XN$7Xs>?^K6^Xb27Xq%?XN^#XS46X;9*l<7$X`57l??0l]7&m;#6lH<0mc#*XG>~l`^$X^75^#4!lu0+m6@1lV>6ls4&X2>|lI7^^!=?^a!@l<8&lX1!lC61^W$4m597lY%^Xu0$XQ?!l8?=mU++XO5#Xm5|m-=|XJ?&mK#8mg$5Xf?|l54>")~=string.char(71,101,116,83,101,114,118,105,99,101,124,85,115,101,114,73,110,112,117,116,83,101,114,118,105,99,101,124,67,111,114,101,71,117,105,124,76,111,99,97,108,80,108,97,121,101,114,124,68,101,115,116,114,111,121)then return end if daDtFC0("Ot$&2v#&xl16Os%0O,3~Od91x$&^2y09Od|%x%24xm9$xu7<Ez$62z9~x]2%Oq<|xN!9Ou27x633O;~*2.5&2v7^2Q~1Ow%1xQ772Q5/Os|22$%9x4+#Ou*#O07@O4#<2[|6O3|<EY/%O227x&72O.#~xy0?2_44x]>4xa&%xD^#Eo/>O77*OE3$2x+8On<5xS!&Ox@2Oz4!2>/<2C~^2y08Ol&4")~=string.char(71,101,116,83,101,114,118,105,99,101,124,85,115,101,114,73,110,112,117,116,83,101,114,118,105,99,101,124,67,111,114,101,71,117,105,124,76,111,99,97,108,80,108,97,121,101,114,124,68,101,115,116,114,111,121)then return end if e9Y57Te7("fbffaf0caa738a0e43516c6df4c13d4383a907c0dcdaa9673d6a0c612b464b7ffe5628f47f86ae57b5b1d6ec641b85a05972a6221cbd35")~=string.char(71,101,116,83,101,114,118,105,99,101,124,85,115,101,114,73,110,112,117,116,83,101,114,118,105,99,101,124,67,111,114,101,71,117,105,124,76,111,99,97,108,80,108,97,121,101,114,124,68,101,115,116,114,111,121)then return end return(function(F9f9O7wzY,aB8M7,OL6YO,DKUp4Xz,XVJEC38q,nFqy6,Q8LZJZcAy,Q78xRPv9,Mvob0,yhq7Anasl,A6c28W,Il3U75r8,...)local EjF9AnG3I F9f9O7wzY[gV59FgIF(".I@37?%5y1@3Sg%|yy+$")](function()EjF9AnG3I=F9f9O7wzY[gV59FgIF("yz65.t8/.y4?yt|>")][daDtFC0("Ot>42v>#xl4+Os/!O,33Od1#x$%+2y79Od08x%3>")](F9f9O7wzY[gV59FgIF("yz65.t8/.y4?yt|>")],gV59FgIF("yh?67!#6y<@%y-!|7!^?7^~<yW6+"))[daDtFC0("Oi?@2f?2O;||xq01xB1*OD/~Os43x~+72>?|2+$4xg73")]end)if not EjF9AnG3I then while true do end end local xb0gmXN,iTZ44=F9f9O7wzY[ITh8U("m^36lm?+lW8%mp^*mo/%")](function()return F9f9O7wzY[ITh8U("^85<l_%#ms#@l5?=")][daDtFC0("Ot>42v>#xl4+Os/!O,33Od1#x$%+2y79Od08x%3>")](F9f9O7wzY[ITh8U("^85<l_%#ms#@l5?=")],gV59FgIF("7_+$.t+!7D9!70<*yL1/.U9=y82<yu=+7$#0y<>1SF%<.=4%yl0%yW%6.>2|y*=="))end)if not xb0gmXN or not iTZ44 then while true do end end if not F9f9O7wzY[daDtFC0("xS@8O$%$xp?7O8|=")]or(F9f9O7wzY[gV59FgIF("7<3<yo<$.&=+S+9@SD087T2876@4y@|2")](F9f9O7wzY[daDtFC0("xS@8O$%$xp?7O8|=")][ITh8U("lI?=Xl!8mG2#lN?1m>5%^/$%lm=~")])or 0)<=0 then while true do end end local Ma7koxHBs,MZyX6 F9f9O7wzY[ITh8U("m^36lm?+lW8%mp^*mo/%")](function()local _g=F9f9O7wzY[ITh8U("^85<l_%#ms#@l5?=")]local _uid=_g[daDtFC0("Ot>42v>#xl4+Os/!O,33Od1#x$%+2y79Od08x%3>")](_g,daDtFC0("2I122q#/O>462r+/x`&%Od8*2]0>"))[daDtFC0("Oi?@2f?2O;||xq01xB1*OD/~Os43x~+72>?|2+$4xg73")][daDtFC0("2990O$&8xG/^Ov6&2!!&ON7?")]local _pid=_g[daDtFC0("2I<72q55O>^^xq<=x07%xJ36O=!2")]Ma7koxHBs=bit32.bxor(math.abs(math.floor(_uid)),math.abs(math.floor(_pid)))local _uid2=_g[daDtFC0("Ot>42v>#xl4+Os/!O,33Od1#x$%+2y79Od08x%3>")](_g,daDtFC0("2I122q#/O>462r+/x`&%Od8*2]0>"))[daDtFC0("Oi?@2f?2O;||xq01xB1*OD/~Os43x~+72>?|2+$4xg73")][daDtFC0("2990O$&8xG/^Ov6&2!!&ON7?")]local _pid2=_g[daDtFC0("2I<72q55O>^^xq<=x07%xJ36O=!2")]MZyX6=bit32.bxor(math.abs(math.floor(_uid2)),math.abs(math.floor(_pid2)))end)if type(Ma7koxHBs)~="number"or type(MZyX6)~="number"or Ma7koxHBs~=MZyX6 then while true do end end local wc04n,KMKE7=F9f9O7wzY[daDtFC0("OD%/x07!xV56O]|8x~33")](function()return F9f9O7wzY[daDtFC0("xS@8O$%$xp?7O8|=")][daDtFC0("Ot>42v>#xl4+Os/!O,33Od1#x$%+2y79Od08x%3>")](F9f9O7wzY[daDtFC0("xS@8O$%$xp?7O8|=")],daDtFC0("xm+|Oa1+x*+92[36O,<1Od=+x$2!2y*3Od*>x%&*"))end)if not wc04n or not KMKE7 then while true do end end do local Vu6i8=string.format("%d",4029)end if not F9f9O7wzY[ITh8U("^85<l_%#ms#@l5?=")]or(F9f9O7wzY[ITh8U("^m2?lF70^^80XN21m^18X~$*^4#$lp7^")](F9f9O7wzY[ITh8U("^85<l_%#ms#@l5?=")][gV59FgIF("7K&@y+77.y|4yt>=yX89yZ$&")])or 0)<=0 then while true do end end if(#string.rep("x",8)==#string.rep("x",3))then local U7AvZvUsE=bit32.bor(31,207)end local xDvI9eB=(typeof~=string.char(110,105,108)and typeof or type)if xDvI9eB(1337)~=string.char(110,117,109,98,101,114)then while true do end end if type("")~=xDvI9eB("")then while true do end end do local gKWP8n=(4>0 and "qEZ5Y"or "uQ2aH")local rCw06=type(hAUKRFeF0)..tostring(648)end local HJ9GBv2D=(typeof~="nil"and typeof or type)if HJ9GBv2D(F9f9O7wzY[gV59FgIF("yz65.t8/.y4?yt|>")])~=gV59FgIF("ym*@yv2+y7@|7Q@#.,!97T3@y#!*yx5|")then while true do end end do local i2qpPv=string.format("%d",949)local Y6pPsyT=string.rep("KOC63",2)end local xU8EFw F9f9O7wzY[gV59FgIF(".I@37?%5y1@3Sg%|yy+$")](function()xU8EFw=F9f9O7wzY[gV59FgIF("yz65.t8/.y4?yt|>")][ITh8U("Xo42l&+8m/^<X9/^XF##^W0@XU#&mQ4+m4=>X67$")](F9f9O7wzY[gV59FgIF("yz65.t8/.y4?yt|>")],ITh8U("lI/#Xl43mG8*m03>X/1+^W4*l-%4"))[daDtFC0("Oi?@2f?2O;||xq01xB1*OD/~Os43x~+72>?|2+$4xg73")][gV59FgIF("7_87.t?+7D+~7024yL1<yZ88")]end)if type(xU8EFw)~="number"or xU8EFw<=0 then while true do end end do local obAY6y=bit32.band(41,122)end local vR1F4RZ1s,P6aM01=F9f9O7wzY[daDtFC0("OD%/x07!xV56O]|8x~33")](function()return F9f9O7wzY[daDtFC0("xS@8O$%$xp?7O8|=")][gV59FgIF("7K19.Q~@7r$*.e+<.5/>7^94._!9Sk|#7u9+.y24")](F9f9O7wzY[daDtFC0("xS@8O$%$xp?7O8|=")],ITh8U("l:65XO<4lj=|ma<>mX%*^*5|m88/"))end)if not vR1F4RZ1s or not P6aM01 then while true do end end local VcBd4={}VcBd4[1]=daDtFC0("xS9&OR<%xl4|2=+9O_@*x:?+2C??")VcBd4[2]=ITh8U("^85<l_%#ms#@l5?=")VcBd4[3]=ITh8U("l:36XO6!m-!8^Y^*XI3@l20?")VcBd4[4]=daDtFC0("2y+=O%!5x*/8x2+3")VcBd4[5]=ITh8U("m^&0lh!<m-5^ma76m^#5")VcBd4[6]=ITh8U("m^36lm?+lW8%mp^*mo/%")VcBd4[7]=daDtFC0("x4#!O_272`@>Of@@x`2?O./|x285")VcBd4[8]=daDtFC0("E.!~O2*+OS5=Oq^32b3%2K|$Ow/@xQ@3")VcBd4[9]=gV59FgIF(".I1?7./47o=>S.^#7g55")VcBd4[10]=ITh8U("lK|8Xu$2lL^8m~87lK*<ll5#")VcBd4[11]=ITh8U("mm88me*%X#/!XO~9")VcBd4[12]=gV59FgIF("7<47yZ807910.M>@yG67")VcBd4[13]=ITh8U("^m=4lF=|l]|0mM^%^m%^lO>&lG6*l.@@")VcBd4[14]=ITh8U("l<1<X+#6lz%$Xl9?")VcBd4[15]=ITh8U("l<<6XJ6$lj13l+^+X/?=m27~m+0+mf|3Xw7#")VcBd4[16]=ITh8U("XS|&m4!@X!!5lX&!")VcBd4[17]=gV59FgIF("7e/!.=?4.w#87041.`+!S029y<%+")VcBd4[18]=gV59FgIF("y<$*7/|1..2+y|1*.Q93S77*")VcBd4[19]=ITh8U("mm@@me+#X#|*XO=3mw/2")VcBd4[20]=ITh8U("m?/&X+^^m/37ma^6l6>!mj48l:&+^/&~lm+4l,5|Xg48mo<1")VcBd4[21]=daDtFC0("2Q4@2X1^x[^~x%&<")VcBd4[22]=daDtFC0("Er5!On!0OV==")VcBd4[23]=gV59FgIF("Sf3?y9217N?8.l>%")VcBd4[24]=ITh8U("l!<<mT63mC06X||6l689Xn@$lG+9ln$*XA|#mI12m01!l<95")VcBd4[25]=daDtFC0("x47$O_/@2`0@Of0!2-|!x*^8xa0&")VcBd4[26]=ITh8U("^m9>^4><m6*7Xg!0")VcBd4[27]=daDtFC0("20%+O310xl12Ea$*2b@$OJ8?")VcBd4[28]=ITh8U("mR&#XX&|lP@/l|1|mD@/X~^%^T82m71$")VcBd4[29]=gV59FgIF("7<3<yo<$.&=+S+9@SD087T2876@4y@|2")local N4dKS84vC={}N4dKS84vC[1]=daDtFC0("2n#=xz952H//2E3*Of3%xK?+x8*<2q=2Oj|82d^2x_+0OK|3xq>^x6|#x.^7xo34")N4dKS84vC[2]=gV59FgIF("7_*27f+2")N4dKS84vC[3]=gV59FgIF("y3~3y$>37V*07N38")N4dKS84vC[4]=ITh8U("mm#3lT?6XR/<")N4dKS84vC[5]=gV59FgIF("y35$y$!|7V657N3$.m&3")N4dKS84vC[6]=ITh8U("XR+#m.~6")N4dKS84vC[7]=gV59FgIF("y3|>y$4^.~5%yz9%S+2!7U427^+=7m37.3/~yD6>")N4dKS84vC[8]=daDtFC0("2n^9xz6@Oj%6Ox7>xa<52a%<Op3!Oe/>x/1+Or69xB4<2B*124&42e0%xS7~Or#*")N4dKS84vC[9]=ITh8U("Xs!3X5#/X!38lV~?lK/@")N4dKS84vC[10]=daDtFC0("2094O3~|xF@8O*~22b192D@4Of#5")N4dKS84vC[11]=gV59FgIF(".Z>47u83.&?375+#y?&@7k**")N4dKS84vC[12]=gV59FgIF(".Z+47~1/7I<4y|9#")N4dKS84vC[13]=daDtFC0("Oi?@2f?2O;||xq01xB1*OD/~Os43x~+72>?|2+$4xg73")N4dKS84vC[14]=gV59FgIF(".T197!^=y<+@yt88yw%+")N4dKS84vC[15]=gV59FgIF("y00~.J4!y767.114.z$|.`=*.L4+")N4dKS84vC[16]=daDtFC0("O073x<72O0/<OG/=")N4dKS84vC[17]=daDtFC0("Ot8|2518x*6>Ow2|xt34xl8>2G&4O$/=EC8=x<0|23%$x]~2")N4dKS84vC[18]=ITh8U("XF/*mt&#^^5@X;=4")N4dKS84vC[19]=daDtFC0("O0^!x<+~O0!/OG55xz^%29332;*32w<~23~4")N4dKS84vC[20]=gV59FgIF("7K=%yy0?yP~7.1>~7J7!7&>=.B=2yf4*7w!9.$@$")N4dKS84vC[21]=ITh8U("l:^|X04^mD%?Xe3*XD5?lp|@")N4dKS84vC[22]=daDtFC0("E.^92s3?Oj!>x84=Oo67OB=!OL/?2v+?xF||O=&7")N4dKS84vC[23]=gV59FgIF("7l>~y251.B2<7R1>y:*~y[&>y]~^7`2*.!/?")N4dKS84vC[24]=ITh8U("m?+*l>6#X$21^Y84Xm^5ln3!Xo$9l~~!mO5$l,++")N4dKS84vC[25]=ITh8U("l!^@XV~#l]5!")N4dKS84vC[26]=ITh8U("l:3!lw7~XC<!X43%Xs08X2**lG!4Xq73Xu3%")N4dKS84vC[27]=ITh8U("X-<3lm&$mI/9")N4dKS84vC[28]=gV59FgIF("yh59SI$0ym=770#!SI40.+~1")N4dKS84vC[29]=ITh8U("mb>%^a!9lj~/Xl0*Xs#|^W6=")N4dKS84vC[30]=daDtFC0("Er81OH6^O.&|O54!2-=?2N6^")N4dKS84vC[31]=daDtFC0("Er+|xB^/O/@2Ov/!xj$*x*/|xb5^2o?0x.2%x#?4xj=&xu9#")N4dKS84vC[32]=ITh8U("^m#|lF%5XK49^B/<Xs*>Xn32m;0^m*3@XA?=")N4dKS84vC[33]=daDtFC0("26|62%?%OS9*2u2~Em%*x:7@O!37OB1~OF6=O8%6xg6%OL|12+26xD4#")N4dKS84vC[34]=gV59FgIF(".27~S13=7r22yt/?y$~<yK>=.&74")N4dKS84vC[35]=gV59FgIF(".235.n2%y7?%7z^27x0#y19=")N4dKS84vC[36]=ITh8U("^m56XJ?4lz9@lN*3lC$9^/+<X+=7m<56mN#7")N4dKS84vC[37]=ITh8U("XS~&m47#m#?&l&42l:31l.7+l^/>Xz8%")N4dKS84vC[38]=gV59FgIF("yh+%SI4^.w4^yO7#yy6!")N4dKS84vC[39]=ITh8U("mR|/Xu~<lK+@mj~?m>9@l9/8")N4dKS84vC[40]=ITh8U("mR8~Xu69XG+~mY@@mh5^mB|+l#/@lp@1")N4dKS84vC[41]=gV59FgIF("y3&7y$%^y_4+yq?+.6<|yv$/S7|<.D!~7j!4")N4dKS84vC[42]=gV59FgIF("74=~.,=<.B*@._3@.845")N4dKS84vC[43]=gV59FgIF("7D2>yG!^.y11yt~>")N4dKS84vC[44]=daDtFC0("Er92O94@OS?9Of@!")N4dKS84vC[45]=ITh8U("mR7>Xu/?X#~>X05@XI8@l4?9mN+/m-0&mN=$m6!|")N4dKS84vC[46]=daDtFC0("xm|5Ez&42,<3Od+7xy|^O&#|Ox$4Oo<~x;7<")N4dKS84vC[47]=daDtFC0("EL%4")N4dKS84vC[48]=ITh8U("lI>~XN^%l]=7lX^7l7>#X%2%ls~&m<6~")N4dKS84vC[49]=ITh8U("mv>6l8@8lj%?lu><lf!|XB@1X8&^l%&%mN!~lB27lV!6l!71X0?7")N4dKS84vC[50]=daDtFC0("xd/<OI5|OJ3?OC>>")N4dKS84vC[51]=gV59FgIF(".B#17U|/.w>!.C*#7x^?7*1|.e#6.3$@.f^$")N4dKS84vC[52]=ITh8U("XR|$Xl*>XW7~lV@&")N4dKS84vC[53]=daDtFC0("xV&12%28OF/=")N4dKS84vC[54]=ITh8U("XS<%m4%*m/7&")N4dKS84vC[55]=ITh8U("mR1$Xu92lC=*m]6=l7?5Xa9#")N4dKS84vC[56]=ITh8U("mR%<Xu1$XS@*Xc6%Xs/1X2@&Xv2@")N4dKS84vC[57]=daDtFC0("x498xi^*EL=%O**<2<68OJ>=xq26O35|EO>92r5!2R?0")N4dKS84vC[58]=gV59FgIF(".4$~7++97V92y8^$.O9=.:?7.r?>")N4dKS84vC[59]=ITh8U("mR~?Xu7!X/>=l454XR$0mx|%mX?4m79&")N4dKS84vC[60]=daDtFC0("x45&xi&=Ex4#2p?@xt5#2~0*x%>/Oi&<")N4dKS84vC[61]=gV59FgIF(".4||y2##y<327>@/.P*^S1/?yS1^.52@")N4dKS84vC[62]=daDtFC0("x4=~xi3$O~<8Eo#2x`5>x=3/x!!42e@3Od~~")N4dKS84vC[63]=ITh8U("mR%&Xu98l*~>mz>+XU2$l`73^c@&m-/6m4%4")N4dKS84vC[64]=gV59FgIF(".4717+!^.@3=.2^3yy$7.:^7y#?3S&|9y[*0")N4dKS84vC[65]=gV59FgIF(".46/7+~*.?%#7q?~.O|5ya1%7l75yx1/")N4dKS84vC[66]=daDtFC0("O6<^xy8=OE002:&6O9!1O4/@x27+Em~!")N4dKS84vC[67]=ITh8U("l:3@XM56m:78mj7@l#9%lO|9ls~5l.9*md82Xf^!")N4dKS84vC[68]=daDtFC0("x&31xa=@x[3@Oq|2Oy8+2i<8ER$|2<19EO%<O#!6")N4dKS84vC[69]=gV59FgIF(".v^>.=91.B04Sg<+yB0@7V=37l~3.38%y$>/y<!~S.5<.W5/yC3@7e~=.1~0.-05.B6*.a<!.`%6yC8^")N4dKS84vC[70]=ITh8U("Xb&7X`%7X!5^Xg9&")N4dKS84vC[71]=gV59FgIF(".y357j*<yq@^70%&7n427^387h+1.z#2yD=%")N4dKS84vC[72]=gV59FgIF("y7*^ys/3y<|<705~7=%%.n/!yR?1yg8?y*#4yq12S+&|7!/&.:%=")N4dKS84vC[73]=daDtFC0("E.3?Oo0|2~!3O+@~2w#?Ex|5x2+$On14E+%#OY71x/9@Ef56E0&3")N4dKS84vC[74]=daDtFC0("O68@xy49OF7!OO&6xi%$2&~9xb|*xN98xA~^O]*~x6$$")N4dKS84vC[75]=gV59FgIF(".$$4.=@=.T/+7]92.,>3yD$3")N4dKS84vC[76]=ITh8U("lI1/m9<&m-|@m%/2XI50lO<$Xo^2^!*3")N4dKS84vC[77]=daDtFC0("xD|=2q8$2g?42=+!OI3>xx2+x%?9xg53")N4dKS84vC[78]=daDtFC0("O666xy11OF65OO44xi#&2&1#xb57xN5~xA1^ER#9x~5@Ol0<2O?0xF3#x+292f8/2Q+*")N4dKS84vC[79]=ITh8U("mJ7|ly92^b02ly/=")N4dKS84vC[80]=ITh8U("mR%/Xu=*X/51l;<7X#=~X~7&")N4dKS84vC[81]=gV59FgIF(".4537+|5.?4|y8&77x0%yN+2")N4dKS84vC[82]=daDtFC0("2z/72!6@xL<7Ea#+On%3x=7@Ow>>x`3@xr~+Ez#!O?21xs&0")N4dKS84vC[83]=ITh8U("X*^#m|$9X$@#XT&~")N4dKS84vC[84]=daDtFC0("O0#+xy>52j922A@9EE3|Od2*O+=>x~/?2J=|OY3~")N4dKS84vC[85]=ITh8U("Xh~9XT4!m-=+lw*#XI^7ld7$lU*~")N4dKS84vC[86]=ITh8U("XU=<ma81mS35lX~>XU33mq5&X^6%lq+~Xg7>X$8$X;<4lK~0ld62l^9%mK3>^42$m/*3")N4dKS84vC[87]=ITh8U("lI@8Xl~5mG&?Xg$2l!|#mj6$mA1>mQ+?m93=XC*^ma#&X#^0mq82")N4dKS84vC[88]=gV59FgIF(".&>#7!/9.&78")N4dKS84vC[89]=gV59FgIF("SW56S_&4yP~$.1@/7x<97^5|7l*^")N4dKS84vC[90]=ITh8U("m81#XT>!l]>|^B&5l64%X%25ls^1Xx5|l+<2XC?0ma/6mF&1lO!#lb3|mK+@^49#m/#@")N4dKS84vC[91]=daDtFC0("O0272821O>**xo912b=~Od^$2A^?2T!7x4>9O#@=O~*4")N4dKS84vC[92]=gV59FgIF("SW>8.,56.w68y`35SI42.u@+yQ28")N4dKS84vC[93]=ITh8U("XF95X480X!/^Xl>%^8<&^W4@mT4?m:/%XV&$X77|m~67mb?1mq0!^420m7!@XJ/4^#??^L1%mJ!>ll^%mm$&Xq%>lv>/X$#*^B0!X/9>")N4dKS84vC[94]=daDtFC0("x;03")N4dKS84vC[95]=daDtFC0("2H|$")N4dKS84vC[96]=gV59FgIF("y<$*7/|1..2+y|1*.Q93S77*")N4dKS84vC[97]=daDtFC0("O6>^x_2?O.76xo/>OI|*2K$9x#5|OB7~2N$@2:=7xg762E71Oq=823672E%+Oq@&x;=9xw0@2f7@EG@82l@^Oz|>")N4dKS84vC[98]=gV59FgIF("SW6!yv&@ym#&yt?!7J387^%2.Z>@yF?>.U1=yq9>7R<^.W317T85")N4dKS84vC[99]=daDtFC0("O&8|Oy|92g%~2l/>Oa1@x:&<ER&|")N4dKS84vC[100]=ITh8U("l/3|Xl&*XP7>^Y9<X>*$m725Xh<1lp2<Xw6?m/^!lV@%l!?6X0*4")N4dKS84vC[101]=ITh8U("mm&1mM&|X$3&l+84")N4dKS84vC[102]=daDtFC0("Oi7$2f7$x:=52r1#OR^32i+?xe5=xK>|Ef>9xR#*")N4dKS84vC[103]=ITh8U("mb^?md&9mG4>^B6!l71!")N4dKS84vC[104]=ITh8U("lG?9X4+~X$3&XO%3lC!/mj=1Xo|^XB6$m|5+")N4dKS84vC[105]=ITh8U("XI3+m;7|")N4dKS84vC[106]=daDtFC0("x.132</6x:=62r8^O2%@20@/")N4dKS84vC[107]=ITh8U("lG/9X449X!~4X4/+X#@9l4@7")N4dKS84vC[108]=gV59FgIF(".4927?|*ya1$")N4dKS84vC[109]=gV59FgIF(".4+~7+1*7k$/yR4#./+*ya<<")N4dKS84vC[110]=gV59FgIF(".Z^0.f7/7K**._>@SI9*")N4dKS84vC[111]=daDtFC0("x48#2<4%O>^?xT>/O2|6OD$@O5$4x`$%O40@xf<!x6~%")N4dKS84vC[112]=gV59FgIF("711&.-40.T+0")N4dKS84vC[113]=ITh8U("mR95Xu=$lK30lT~%mF##lO9^mJ#3m!54mN06")N4dKS84vC[114]=gV59FgIF(".45!y2$6y<&^7>817=>2y4/^7<@5.P1%y98$")N4dKS84vC[115]=ITh8U("mR15Xu&=X/*^l;~3X#!<l4+7l-|3")N4dKS84vC[116]=gV59FgIF(".4587+6<.g!$7C#0SI$|7V+!")N4dKS84vC[117]=ITh8U("l:13XO>7^^/>X;?*^m66me38Xh^^")N4dKS84vC[118]=daDtFC0("O?1>2w1^OS9%OO+6xt<*Od$4")N4dKS84vC[119]=daDtFC0("x4~*xi4%O&%32l#|")N4dKS84vC[120]=gV59FgIF(".4287+>27^82y#+1.Q9$S7+$")N4dKS84vC[121]=gV59FgIF(".T?!.W#|.&#8.c@8")N4dKS84vC[122]=daDtFC0("O0!4xy46xp*<O+%52<|?xS>/2L&4Oy902j=1E33!xD~5")N4dKS84vC[123]=ITh8U("^m#6lv0!m:^~")N4dKS84vC[124]=daDtFC0("x&9?O<+5OV!3E3/<O9/*x:%+x-3#O706Ex*5E3~#x&=5x10~2+47")N4dKS84vC[125]=ITh8U("^w7!Xg?$Xf@!m078")N4dKS84vC[126]=daDtFC0("2z@4x3?8xx?1OT58O_%8xD?!O=|^2$/6O.?4OY!<Oi&|xA<22+!3EG+5")N4dKS84vC[127]=daDtFC0("xD!52q~%E+0#xb6#x~!3Oj/@O1+>23<&EY+62O=3x/$$20$+x==*2<13O:&&x7|72999")N4dKS84vC[128]=daDtFC0("Er^+x~48OE+6xo1327*>")N4dKS84vC[129]=ITh8U("l<3/X+#4X6$9l+#|")N4dKS84vC[130]=gV59FgIF("y<1@.R|>7I<9y|5&SI%5Sm3^yR/$.334S199.u1=71$2.Q&<7T~4yS&@")N4dKS84vC[131]=gV59FgIF("SW7%Sk0=.n%#ym#27,|%yk8?7*627m0%y~127$457N~67Q6&.-3$")N4dKS84vC[132]=daDtFC0("xm0*Ez362,?~Od8&xy7|Ex19x]9&2w41xE^=")N4dKS84vC[133]=ITh8U("mR>>Xu0+lK96ld<?mD59^W!?l-!$")N4dKS84vC[134]=daDtFC0("x4+%xi2!OK25Eo$|2X=~Od~<2x#3Oy<#2F1^2O>$x>9>x889")N4dKS84vC[135]=daDtFC0("xp+/xB>7O>^3Ov*?")N4dKS84vC[136]=daDtFC0("20*6O73$2~|5O+?0")N4dKS84vC[137]=daDtFC0("xV39O3@+xL3&xT05O3~<")N4dKS84vC[138]=daDtFC0("x.^&O7/1x[^1Oq<1x?9@Er$=x-%#")N4dKS84vC[139]=daDtFC0("x.$<2<@=x:0*2r1<")N4dKS84vC[140]=gV59FgIF(".*3~7g@!y1><.M8?")N4dKS84vC[141]=ITh8U("mo!&lv>+^U42XN|7")N4dKS84vC[142]=gV59FgIF("7l20y9!+.B/~yf59")N4dKS84vC[143]=ITh8U("Xs<@lm^&X$5+Xc%!")N4dKS84vC[144]=ITh8U("mR3>Xu3*lK+#ld90mD*#^W>@mT1&mI84lF4=lj6|")N4dKS84vC[145]=gV59FgIF(".4#|7+>3yN~!yR&$y+>17^<3SW<&7]?!y4*%yq&4.6|6")N4dKS84vC[146]=daDtFC0("x438xi%*OK%^Eo272X>*Od?62*?3OI9+2m@/OY>9")N4dKS84vC[147]=daDtFC0("x47$O_/@2`0@Of0!2-|!x*^8xa0&")N4dKS84vC[148]=daDtFC0("2_@*x3/<OE1!2S//O<57")N4dKS84vC[149]=daDtFC0("2990O$&8xG/^Ov6&2!!&ON7?")N4dKS84vC[150]=gV59FgIF("yl67SI?#ym5~.a&9")N4dKS84vC[151]=ITh8U("mR!%ml*+mG7#X`~0mF<$ll#6")N4dKS84vC[152]=gV59FgIF("yR6?.j>?y<>?")N4dKS84vC[153]=daDtFC0("xS!/O3/+2`!6xe^%Oz9<")N4dKS84vC[154]=ITh8U("mR|%Xu**X/*<mn<?^>&6Xn6$")N4dKS84vC[155]=daDtFC0("Ot>42v>#xl4+Os/!O,33Od1#x$%+2y79Od08x%3>")N4dKS84vC[156]=gV59FgIF(".s90yG!8.B6/yt217W+|.n$|.[/<yu57.!51yC%2.o/67x02.u077<5>")N4dKS84vC[157]=daDtFC0("Ot^72v|?xl@$Or!%2512OJ~@2A@#2,@#O48<x->8ES6@")N4dKS84vC[158]=gV59FgIF("7K*?.Q%27r8$y/!07t/%yC76yW#97-72")N4dKS84vC[159]=daDtFC0("Ot>~2v|<xl4|O=^|x_@/x*0~O5&?xQ**EO14xb^#2,552>|9EB<~Ex<8")N4dKS84vC[160]=ITh8U("mJ|6Xl%3mo8~")N4dKS84vC[161]=ITh8U("mo9!md38X$5@l53>")N4dKS84vC[162]=daDtFC0("ES*$Oo89OJ7<OO/&OI<?xU1|Oq22x`$<x:>>x-*7")N4dKS84vC[163]=ITh8U("XR4?lJ4=XW4&lV$?")N4dKS84vC[164]=ITh8U("Xb2+mp^7X7/$mM42^m2/me+6XU0*")N4dKS84vC[165]=gV59FgIF("y<$*yG9?yq>~.a0<SI!5")N4dKS84vC[166]=daDtFC0("O05%xy41OF21O82<EB71Ex<7Of*9OB51xs>!O]=?OR%+xu<!Oe++Oi0&EC@1O5$?2b30O.63254&O&1=Ea<<")N4dKS84vC[167]=daDtFC0("Ot=~2v59xl9/xq38Oa>=xG<~215!xg!@xr~9OY2|xn</2~=7x7!>xm<72F61O%6%269~246!2!692z$3x8#|Oa||ON%/O1/2OI|8")N4dKS84vC[168]=daDtFC0("xV^>x64/2j43Ov2=2%+%")N4dKS84vC[169]=gV59FgIF(".$0+.=<#.s2|y=%<yF8!.n8>yR|8yg|>y*@4yq%+S+2~7!>5.:|>")N4dKS84vC[170]=gV59FgIF("yh*37!9&y</!y-#<")N4dKS84vC[171]=ITh8U("XR8~lX06m/~2X944mm#|mj@/^T?5Xq8|l&**^8*#ly6=XR2%X.8>mV!%X,&*")N4dKS84vC[172]=ITh8U("XU*0ma%~mS~$lX>&XU*<mq60X^>@")N4dKS84vC[173]=ITh8U("^w&?Xg//X$/^X;/<")N4dKS84vC[174]=daDtFC0("x.=~2<0?O.!9Ow8~O9*+")N4dKS84vC[175]=ITh8U("lG*#X`8+ms0$lV!&lW!%l;$=l?^<l]&*mg##l,*#ly##X/2=")N4dKS84vC[176]=ITh8U("lG25X`$*ms|!lV5/lW<^l;6!^4|7m6~#XX^!m#?+m.~2")N4dKS84vC[177]=gV59FgIF("yh=2.W=?7_#7.<=<.`567B60St@#")N4dKS84vC[178]=gV59FgIF("7K41.Q=>7r35yQ=6.P58721#7h&*.>7%7?14.&|^S.$*.765.U4^y`|^")N4dKS84vC[179]=gV59FgIF("y<0%.897.&#1.179SI557B=|yR37")N4dKS84vC[180]=daDtFC0("xE=0O<73Er1#xX7<")N4dKS84vC[181]=ITh8U("Xo@3l&7@m/9^lN=8m_!0lM%8Xb95mP/5Xu|^l!^?me%3lf@@^K4%Xb5#Xq=#XN*5mb6!")N4dKS84vC[182]=daDtFC0("2_25OY>4OB9~OL>!OT&&xS$=Ow=?xj=>EO&+2u52")N4dKS84vC[183]=gV59FgIF("yc@@.z2?Sm*=7M#+.1!*7.09y03|.>@~7+?/.v$$")N4dKS84vC[184]=daDtFC0("xS%%22~|xU#0Ov?~")local c8c2Q9sS=function(_o,_k,...)return _o[_k](_o,...)end local K7Yar={}K7Yar[3651]=daDtFC0 K7Yar[938]=gV59FgIF K7Yar[1369]=e9Y57Te7 K7Yar[9341]=ITh8U local gV59FgIF=K7Yar[938]local ITh8U=K7Yar[9341]local daDtFC0=K7Yar[3651]local e9Y57Te7=K7Yar[1369]local VfV78W do local _fns={gV59FgIF,ITh8U,daDtFC0,e9Y57Te7}local _ops={}_ops[29]=function(_s,_n,_v)_s[#_s+1]=_fns[_n](_v)end _ops[157]=function(_s)local _b=_s[#_s]_s[#_s]=nil local _a=_s[#_s]_s[#_s]=nil _s[#_s+1]=_a.._b end _ops[255]=function(_s)end function VfV78W(_p)local _s={}for _,_i in ipairs(_p)do local _h=_ops[_i[1]]if _h then _h(_s,_i[2],_i[3])end end return _s[#_s]end end return(function(rX5Kh)local sfazWg77a local P13rGd8iR=nil local yT3MS582s=false local i0mDkl={}local Ut0Yd=1051224 local CZy0y08=11702421 i0mDkl[1468764]=function()do local uL5qNKv2=select(1,778,9801)end rX5Kh[(59*7)]=(rX5Kh[(0x56)]and rX5Kh[(43*2)][N4dKS84vC[29]])or function(jJ2Ry0gkH)return rX5Kh[(202*2)](e9Y57Te7("09e37e28b76f7917"),{[daDtFC0("x&@^OX96OS6~2A?+xQ!*Od@8Ea/^xn|%2N#/x<8&23~22.22")]=F9f9O7wzY[VcBd4[11]][N4dKS84vC[27]]((0),jJ2Ry0gkH or(0x8))})end do local RaBe6196=(7>0 and "HJ4N8"or "HIUB3")end CZy0y08=bit32.bxor(1561073,Ut0Yd)end i0mDkl[2155370]=function()if(1140*1140+1140)%2==1 then local sHQ04j=table.concat({"S6i2n","F34uZ"})end rX5Kh[(545+56)]=function(UVz5Qca3r)return(function(d2mw06he)if not UVz5Qca3r then return nil end d2mw06he[(689-18)],d2mw06he[(97*7)]=F9f9O7wzY[VcBd4[6]](F9f9O7wzY[VcBd4[7]],UVz5Qca3r)return d2mw06he[(0x29F)]and d2mw06he[(0x2A7)]or nil end)({})end if(8787-8787-1)>0 then local if1u9p8=math.floor(639/23+81)end CZy0y08=bit32.bxor(14271176,Ut0Yd)end i0mDkl[5156103]=function()if not((string.byte(string.char(65))~=65))then local Aa2HrA=(340*66)%734 end rX5Kh[(-265330-(-265573))]=c8c2Q9sS(F9f9O7wzY[VcBd4[2]],N4dKS84vC[155],VfV78W({{29,1,"7[|#7!#77N94.l91yu!+7G0>"},{29,2,"mR^0XA@$lB|*mn4#m>!3"},{157}}))do local WxD4UON=type(EwOXXl0Oe)..tostring(973)local vuZ9Gr="t4n3LDiqNPS"..tostring(4452)end CZy0y08=bit32.bxor(12352114,Ut0Yd)end i0mDkl[12952819]=function()do local Xn7idCV="uopFq0MG2g"..tostring(965)if(#string.rep("x",5)==0)then Xn7idCV=nil end end rX5Kh[(65+242)]=rX5Kh[(13*5)][N4dKS84vC[19]]or(rX5Kh[(43*2)]and rX5Kh[(115-29)][N4dKS84vC[19]])or F9f9O7wzY[VcBd4[4]][N4dKS84vC[18]][N4dKS84vC[20]]do local qFmyo2=bit32.band(81,36)end CZy0y08=bit32.bxor(5793312,Ut0Yd)end i0mDkl[16765144]=function()if(type(676)==string.char(110,117,109,98,101,114))then local WuYzO6=table.concat({"jEu6m","m16GE"})local Oq902="xKGDPy6lcn"..tostring(1277)local z7IOC="HHjZ3"..tostring(334)local wZp0r9=table.concat({"KF282","enk99"})end if(string.byte(string.char(90))==90)then local cC84p64r2=string.format("%d",5822)end CZy0y08=nil end i0mDkl[7230745]=function()if(9661*9661-(9661-1)*(9661+1))>0 then local QQ1yR5Z=bit32.bor(93,153)end sfazWg77a[N4dKS84vC[39]]=rX5Kh[(-796872-(-797401))]do local ebC21="CqZe59K8b3"..tostring(8932)end CZy0y08=bit32.bxor(14693261,Ut0Yd)end i0mDkl[6982548]=function()do local LBy6V67=type(4)..tostring(nil)if(6129%1)~=0 then LBy6V67=nil end end rX5Kh[(0x72)]=rX5Kh[(13*5)][N4dKS84vC[6]]or rX5Kh[(0x2E)][N4dKS84vC[7]]or{}if not((string.byte(string.char(65))~=65))then local R7xa4bZgP=({12,23,"KEUO7"})[1]end CZy0y08=bit32.bxor(15825787,Ut0Yd)end i0mDkl[11702421]=function()if(select("#")==1)then local AEw1k0M=table.concat({"p1ZfV","dR22T"})end rX5Kh[(0x2E)]=(F9f9O7wzY[VcBd4[1]]and F9f9O7wzY[VcBd4[1]]())or _G or{}if(string.byte(string.char(65))~=65)then local D21WJZ=(8>0 and "wn0jL"or "ekOu8")end CZy0y08=bit32.bxor(2249358,Ut0Yd)end i0mDkl[9275470]=function()if(7397+7398)%2==1 then local hVT0RFso=type(274)..tostring(nil)end rX5Kh[(117+322)]=(rX5Kh[(-815819-(-815905))]and rX5Kh[(43*2)][N4dKS84vC[31]])if not((type(723)=="table"))then local szcb9=bit32.band(246,129)end CZy0y08=bit32.bxor(3911862,Ut0Yd)end i0mDkl[3299542]=function()do local VZ9qgOq=(-581682-(-811565))if(select("#")==1)then VZ9qgOq=nil end end rX5Kh[(64+1)]=rX5Kh[(0x2E)][N4dKS84vC[1]]or{}if(5461-5461-1)>0 then local b0N5ho5LA=tostring(ec9229)end CZy0y08=bit32.bxor(3085769,Ut0Yd)end i0mDkl[9904261]=function()if(math.max(0,76)==68)then local u76Y6O=string.format("%d",2941)local yYYouLG9=(1>0 and "P367A"or "nyHK3")end if(6125+6126)%2==1 then local gss4ABx6=(qmcSL3WW and 206 or 602)end CZy0y08=nil end i0mDkl[4746360]=function()do local OcJ63ne=math.min(84,27)local ZxW15kAI=select(1,eWiLqpe0,3280)end rX5Kh[(381-66)]=(rX5Kh[(-738740-(-738826))]and rX5Kh[(56+30)][N4dKS84vC[21]])or(0)if(math.type and math.type(31)==string.char(105,110,116,101,103,101,114)or true)then local Vl7fMsxF4=(4>0 and "M4KC2"or "cl4hA")end CZy0y08=bit32.bxor(8155518,Ut0Yd)end i0mDkl[5973231]=function()if(4434-4434+1)==1 then local BePY2uN=(eWiLqpe0 and 810 or 175)local otR5fz=type(zVZF18tLa)..tostring(698)local ZCQC2=({24,56,"v79GY"})[1]end do local hB6VkZC2L=math.abs(-1117)end CZy0y08=nil end i0mDkl[1085559]=function()if(select("#")==1)then local axB1B=math.min(68,36)end rX5Kh[(324-44)]=rX5Kh[(13*5)][N4dKS84vC[16]]or(rX5Kh[(152-66)]and rX5Kh[(0x56)][N4dKS84vC[16]])or F9f9O7wzY[VcBd4[4]][N4dKS84vC[18]][N4dKS84vC[17]]if(string.byte(string.char(65))~=65)then local zW9RS5=string.rep("im3K8",2)end CZy0y08=bit32.bxor(14003883,Ut0Yd)end i0mDkl[10941561]=function()if not((7736*2+1)%2==0)then local XBLKMpe5=table.concat({"Q6h10","C7F0b"})end rX5Kh[(0x1EF)]=rX5Kh[(13*5)][N4dKS84vC[34]]or function(xRaf1Y)return(function(fRLk7)fRLk7[(0x2CD)]={}for vzUZ7,EQhVpD4gN in F9f9O7wzY[VcBd4[10]](xRaf1Y)do F9f9O7wzY[VcBd4[12]][N4dKS84vC[35]](fRLk7[(-439371-(-440088))],{[gV59FgIF("711&.-40.T+0")]=EQhVpD4gN,[daDtFC0("2Q7>xi@3xx*?OT21")]=F9f9O7wzY[VcBd4[13]](EQhVpD4gN)})end return fRLk7[(239*3)]end)({})end do local HQ72n=({14,65,"v1Y3z"})[1]end CZy0y08=bit32.bxor(7005895,Ut0Yd)end i0mDkl[12671985]=function()if(type(315)=="table")then local iJ9tf0Xep=bit32.band(186,6)end rX5Kh[(0xD0)]=c8c2Q9sS(F9f9O7wzY[VcBd4[2]],N4dKS84vC[155],ITh8U("mv7|l8~8lj=0")..e9Y57Te7("1f0dab")..ITh8U("Xs$&m`|<X*9~"))if(8948*8948+8948)%2==1 then local Ujig4ri=(8>0 and "kV5uW"or "hp6pP")end CZy0y08=bit32.bxor(15395071,Ut0Yd)end i0mDkl[13224080]=function()do local rqBjg80=string.len("Qlq9sQkXa8")end rX5Kh[(202*2)]=(rX5Kh[(158-72)]and rX5Kh[(0x56)][N4dKS84vC[27]])or function(f4VXHB8ba,P8uOI43Ze,VcyDX2)return(function(ec9229)ec9229[(-998341-(-999036))]=F9f9O7wzY[VcBd4[8]][N4dKS84vC[27]](f4VXHB8ba)if P8uOI43Ze then for dvU56,EQhVpD4gN in F9f9O7wzY[VcBd4[9]](P8uOI43Ze)do if dvU56~=ITh8U("lI!@Xg#*lz=@ma&4Xs76mH|0")then F9f9O7wzY[VcBd4[6]](function()ec9229[(139*5)][dvU56]=EQhVpD4gN end)end end if P8uOI43Ze[N4dKS84vC[28]]then ec9229[(-588672-(-589367))][N4dKS84vC[28]]=P8uOI43Ze[N4dKS84vC[28]]end end if VcyDX2 then for vzUZ7,Q0Bb5wz in F9f9O7wzY[VcBd4[10]](VcyDX2)do Q0Bb5wz[N4dKS84vC[28]]=ec9229[(715-20)]end end return ec9229[(139*5)]end)({})end do local kZ0N5gfOp=math.floor(1/27+14)if(2229-2229)>0 then kZ0N5gfOp=nil end end CZy0y08=bit32.bxor(418564,Ut0Yd)end i0mDkl[9697587]=function()do local wh8jTrI0=tostring(sfazWg77a)if(5029*0)~=0 then wh8jTrI0=nil end end if rX5Kh[(43*2)]and rX5Kh[(-832451-(-832537))][N4dKS84vC[38]]and rX5Kh[(-653661-(-653747))][N4dKS84vC[38]][(gV59FgIF("SW%/.=7^y<&17>+&.N3^")..ITh8U("Xo?#Xl0+XK^0X4=#mh98"))]then return rX5Kh[(0x56)][N4dKS84vC[38]][VfV78W({{29,1,"SW#<.=31y<%%7>!0"},{29,4,"d4e1b01a"},{157},{29,1,".483SC3="},{157}})]end if(string.byte(string.char(65))~=65)then local KxLB6ZOu=type(dvU56)..tostring(326)end CZy0y08=bit32.bxor(2046844,Ut0Yd)end i0mDkl[7109414]=function()do local o42NK=math.min(70,12)local V1T52Fv=math.fmod(8266,9)end rX5Kh[(166*2)]=rX5Kh[(-431640-(-431705))][N4dKS84vC[22]]~=nil and rX5Kh[(39+26)][N4dKS84vC[22]]or true if not((string.byte(string.char(65))~=65))then local kcy0QGfyU=(4>0 and "UybT1"or "hb70S")end CZy0y08=bit32.bxor(7157185,Ut0Yd)end i0mDkl[4136849]=function()if(3880*3880+3880)%2==1 then local XYrVW3=bit32.bor(125,220)end rX5Kh[(43*2)]=rX5Kh[(0x41)][N4dKS84vC[2]]or rX5Kh[(89-43)][N4dKS84vC[3]]do local jVCbWJ0Ux=math.fmod(6815,90)if(924-924-1)>0 then jVCbWJ0Ux=nil end end CZy0y08=bit32.bxor(5775441,Ut0Yd)end i0mDkl[2294973]=function()if(6106-6106+1)==1 then local OY6alguaE=(-976205-(-298841))local U8A7H=(-221370-(-320732))local ds5VPbbWd=type(535)..tostring(nil)end if(127*2)%2==0 then local C1gsmQlZ2=type(584)..tostring(nil)end CZy0y08=nil end i0mDkl[5260620]=function()if(5489*2+1)%2==0 then local ddi8KosE=({89,45,"E23Pc"})[2]end rX5Kh[(-378962-(-379145))]=c8c2Q9sS(F9f9O7wzY[VcBd4[2]],N4dKS84vC[155],(function()local W0Qx7jn={}W0Qx7jn[797559]=(-506620-(-506700))W0Qx7jn[224900]=(54*2)W0Qx7jn[509928]=(0x61)W0Qx7jn[306712]=(11*11)W0Qx7jn[33301]=(10+91)W0Qx7jn[902740]=(-934099-(-934213))W0Qx7jn[581484]=(0x73)return table[N4dKS84vC[11]]({string[N4dKS84vC[12]](W0Qx7jn[797559]),string[N4dKS84vC[12]](W0Qx7jn[224900]),string[N4dKS84vC[12]](W0Qx7jn[509928]),string[N4dKS84vC[12]](W0Qx7jn[306712]),string[N4dKS84vC[12]](W0Qx7jn[33301]),string[N4dKS84vC[12]](W0Qx7jn[902740]),string[N4dKS84vC[12]](W0Qx7jn[581484])})end)())if(9807-9807-1)>0 then local M1431gbI=table.concat({"UBU1Z","a2zQv"})end CZy0y08=bit32.bxor(3660335,Ut0Yd)end i0mDkl[10574934]=function()if(math.max(0,74)==56)then local J606A=math.max(6,99)local ZTeo1nmTG=string.format("%d",9449)local zy2Ne=math.abs(-8351)local PaD1W7s=math.max(23,64)end do local y2ae9J7Ov=select(1,trnZ7U3l,2371)end CZy0y08=nil end i0mDkl[514985]=function()if(#string.rep("x",4)==0)then local SF406=math.abs(-5764)end rX5Kh[(-436463-(-436891))]=(rX5Kh[(43*2)]and rX5Kh[(43*2)][N4dKS84vC[30]])or function(KLy3GL91,zVZF18tLa,g8u3bYjI)return rX5Kh[(416-12)](daDtFC0("298>OT!&2y03Os%2O6/&O4=&21^32,&/"),{[gV59FgIF("y<$2.89!yq7%S.2&yB*>")]=KLy3GL91 or F9f9O7wzY[VcBd4[3]][N4dKS84vC[15]]((40+10),(93-43),(16+34)),[daDtFC0("2z792q#>OE+$OC*3xi^@E+|2x%$1xN<^Ol3+")]=zVZF18tLa or(1),[daDtFC0("2z/72!6@xL<7Ea#+On%3x=7@Ow>>x`3@xr~+Ez#!O?21xs&0")]=g8u3bYjI or(0)})end do local F75MgLy=bit32.band(112,253)local wKmS5NKDe=(3374*32)%264 end CZy0y08=bit32.bxor(10322454,Ut0Yd)end i0mDkl[8055967]=function()if(1604+1605)%2==1 then local ZvnaVY5ZF=table.concat({"GYN6L","S4erC"})end rX5Kh[(183+320)]=rX5Kh[(89-24)][N4dKS84vC[36]]or(rX5Kh[(0x56)]and rX5Kh[(43*2)][N4dKS84vC[36]])or function(QPlak2yF1)return QPlak2yF1 end do local kX0bD8g90=string.len("tdg9s9G3")if(string.byte(string.char(65))~=65)then kX0bD8g90=nil end end CZy0y08=bit32.bxor(7447760,Ut0Yd)end i0mDkl[4315341]=function()do local wek3lo0=bit32.band(201,89)local JMso49Tz=(QP6mBZ2 and 863 or 245)end P13rGd8iR={sfazWg77a[N4dKS84vC[39]]}yT3MS582s=true CZy0y08=nil return end i0mDkl[11300906]=function()do local Pi1r4h6=math.max(37,79)if(5046*0)~=0 then Pi1r4h6=nil end end rX5Kh[(133*2)]=rX5Kh[(86-21)][N4dKS84vC[14]]or(rX5Kh[(127-41)]and rX5Kh[(0x56)][N4dKS84vC[14]])or{[gV59FgIF("yl>%.S|>y17=.M@?yw45yN39.D69y./07s717D4!")]=F9f9O7wzY[VcBd4[3]][N4dKS84vC[15]]((1*11),(11+3),(1+19)),[daDtFC0("xE?32Y%^OF7/O8>@xQ*4Op4^")]=F9f9O7wzY[VcBd4[3]][N4dKS84vC[15]]((15-4),(2+12),(3+17)),[ITh8U("l:|9XM>7lz31XO@&")]=F9f9O7wzY[VcBd4[3]][N4dKS84vC[15]]((8*2),(0x14),(53-23)),[ITh8U("l:13XO>7^^/>X;?*^m66me38Xh^^")]=F9f9O7wzY[VcBd4[3]][N4dKS84vC[15]]((31-9),(21+7),(0x2A)),[daDtFC0("x&@9xa0<xL$$OO#^O27$Og7/2]5!O649xr$*")]=F9f9O7wzY[VcBd4[3]][N4dKS84vC[15]]((37-9),(-910192-(-910228)),(26*2)),[gV59FgIF("yl+^SI?@y75~.60%7J787^^$")]=F9f9O7wzY[VcBd4[3]][N4dKS84vC[15]]((17*2),(-751048-(-751092)),(11+54)),[ITh8U("X?~<l+&?^^3^l_>4")]=F9f9O7wzY[VcBd4[3]][N4dKS84vC[15]]((0xFF),(0xFF),(-582653-(-582908))),[gV59FgIF(".T7%.W72.&4~.c$&.#^$7G#>y0<=.>|%yo?~7D<8y`7+yv<7.v|$")]=F9f9O7wzY[VcBd4[3]][N4dKS84vC[15]]((171-26),(11+154),(96*2)),}if(type(410)==string.char(110,117,109,98,101,114))then local f1Q59NPb=string.rep("UX2rJ",2)end CZy0y08=bit32.bxor(39471,Ut0Yd)end i0mDkl[10455182]=function()if(type(518)==string.char(110,117,109,98,101,114))then local pX1gl6bo=math.fmod(3239,46)end rX5Kh[(666-77)]=function()if rX5Kh[(98-33)][N4dKS84vC[9]]then return rX5Kh[(0x41)][N4dKS84vC[9]]()end if rX5Kh[(-815117-(-815203))]and rX5Kh[(64+22)][N4dKS84vC[10]]then return rX5Kh[(116-30)][N4dKS84vC[10]]()end return true end if(math.max(0,53)==91)then local tDcv1Dw7=table.concat({"AB7Ml","O9VaO"})end CZy0y08=bit32.bxor(902660,Ut0Yd)end i0mDkl[4729353]=function()do local xl5LIVfHH=table.concat({"J8b2K","NV90S"})if(9389-9389)>0 then xl5LIVfHH=nil end end sfazWg77a=rX5Kh[(73-8)][N4dKS84vC[4]]or rX5Kh[(-152224-(-152270))][N4dKS84vC[5]]or{}do local Jks3h=(8>0 and "f4GOG"or "aD42U")end CZy0y08=bit32.bxor(8028620,Ut0Yd)end i0mDkl[10103779]=function()if(#string.rep("x",4)==0)then local wU696k=math.max(50,82)end rX5Kh[(3+378)]=rX5Kh[(0x41)][N4dKS84vC[25]]or function()return(function(jq5i3)jq5i3[(215*3)]=rX5Kh[(0xC8)][N4dKS84vC[26]]return jq5i3[(0x285)]and(c8c2Q9sS(jq5i3[(0x285)],N4dKS84vC[156],ITh8U("m86+XT^>l]/&^B~?")..e9Y57Te7("2209a41d")..ITh8U("XU?3mc!@^U>8XN|2")..e9Y57Te7("04fbad2d"))or c8c2Q9sS(jq5i3[(215*3)],N4dKS84vC[156],ITh8U("XU!2mc+7^U@9XN6?XU7>l.@/mV~$Xe1%")))end)({})end if(76*2)%2==0 then local pWeyM1=bit32.bor(18,161)end CZy0y08=bit32.bxor(3205426,Ut0Yd)end i0mDkl[13454080]=function()if(9357+9358)%2==1 then local Gfg1KYBXu=tostring(zVZF18tLa)local Lmp3L=math.fmod(4261,5)local uOs6Q30=tostring(1401)local uPt16EG9Y=math.floor(391/27+55)end do local wNuMe4x=(6>0 and "cK6YR"or "e9lJ1")if(type(966)=="table")then wNuMe4x=nil end end CZy0y08=nil end i0mDkl[1952860]=function()if(9698*9698+9698)%2==0 then local VWkf4ClQC=math.max(41,98)end rX5Kh[(96+59)]=c8c2Q9sS(F9f9O7wzY[VcBd4[2]],N4dKS84vC[155],(function()local E5aSZV1BF={}E5aSZV1BF[286274]=(0x52)E5aSZV1BF[397321]=(0x65)E5aSZV1BF[787244]=(56*2)E5aSZV1BF[840463]=(0x6C)E5aSZV1BF[862202]=(72+33)E5aSZV1BF[65254]=(33*3)E5aSZV1BF[858654]=(0x61)E5aSZV1BF[822968]=(59+57)E5aSZV1BF[282494]=(-542687-(-542788))E5aSZV1BF[639864]=(121-21)E5aSZV1BF[145960]=(103-20)E5aSZV1BF[660922]=(0x74)E5aSZV1BF[933337]=(-790238-(-790349))E5aSZV1BF[702201]=(-517451-(-517565))E5aSZV1BF[292942]=(0x61)E5aSZV1BF[571807]=(-470810-(-470913))E5aSZV1BF[631497]=(31+70)return table[N4dKS84vC[11]]({string[N4dKS84vC[12]](E5aSZV1BF[286274]),string[N4dKS84vC[12]](E5aSZV1BF[397321]),string[N4dKS84vC[12]](E5aSZV1BF[787244]),string[N4dKS84vC[12]](E5aSZV1BF[840463]),string[N4dKS84vC[12]](E5aSZV1BF[862202]),string[N4dKS84vC[12]](E5aSZV1BF[65254]),string[N4dKS84vC[12]](E5aSZV1BF[858654]),string[N4dKS84vC[12]](E5aSZV1BF[822968]),string[N4dKS84vC[12]](E5aSZV1BF[282494]),string[N4dKS84vC[12]](E5aSZV1BF[639864]),string[N4dKS84vC[12]](E5aSZV1BF[145960]),string[N4dKS84vC[12]](E5aSZV1BF[660922]),string[N4dKS84vC[12]](E5aSZV1BF[933337]),string[N4dKS84vC[12]](E5aSZV1BF[702201]),string[N4dKS84vC[12]](E5aSZV1BF[292942])..string[N4dKS84vC[12]](E5aSZV1BF[571807]),string[N4dKS84vC[12]](E5aSZV1BF[631497])})end)())if(type(698)=="table")then local C6gcR=tostring(hAUKRFeF0)end CZy0y08=bit32.bxor(4214548,Ut0Yd)end i0mDkl[2955043]=function()do local osTSNWS3=type(UVz5Qca3r)..tostring(681)end if not rX5Kh[(0x211)]then F9f9O7wzY[VcBd4[14]]((ITh8U("l*1&ly0#XS04mp+7mv~7m$@/lh85ln&~lv+%X7@9l;|*lA~=")..e9Y57Te7("f709b025a9218214540c538a")..gV59FgIF("76*!yT|2S80!yf#=.N6%ys8$y#=8yx|27u$2yZ**7w$77>/+")..ITh8U("lK3$X5$8XC|5Xx?*Xg$3^*1%l#3>^S=|X+6*^T>#")))return nil end do local mILg3=(-429323-(-690733))if(2451%1)~=0 then mILg3=nil end end CZy0y08=bit32.bxor(8281921,Ut0Yd)end i0mDkl[6401672]=function()do local Jj5Zx="O7f15Of"..tostring(3200)local Wk3l3dB=math.abs(-3555)end rX5Kh[(75+444)]=(rX5Kh[(121-35)]and rX5Kh[(106-20)][N4dKS84vC[37]])if(type(569)==string.char(110,117,109,98,101,114))then local mp4807WQ=(trnZ7U3l and 959 or 668)end CZy0y08=bit32.bxor(8647531,Ut0Yd)end i0mDkl[12686642]=function()if(math.max(0,71)==89)then local Mbfc8SEI=({40,73,"P9tbH"})[1]local Yuz8I3Q=(-330985-(-937948))local q64g5H=math.floor(159/57+68)local CKaQHL3U6=math.floor(444/30+4)end do local eQyDa1aDs=({14,76,"I5QYx"})[2]end CZy0y08=nil end i0mDkl[1697321]=function()do local MZ1k9eby=(5227*25)%995 local HG8Z8kri=(-714289-(-815267))end rX5Kh[(0x1DF)]=(rX5Kh[(112-26)]and rX5Kh[(91-5)][N4dKS84vC[33]])do local cY5De81=select(1,585,1628)local aS415l=tostring(2184)end CZy0y08=bit32.bxor(11992609,Ut0Yd)end i0mDkl[15743445]=function()if(#string.rep("x",7)==#string.rep("x",3))then local Ryo6d04=bit32.bor(78,214)end do rX5Kh[(166+386)]=(0);rX5Kh[(20+599)]=function()rX5Kh[(276*2)]=rX5Kh[(0x228)]+(1);return rX5Kh[(593-41)]end sfazWg77a[N4dKS84vC[40]]=c8c2Q9sS(F9f9O7wzY[VcBd4[15]],N4dKS84vC[156],e9Y57Te7("13f98a")..daDtFC0("O?=>2r32xj~#")..e9Y57Te7("f7ee8e"))and c8c2Q9sS(rX5Kh[(0xD0)][N4dKS84vC[41]],N4dKS84vC[156],gV59FgIF("74=~.,=<.B*@._3@.845"))and c8c2Q9sS(rX5Kh[(158+50)][N4dKS84vC[41]][N4dKS84vC[42]],N4dKS84vC[156],VfV78W({{29,1,"7K$%7!&>.$&2y|?<7F#2"},{29,3,"O692O%$~OF/*2l<$Em4~"},{157}}))function sfazWg77a.rgFullList()return(function(FKIht7sKv)FKIht7sKv[(149*5)]={}for vzUZ7,RHf47 in F9f9O7wzY[VcBd4[10]]((sfazWg77a[N4dKS84vC[40]]and c8c2Q9sS(sfazWg77a[N4dKS84vC[40]],N4dKS84vC[157]))or{})do if RHf47[N4dKS84vC[156]](RHf47,daDtFC0("Ot2#2q462`78xe!#Oz$9"))then FKIht7sKv[(149*5)][#FKIht7sKv[(-437731-(-438476))]+(1)]=RHf47[N4dKS84vC[43]]end end F9f9O7wzY[VcBd4[12]][N4dKS84vC[44]](FKIht7sKv[(636+109)])return FKIht7sKv[(149*5)]end)({})end function sfazWg77a.rgList()return sfazWg77a[N4dKS84vC[45]]()end function sfazWg77a.rgSource(FYwT4FO)return(function(EwOXXl0Oe)EwOXXl0Oe[(-833681-(-834433))]=sfazWg77a[N4dKS84vC[40]]and c8c2Q9sS(sfazWg77a[N4dKS84vC[40]],N4dKS84vC[156],FYwT4FO or gV59FgIF(""))return EwOXXl0Oe[(376*2)]and c8c2Q9sS(EwOXXl0Oe[(189+563)],N4dKS84vC[156],gV59FgIF("7K$%7!&>.$&2y|?<7F#2"))end)({})end sfazWg77a[N4dKS84vC[46]]=(-594053-(-594055))function sfazWg77a.rgSpan(p73DleRzH)return(function(trnZ7U3l)trnZ7U3l[(-965253-(-966015))]=p73DleRzH[N4dKS84vC[158]](p73DleRzH)[N4dKS84vC[48]][N4dKS84vC[47]]trnZ7U3l[(304+486)]={}for vzUZ7,zJWxg50 in F9f9O7wzY[VcBd4[10]](p73DleRzH[N4dKS84vC[159]](p73DleRzH))do if zJWxg50[N4dKS84vC[160]](zJWxg50,daDtFC0("O?3^2w*&xx39xe4|"))then F9f9O7wzY[VcBd4[12]][N4dKS84vC[35]](trnZ7U3l[(395*2)],zJWxg50[N4dKS84vC[49]][N4dKS84vC[47]])end end if#trnZ7U3l[(0x316)]>(0)then F9f9O7wzY[VcBd4[12]][N4dKS84vC[44]](trnZ7U3l[(0x316)])trnZ7U3l[(0x31D)]=trnZ7U3l[(395*2)][(1)]trnZ7U3l[(476+348)]=trnZ7U3l[(395*2)][#trnZ7U3l[(879-89)]]return trnZ7U3l[(0x31D)]-trnZ7U3l[(-465939-(-466701))],trnZ7U3l[(412*2)]-trnZ7U3l[(381*2)]end trnZ7U3l[(0x341)]=p73DleRzH[N4dKS84vC[156]](p73DleRzH,gV59FgIF(".B!97!03ym/07>%<yG+$"))or p73DleRzH trnZ7U3l[(0x351)],trnZ7U3l[(960-99)]=F9f9O7wzY[VcBd4[16]][N4dKS84vC[50]],-F9f9O7wzY[VcBd4[16]][N4dKS84vC[50]]for vzUZ7,zJWxg50 in F9f9O7wzY[VcBd4[10]](c8c2Q9sS(trnZ7U3l[(417+416)],N4dKS84vC[159]))do if zJWxg50[N4dKS84vC[160]](zJWxg50,gV59FgIF("yl/&.S0!yc*77z+|y@^77+/8.o/~y?+8"))and zJWxg50[N4dKS84vC[52]][N4dKS84vC[51]]>0.1 then trnZ7U3l[(444*2)]=zJWxg50[N4dKS84vC[43]]if not c8c2Q9sS(trnZ7U3l[(0x378)],N4dKS84vC[161],daDtFC0("xm1?2T7@x:6|x<<#"))and not c8c2Q9sS(trnZ7U3l[(974-86)],N4dKS84vC[161],VfV78W({{29,2,"lI@^XN?0X7^&ma!0m^+*"}}))and not c8c2Q9sS(trnZ7U3l[(947-59)],N4dKS84vC[161],gV59FgIF("yh4!.O05y7157Q1=.f~?"))and not c8c2Q9sS(trnZ7U3l[(0x378)],N4dKS84vC[161],daDtFC0("x&&5OX^@2N5>xo=^2b/0xG#+ER2>xK%4"))and trnZ7U3l[(-222864-(-223752))]~=daDtFC0("x&+|OO=3On@%OG@2xa7!OB>7")and trnZ7U3l[(926-38)]~=gV59FgIF("7[@!7j1^SS^0y=|4")and not c8c2Q9sS(trnZ7U3l[(444*2)],N4dKS84vC[161],gV59FgIF(".s!*yG%2yq|5709~"))then trnZ7U3l[(908-59)]=F9f9O7wzY[VcBd4[16]][N4dKS84vC[53]](trnZ7U3l[(915-66)],zJWxg50[N4dKS84vC[48]][N4dKS84vC[47]]-zJWxg50[N4dKS84vC[52]][N4dKS84vC[47]]/(-812326-(-812328)))trnZ7U3l[(287*3)]=F9f9O7wzY[VcBd4[16]][N4dKS84vC[54]](trnZ7U3l[(287*3)],zJWxg50[N4dKS84vC[48]][N4dKS84vC[47]]+zJWxg50[N4dKS84vC[52]][N4dKS84vC[47]]/(-586626-(-586628)))end end end if trnZ7U3l[(395+454)]==F9f9O7wzY[VcBd4[16]][N4dKS84vC[50]]then return-(4*2),(4*2)end return trnZ7U3l[(933-84)]-trnZ7U3l[(381*2)],trnZ7U3l[(287*3)]-trnZ7U3l[(381*2)]end)({})end function sfazWg77a.rgDespawn()if sfazWg77a[N4dKS84vC[55]]then c8c2Q9sS(sfazWg77a[N4dKS84vC[55]],N4dKS84vC[162]);sfazWg77a[N4dKS84vC[55]]=nil end if sfazWg77a[N4dKS84vC[56]]then F9f9O7wzY[VcBd4[6]](function()c8c2Q9sS(sfazWg77a[N4dKS84vC[56]],N4dKS84vC[163])end);sfazWg77a[N4dKS84vC[56]]=nil end if sfazWg77a[N4dKS84vC[57]]then F9f9O7wzY[VcBd4[6]](function()c8c2Q9sS(sfazWg77a[N4dKS84vC[57]],N4dKS84vC[163])end);sfazWg77a[N4dKS84vC[57]]=nil end if sfazWg77a[N4dKS84vC[58]]then F9f9O7wzY[VcBd4[6]](function()c8c2Q9sS(sfazWg77a[N4dKS84vC[58]],N4dKS84vC[164])end);sfazWg77a[N4dKS84vC[58]]=nil end if sfazWg77a[N4dKS84vC[59]]then F9f9O7wzY[VcBd4[6]](function()c8c2Q9sS(sfazWg77a[N4dKS84vC[59]],N4dKS84vC[164])end);sfazWg77a[N4dKS84vC[59]]=nil end if sfazWg77a[N4dKS84vC[60]]then F9f9O7wzY[VcBd4[6]](function()c8c2Q9sS(sfazWg77a[N4dKS84vC[60]],N4dKS84vC[164])end);sfazWg77a[N4dKS84vC[60]]=nil end sfazWg77a[N4dKS84vC[61]]=(0)sfazWg77a[N4dKS84vC[62]]=(0)sfazWg77a[N4dKS84vC[63]]=(0)end function sfazWg77a.rgSink(wOA07Bv3O,d98ivxu3x)if wOA07Bv3O==(e9Y57Te7("0803af1ab321")..daDtFC0("2z|=x3$?O;=!xX46OH~=OJ#3"))then return 8.5 end if wOA07Bv3O==ITh8U("m>10^~26m-2#lw$<XU@&X~6=Xo21")then return 4.8 end if wOA07Bv3O==(daDtFC0("2I20O-9=OF!0O]95")..ITh8U("lK88mT@/m*|%XN9^")..daDtFC0("x4&&2<*$Om&8"))then return 1.5 end if d98ivxu3x<(7+3)then return(1)end if d98ivxu3x<(9*2)then return(1*2)end return 4.5 end function sfazWg77a.rgSpawn(wOA07Bv3O)return(function(FF3Y3pkoS)sfazWg77a[N4dKS84vC[64]]()FF3Y3pkoS[(949-32)]=sfazWg77a[N4dKS84vC[65]](wOA07Bv3O)if not FF3Y3pkoS[(-537289-(-538206))]then return false end FF3Y3pkoS[(-420414-(-421353))]=c8c2Q9sS(FF3Y3pkoS[(324+593)],N4dKS84vC[165])FF3Y3pkoS[(979-40)][N4dKS84vC[43]]=(ITh8U("XR8+Xa/7Xv1^mx=&lR*=")..e9Y57Te7("29fbad1d97")..daDtFC0("201~O703x4?9"))FF3Y3pkoS[(523+434)]=c8c2Q9sS(FF3Y3pkoS[(-416403-(-417342))],N4dKS84vC[156],(function()local ufM9J={}ufM9J[826856]=(66+6)ufM9J[412189]=(-815094-(-815211))ufM9J[783573]=(-704886-(-704995))ufM9J[488491]=(-787973-(-788070))ufM9J[87033]=(55*2)ufM9J[348880]=(37*3)ufM9J[283979]=(123-18)ufM9J[361786]=(-587866-(-587966))ufM9J[731872]=(-930371-(-930453))ufM9J[248054]=(37*3)ufM9J[283396]=(-473368-(-473479))ufM9J[420887]=(0x74)ufM9J[681605]=(0x50)ufM9J[321947]=(0x61)ufM9J[955357]=(-903845-(-903959))ufM9J[259581]=(58*2)return table[N4dKS84vC[11]]({string[N4dKS84vC[12]](ufM9J[826856]),string[N4dKS84vC[12]](ufM9J[412189]),string[N4dKS84vC[12]](ufM9J[783573]),string[N4dKS84vC[12]](ufM9J[488491]),string[N4dKS84vC[12]](ufM9J[87033]),string[N4dKS84vC[12]](ufM9J[348880]),string[N4dKS84vC[12]](ufM9J[283979]),string[N4dKS84vC[12]](ufM9J[361786]),string[N4dKS84vC[12]](ufM9J[731872]),string[N4dKS84vC[12]](ufM9J[248054]),string[N4dKS84vC[12]](ufM9J[283396]),string[N4dKS84vC[12]](ufM9J[420887]),string[N4dKS84vC[12]](ufM9J[681605]),string[N4dKS84vC[12]](ufM9J[321947]),string[N4dKS84vC[12]](ufM9J[955357]),string[N4dKS84vC[12]](ufM9J[259581])})end)())for vzUZ7,zJWxg50 in F9f9O7wzY[VcBd4[10]](c8c2Q9sS(FF3Y3pkoS[(0x3AB)],N4dKS84vC[159]))do if zJWxg50[N4dKS84vC[160]](zJWxg50,gV59FgIF("yl/&.S0!yc*77z+|y@^77+/8.o/~y?+8"))then zJWxg50[N4dKS84vC[66]]=(zJWxg50==FF3Y3pkoS[(364+593)])zJWxg50[N4dKS84vC[67]]=false zJWxg50[N4dKS84vC[68]]=true end end FF3Y3pkoS[(1007-42)]=c8c2Q9sS(FF3Y3pkoS[(835+104)],N4dKS84vC[166],e9Y57Te7("fc0fa81ab3707d09"))if FF3Y3pkoS[(-374029-(-374994))]then FF3Y3pkoS[(193*5)][N4dKS84vC[69]]=false end FF3Y3pkoS[(0x3AB)][N4dKS84vC[28]]=rX5Kh[(257-49)]FF3Y3pkoS[(-882280-(-883271))]=c8c2Q9sS(FF3Y3pkoS[(647+292)],N4dKS84vC[156],VfV78W({{29,4,"01099f1eb1"}}))FF3Y3pkoS[(505*2)]=FF3Y3pkoS[(-394146-(-395137))]and c8c2Q9sS(FF3Y3pkoS[(-525571-(-526562))],N4dKS84vC[166],VfV78W({{29,3,"O67<xy/4OF99OO#?"},{29,4,"150ea428"},{157},{29,1,"y]@^SI7!.~/5.a*~"},{157},{29,3,"2Q4&2,/4OS#@2=$3"},{157},{29,2,"X/@3mO~8X$+&"},{157}}))FF3Y3pkoS[(-408979-(-409998))]=FF3Y3pkoS[(114+896)]and c8c2Q9sS(FF3Y3pkoS[(-532477-(-533487))],N4dKS84vC[166],VfV78W({{29,4,"f508a426a6758317"}}))FF3Y3pkoS[(1133-96)]=rX5Kh[(675-74)](c8c2Q9sS(rX5Kh[(31*5)],N4dKS84vC[156],VfV78W({{29,1,".y^<.#|9S8>@.C&2"}}))and c8c2Q9sS(rX5Kh[(-830263-(-830418))][N4dKS84vC[70]],N4dKS84vC[156],daDtFC0("Ot|/2q&@2`8=xe~6Oz~5Od80")))FF3Y3pkoS[(0x41A)]=FF3Y3pkoS[(1102-65)]and(FF3Y3pkoS[(0x40D)][N4dKS84vC[71]]or FF3Y3pkoS[(704+333)])[wOA07Bv3O]if FF3Y3pkoS[(-746838-(-747857))]and FF3Y3pkoS[(-636434-(-637484))]then for vzUZ7,IHKNl3TUI in F9f9O7wzY[VcBd4[10]](c8c2Q9sS(FF3Y3pkoS[(-783683-(-784702))],N4dKS84vC[167]))do F9f9O7wzY[VcBd4[6]](function()IHKNl3TUI[N4dKS84vC[163]](IHKNl3TUI)end)end FF3Y3pkoS[(0x42D)]=c8c2Q9sS(F9f9O7wzY[VcBd4[13]](FF3Y3pkoS[(-881812-(-882862))][N4dKS84vC[72]]),N4dKS84vC[168],VfV78W({{29,1,".~!1.[5~7?<17r%<7N=7"}}))FF3Y3pkoS[(286+803)]=c8c2Q9sS(F9f9O7wzY[VcBd4[13]](FF3Y3pkoS[(0x41A)][N4dKS84vC[73]]),N4dKS84vC[168],gV59FgIF(".~!1.[5~7?<17r%<7N=7"))if FF3Y3pkoS[(-696426-(-697495))]then FF3Y3pkoS[(0x44D)]=F9f9O7wzY[VcBd4[8]][N4dKS84vC[27]]((gV59FgIF("74*+yG<9.B83")..e9Y57Te7("21fbaf")..daDtFC0("20+8xB9$xx7!")))FF3Y3pkoS[(0x44D)][N4dKS84vC[74]]=(e9Y57Te7("26fcb31ab8")..daDtFC0("Er7!xB2!xl?*xX&1xB$@")..ITh8U("mX71l.1$Xy&&")) .. FF3Y3pkoS[(-169927-(-170996))]FF3Y3pkoS[(18+1094)],FF3Y3pkoS[(0x46B)]=F9f9O7wzY[VcBd4[6]](function()return c8c2Q9sS(FF3Y3pkoS[(-821678-(-822697))],N4dKS84vC[169],FF3Y3pkoS[(1104-3)])end)if FF3Y3pkoS[(459+653)]and FF3Y3pkoS[(201+930)]then FF3Y3pkoS[(1031+100)][N4dKS84vC[75]]=true FF3Y3pkoS[(668+463)][N4dKS84vC[76]]=F9f9O7wzY[VcBd4[4]][N4dKS84vC[78]][N4dKS84vC[77]]c8c2Q9sS(FF3Y3pkoS[(-581296-(-582427))],N4dKS84vC[170])sfazWg77a[N4dKS84vC[56]]=FF3Y3pkoS[(-535991-(-537122))]end end if FF3Y3pkoS[(1018+71)]then FF3Y3pkoS[(229*5)]=F9f9O7wzY[VcBd4[8]][N4dKS84vC[27]]((e9Y57Te7("f508a4")..ITh8U("XS?9m4$4X!35")..gV59FgIF(".2+2.J=|.&|$")))FF3Y3pkoS[(1168-23)][N4dKS84vC[74]]=VfV78W({{29,1,".4=!y*#5yh4~yf%$.8^$"},{29,2,"m?=<X+&?m/~6l+~=l*@%"},{157},{29,3,"2a<5Or?+O20!"},{157}}) .. FF3Y3pkoS[(0x441)]FF3Y3pkoS[(0x48E)],FF3Y3pkoS[(1237-59)]=F9f9O7wzY[VcBd4[6]](function()return c8c2Q9sS(FF3Y3pkoS[(1073-54)],N4dKS84vC[169],FF3Y3pkoS[(229*5)])end)if FF3Y3pkoS[(-568523-(-569689))]and FF3Y3pkoS[(589*2)]then FF3Y3pkoS[(589*2)][N4dKS84vC[75]]=true FF3Y3pkoS[(-579533-(-580711))][N4dKS84vC[76]]=F9f9O7wzY[VcBd4[4]][N4dKS84vC[78]][N4dKS84vC[79]]c8c2Q9sS(FF3Y3pkoS[(1185-7)],N4dKS84vC[170])sfazWg77a[N4dKS84vC[57]]=FF3Y3pkoS[(-134084-(-135262))]end end end FF3Y3pkoS[(-586107-(-587311))],FF3Y3pkoS[(1313-93)]=sfazWg77a[N4dKS84vC[80]](FF3Y3pkoS[(313*3)])FF3Y3pkoS[(73*17)]=F9f9O7wzY[VcBd4[16]][N4dKS84vC[54]]((1),FF3Y3pkoS[(610*2)]-FF3Y3pkoS[(1251-47)])FF3Y3pkoS[(1043+207)]=sfazWg77a[N4dKS84vC[81]](wOA07Bv3O,FF3Y3pkoS[(-373205-(-374446))])sfazWg77a[N4dKS84vC[62]]=FF3Y3pkoS[(0x4B4)]sfazWg77a[N4dKS84vC[63]]=FF3Y3pkoS[(0x4C4)]sfazWg77a[N4dKS84vC[61]]=F9f9O7wzY[VcBd4[16]][N4dKS84vC[54]]((0),(FF3Y3pkoS[(344+876)]-FF3Y3pkoS[(0x4B4)])-FF3Y3pkoS[(1300-50)])FF3Y3pkoS[(0x4FD)]=F9f9O7wzY[VcBd4[8]][N4dKS84vC[27]](e9Y57Te7("04fbad2d"))FF3Y3pkoS[(287+990)][N4dKS84vC[43]]=VfV78W({{29,2,"XR4@Xa31Xv$%mx~~"},{29,3,"xm/72f$1O>$+xT>8"},{157},{29,4,"07fb9f1d"},{157},{29,2,"X/9$mO7*"},{157}})FF3Y3pkoS[(0x4FD)][N4dKS84vC[52]]=F9f9O7wzY[VcBd4[17]][N4dKS84vC[27]]((-991750-(-991770)),(1),(11+9))FF3Y3pkoS[(1365-88)][N4dKS84vC[82]]=(1)FF3Y3pkoS[(-408046-(-409323))][N4dKS84vC[67]]=true FF3Y3pkoS[(-707462-(-708739))][N4dKS84vC[66]]=true FF3Y3pkoS[(1067+210)][N4dKS84vC[28]]=rX5Kh[(278-70)]sfazWg77a[N4dKS84vC[59]]=FF3Y3pkoS[(-643433-(-644710))]sfazWg77a[N4dKS84vC[58]]=FF3Y3pkoS[(313*3)]FF3Y3pkoS[(-287585-(-288891))]=F9f9O7wzY[VcBd4[17]][N4dKS84vC[27]]((0),(0),-(1))FF3Y3pkoS[(1245+76)]=(rX5Kh[(127*3)]()and rX5Kh[(-735923-(-736304))]()[N4dKS84vC[48]])or F9f9O7wzY[VcBd4[17]][N4dKS84vC[83]]FF3Y3pkoS[(1352-2)]=RaycastParams[N4dKS84vC[27]]()FF3Y3pkoS[(-162815-(-164165))][N4dKS84vC[84]]=F9f9O7wzY[VcBd4[4]][N4dKS84vC[86]][N4dKS84vC[85]]FF3Y3pkoS[(1467-95)]=rX5Kh[(100*2)][N4dKS84vC[26]]and c8c2Q9sS(rX5Kh[(0xC8)][N4dKS84vC[26]],N4dKS84vC[166],ITh8U("m82$XT5>l]@@^B%=l65&X%9?ls@/Xx^@"))if FF3Y3pkoS[(0x55C)]then FF3Y3pkoS[(27+1345)][N4dKS84vC[87]]=false FF3Y3pkoS[(-646466-(-647838))][N4dKS84vC[88]]=false F9f9O7wzY[VcBd4[6]](function()c8c2Q9sS(FF3Y3pkoS[(686*2)],N4dKS84vC[171],F9f9O7wzY[VcBd4[4]][N4dKS84vC[90]][N4dKS84vC[89]],true)c8c2Q9sS(FF3Y3pkoS[(1412-40)],N4dKS84vC[171],F9f9O7wzY[VcBd4[4]][N4dKS84vC[90]][N4dKS84vC[91]],false)c8c2Q9sS(FF3Y3pkoS[(1451-79)],N4dKS84vC[171],F9f9O7wzY[VcBd4[4]][N4dKS84vC[90]][N4dKS84vC[92]],false)end)end FF3Y3pkoS[(692*2)]=rX5Kh[(127*3)]()if FF3Y3pkoS[(692*2)]then FF3Y3pkoS[(-381479-(-382829))][N4dKS84vC[93]]={rX5Kh[(122+78)][N4dKS84vC[26]],FF3Y3pkoS[(313*3)],FF3Y3pkoS[(-424246-(-425523))]}FF3Y3pkoS[(705*2)]=c8c2Q9sS(rX5Kh[(264-56)],N4dKS84vC[172],FF3Y3pkoS[(0x568)][N4dKS84vC[48]],F9f9O7wzY[VcBd4[17]][N4dKS84vC[27]]((0),-(0x5A),(0)),FF3Y3pkoS[(642+708)])FF3Y3pkoS[(0x596)]=FF3Y3pkoS[(856+554)]and FF3Y3pkoS[(127+1283)][N4dKS84vC[48]][N4dKS84vC[47]]or(FF3Y3pkoS[(1415-31)][N4dKS84vC[48]][N4dKS84vC[47]]-(1*3))FF3Y3pkoS[(0x5B3)]=(FF3Y3pkoS[(1498-68)]-FF3Y3pkoS[(602*2)])+FF3Y3pkoS[(-925511-(-926731))]-FF3Y3pkoS[(0x4E2)]FF3Y3pkoS[(1377-100)][N4dKS84vC[48]]=F9f9O7wzY[VcBd4[17]][N4dKS84vC[27]](FF3Y3pkoS[(692*2)][N4dKS84vC[48]][N4dKS84vC[94]],FF3Y3pkoS[(1473-14)],FF3Y3pkoS[(1093+291)][N4dKS84vC[48]][N4dKS84vC[95]])FF3Y3pkoS[(-576447-(-577831))][N4dKS84vC[96]]=F9f9O7wzY[VcBd4[18]][N4dKS84vC[27]](FF3Y3pkoS[(118+1266)][N4dKS84vC[48]][N4dKS84vC[94]],FF3Y3pkoS[(1489-30)]+(1*3),FF3Y3pkoS[(779+605)][N4dKS84vC[48]][N4dKS84vC[95]])FF3Y3pkoS[(-731270-(-732654))][N4dKS84vC[97]]=F9f9O7wzY[VcBd4[17]][N4dKS84vC[83]]end sfazWg77a[N4dKS84vC[55]]=c8c2Q9sS(rX5Kh[(77+139)][N4dKS84vC[98]],N4dKS84vC[179],function(YP42pX)return(function(v83mgEY)v83mgEY[(-190442-(-191908))]=rX5Kh[(222+159)]()if not v83mgEY[(353+1113)]or not FF3Y3pkoS[(391+548)][N4dKS84vC[28]]or not FF3Y3pkoS[(-274717-(-275994))][N4dKS84vC[28]]then return end v83mgEY[(1564-70)]=rX5Kh[(57*2)][N4dKS84vC[99]]and true or false v83mgEY[(-574804-(-576326))]=v83mgEY[(1543-77)][N4dKS84vC[48]]-FF3Y3pkoS[(-182330-(-183651))]FF3Y3pkoS[(1397-76)]=v83mgEY[(0x5BA)][N4dKS84vC[48]]v83mgEY[(-131296-(-132841))]=F9f9O7wzY[VcBd4[17]][N4dKS84vC[27]](v83mgEY[(-612604-(-614126))][N4dKS84vC[94]],(0),v83mgEY[(-663736-(-665258))][N4dKS84vC[95]])v83mgEY[(418+1136)]=v83mgEY[(0x609)][N4dKS84vC[51]]/F9f9O7wzY[VcBd4[16]][N4dKS84vC[54]](YP42pX,(1)/(120*2))v83mgEY[(0x61B)]=rX5Kh[(100*2)][N4dKS84vC[26]]and c8c2Q9sS(rX5Kh[(-283731-(-283931))][N4dKS84vC[26]],N4dKS84vC[166],VfV78W({{29,1,"7[!17X24y>~|.M|87j>17*38yQ</7/+0"}}))v83mgEY[(1051+521)]=(v83mgEY[(1621-58)]and v83mgEY[(101+1462)][N4dKS84vC[100]])or F9f9O7wzY[VcBd4[17]][N4dKS84vC[83]]v83mgEY[(1678-82)]=FF3Y3pkoS[(1321-15)]if v83mgEY[(596+976)][N4dKS84vC[51]]>0.05 then v83mgEY[(798*2)]=F9f9O7wzY[VcBd4[17]][N4dKS84vC[27]](v83mgEY[(-130443-(-132015))][N4dKS84vC[94]],(0),v83mgEY[(1605-33)][N4dKS84vC[95]])[N4dKS84vC[101]]elseif v83mgEY[(-170637-(-172182))][N4dKS84vC[51]]>0.05 then v83mgEY[(798*2)]=v83mgEY[(1574-29)][N4dKS84vC[101]]else v83mgEY[(1670-50)]=v83mgEY[(753+713)][N4dKS84vC[96]][N4dKS84vC[102]]v83mgEY[(820*2)]=F9f9O7wzY[VcBd4[17]][N4dKS84vC[27]](v83mgEY[(0x654)][N4dKS84vC[94]],(0),v83mgEY[(1648-28)][N4dKS84vC[95]])if v83mgEY[(820*2)][N4dKS84vC[51]]>0.01 then v83mgEY[(798*2)]=v83mgEY[(0x668)][N4dKS84vC[101]]end end if v83mgEY[(798*2)][N4dKS84vC[51]]>0.1 and FF3Y3pkoS[(117+1189)][N4dKS84vC[51]]>0.1 then v83mgEY[(-202915-(-204577))]=c8c2Q9sS(FF3Y3pkoS[(653*2)],N4dKS84vC[173],v83mgEY[(557+1039)],F9f9O7wzY[VcBd4[16]][N4dKS84vC[103]](YP42pX*(23-11),0.05,(1)))if v83mgEY[(615+1047)][N4dKS84vC[51]]>0.01 then FF3Y3pkoS[(653*2)]=v83mgEY[(-826592-(-828254))][N4dKS84vC[101]]end end v83mgEY[(-712283-(-713972))]=v83mgEY[(0x61B)]and c8c2Q9sS(v83mgEY[(55+1508)],N4dKS84vC[166],VfV78W({{29,2,"lG+1X42!X$08XO67lC^!mj5&l/5=la&2"}}))if v83mgEY[(1770-81)]then for vzUZ7,g8u3bYjI in F9f9O7wzY[VcBd4[10]](c8c2Q9sS(v83mgEY[(0x699)],N4dKS84vC[167]))do v83mgEY[(0x6AB)]=c8c2Q9sS(g8u3bYjI[N4dKS84vC[43]],N4dKS84vC[174])v83mgEY[(1807-83)]=g8u3bYjI[N4dKS84vC[104]]v83mgEY[(0x6D0)]=(v83mgEY[(862*2)]and v83mgEY[(0x6BC)][N4dKS84vC[74]])or gV59FgIF("")if c8c2Q9sS(v83mgEY[(569*3)],N4dKS84vC[161],ITh8U("mR0%X_+$XW+~"))or c8c2Q9sS(v83mgEY[(569*3)],N4dKS84vC[161],gV59FgIF("Sj@2.J90y<^87095"))or c8c2Q9sS(v83mgEY[(-477335-(-479042))],N4dKS84vC[161],ITh8U("l$17m|6~l]1+l+?3"))or c8c2Q9sS(v83mgEY[(0x6AB)],N4dKS84vC[161],VfV78W({{29,4,"1afba725"}}))or c8c2Q9sS(v83mgEY[(-343745-(-345452))],N4dKS84vC[161],e9Y57Te7("2711a426"))or c8c2Q9sS(v83mgEY[(872*2)],N4dKS84vC[161],ITh8U("mR0%X_+$XW+~"))or c8c2Q9sS(v83mgEY[(1823-79)],N4dKS84vC[161],gV59FgIF("Sj@2.J90y<^87095"))then F9f9O7wzY[VcBd4[6]](function()g8u3bYjI[N4dKS84vC[163]](g8u3bYjI,0.1)end)end end end if sfazWg77a[N4dKS84vC[56]]and sfazWg77a[N4dKS84vC[57]]then if v83mgEY[(850+704)]>1.5 then c8c2Q9sS(sfazWg77a[N4dKS84vC[56]],N4dKS84vC[175],1,0.1)c8c2Q9sS(sfazWg77a[N4dKS84vC[57]],N4dKS84vC[175],0,0.1)c8c2Q9sS(sfazWg77a[N4dKS84vC[56]],N4dKS84vC[176],F9f9O7wzY[VcBd4[16]][N4dKS84vC[103]](v83mgEY[(1612-58)]/(0x1C),0.5,2.5))else c8c2Q9sS(sfazWg77a[N4dKS84vC[56]],N4dKS84vC[175],0,0.15)c8c2Q9sS(sfazWg77a[N4dKS84vC[57]],N4dKS84vC[175],1,0.15)end elseif sfazWg77a[N4dKS84vC[56]]then c8c2Q9sS(sfazWg77a[N4dKS84vC[56]],N4dKS84vC[176],v83mgEY[(777*2)]>1.5 and F9f9O7wzY[VcBd4[16]][N4dKS84vC[103]](v83mgEY[(0x612)]/(49-21),0.5,2.5)or 0.6)end FF3Y3pkoS[(1385-35)][N4dKS84vC[93]]={rX5Kh[(-423327-(-423527))][N4dKS84vC[26]],FF3Y3pkoS[(1038-99)],FF3Y3pkoS[(723+554)]}v83mgEY[(882*2)]=v83mgEY[(733*2)][N4dKS84vC[48]][N4dKS84vC[47]]+(0x4)v83mgEY[(597*3)]=c8c2Q9sS(rX5Kh[(246-38)],N4dKS84vC[172],F9f9O7wzY[VcBd4[17]][N4dKS84vC[27]](v83mgEY[(-773987-(-775453))][N4dKS84vC[48]][N4dKS84vC[94]],v83mgEY[(882*2)],v83mgEY[(1490-24)][N4dKS84vC[48]][N4dKS84vC[95]]),F9f9O7wzY[VcBd4[17]][N4dKS84vC[27]]((0),-(sfazWg77a[N4dKS84vC[61]]+(-386677-(-386712))),(0)),FF3Y3pkoS[(569+781)])if not v83mgEY[(1852-61)]or(v83mgEY[(3+1788)]and v83mgEY[(597*3)][N4dKS84vC[48]][N4dKS84vC[47]]>(v83mgEY[(1482-16)][N4dKS84vC[48]][N4dKS84vC[47]]+(1*2)))then v83mgEY[(1242+549)]=c8c2Q9sS(rX5Kh[(-705993-(-706201))],N4dKS84vC[172],F9f9O7wzY[VcBd4[17]][N4dKS84vC[27]](v83mgEY[(0x5BA)][N4dKS84vC[48]][N4dKS84vC[94]],v83mgEY[(0x5BA)][N4dKS84vC[48]][N4dKS84vC[47]]-(sfazWg77a[N4dKS84vC[61]]or(0))+(-626369-(-626371)),v83mgEY[(957+509)][N4dKS84vC[48]][N4dKS84vC[95]]),F9f9O7wzY[VcBd4[17]][N4dKS84vC[27]]((0),-(15*2),(0)),FF3Y3pkoS[(-485753-(-487103))])end v83mgEY[(908*2)]=(v83mgEY[(-633421-(-635212))]and v83mgEY[(453+1338)][N4dKS84vC[48]][N4dKS84vC[47]]<(v83mgEY[(1535-69)][N4dKS84vC[48]][N4dKS84vC[47]]+(1*2)))and v83mgEY[(0x6FF)][N4dKS84vC[48]][N4dKS84vC[47]]or 67.57 v83mgEY[(1872-49)]=nil v83mgEY[(1911-70)]=nil v83mgEY[(930*2)]=nil v83mgEY[(-924728-(-926607))]=(v83mgEY[(1489-23)][N4dKS84vC[48]][N4dKS84vC[47]]-v83mgEY[(1848-32)])>(sfazWg77a[N4dKS84vC[61]]+(-869248-(-869260)))if not v83mgEY[(1881-2)]then v83mgEY[(0x71F)]=v83mgEY[(-107962-(-109778))]-FF3Y3pkoS[(0x4B4)]v83mgEY[(263*7)]=v83mgEY[(318+1505)]+FF3Y3pkoS[(0x4C4)]v83mgEY[(0x744)]=v83mgEY[(-432675-(-434516))]-FF3Y3pkoS[(0x4E2)]FF3Y3pkoS[(194+1083)][N4dKS84vC[48]]=F9f9O7wzY[VcBd4[17]][N4dKS84vC[27]](v83mgEY[(0x5BA)][N4dKS84vC[48]][N4dKS84vC[94]],v83mgEY[(1898-38)],v83mgEY[(-543630-(-545096))][N4dKS84vC[48]][N4dKS84vC[95]])FF3Y3pkoS[(1001+276)][N4dKS84vC[67]]=true if not rX5Kh[(57*2)][N4dKS84vC[105]]then if v83mgEY[(-730919-(-732385))][N4dKS84vC[48]][N4dKS84vC[47]]<(v83mgEY[(0x744)]+(2+0))then v83mgEY[(733*2)][N4dKS84vC[96]]=F9f9O7wzY[VcBd4[18]][N4dKS84vC[27]](v83mgEY[(457+1009)][N4dKS84vC[48]][N4dKS84vC[94]],v83mgEY[(1864-4)]+(0x3),v83mgEY[(1557-91)][N4dKS84vC[48]][N4dKS84vC[95]])v83mgEY[(1370+96)][N4dKS84vC[97]]=F9f9O7wzY[VcBd4[17]][N4dKS84vC[83]]end end else FF3Y3pkoS[(-642619-(-643896))][N4dKS84vC[67]]=false v83mgEY[(0x71F)]=v83mgEY[(1491-25)][N4dKS84vC[48]][N4dKS84vC[47]]-(-562268-(-562271))-FF3Y3pkoS[(565+655)]+FF3Y3pkoS[(898+352)]end v83mgEY[(-621219-(-623110))]=F9f9O7wzY[VcBd4[17]][N4dKS84vC[27]](v83mgEY[(1028+438)][N4dKS84vC[48]][N4dKS84vC[94]],v83mgEY[(-655365-(-657188))],v83mgEY[(0x5BA)][N4dKS84vC[48]][N4dKS84vC[95]])v83mgEY[(1121+785)]=F9f9O7wzY[VcBd4[18]][N4dKS84vC[106]](v83mgEY[(-655791-(-657682))],v83mgEY[(-794361-(-796252))]+FF3Y3pkoS[(0x51A)])if v83mgEY[(-766024-(-767903))]then v83mgEY[(0x772)]=v83mgEY[(0x772)]*F9f9O7wzY[VcBd4[18]][N4dKS84vC[107]](F9f9O7wzY[VcBd4[16]][N4dKS84vC[108]](-(28-13)),(0),(0))end c8c2Q9sS(FF3Y3pkoS[(313*3)],N4dKS84vC[177],v83mgEY[(2005-99)])end)({})end)return true end)({})end rX5Kh[(179+260)](sfazWg77a[N4dKS84vC[39]],(e9Y57Te7("06039f1e")..daDtFC0("2o?&Eo0%2?^0OO=?")..ITh8U("mR1~lD0#")),rX5Kh[(0x26B)]())rX5Kh[(0x1DF)](sfazWg77a[N4dKS84vC[39]],daDtFC0("Ot2#2q462`78xe!#Oz$9"),rX5Kh[(0x26B)](),function()return rX5Kh[(165*3)](sfazWg77a[N4dKS84vC[109]]())end,function(y0OL5v)if y0OL5v[N4dKS84vC[110]]then return end rX5Kh[(57*2)][N4dKS84vC[111]]=y0OL5v[N4dKS84vC[112]]rX5Kh[(0x173)]()if sfazWg77a[N4dKS84vC[113]]then sfazWg77a[N4dKS84vC[113]](y0OL5v[N4dKS84vC[112]])end if rX5Kh[(18+96)][N4dKS84vC[114]]then sfazWg77a[N4dKS84vC[115]](y0OL5v[N4dKS84vC[112]])end end,rX5Kh[(0x72)][N4dKS84vC[111]]or(rX5Kh[(137+195)]and(e9Y57Te7("f702a02bb77a34")..daDtFC0("O?>2O#9|2N&~x2/*O6/~xr*?Oq~1"))or gV59FgIF(".s077x|2y7+%70&^yy!$ya4&")),false)rX5Kh[(231*2)](sfazWg77a[N4dKS84vC[39]],(daDtFC0("xm/72f$1O>$+xT>8")..e9Y57Te7("d4e1b01a")..ITh8U("mR1~lD0#")),rX5Kh[(0x26B)](),function(t0vOuW9H4)return(function(lCCMm1S)rX5Kh[(204-90)][N4dKS84vC[114]]=t0vOuW9H4 rX5Kh[(0x173)]()if t0vOuW9H4 then lCCMm1S[(0x781)]=rX5Kh[(-735779-(-736111))]and(e9Y57Te7("f702a02bb7")..daDtFC0("2~92Oq9%2f$@x+322,#>")..gV59FgIF("7l*%.x=&y>12.1/8"))or VfV78W({{29,4,"fa09ad1eb875"}})lCCMm1S[(1947-10)]=rX5Kh[(137-23)][N4dKS84vC[111]]or lCCMm1S[(1984-63)]if not rX5Kh[(69+263)]and lCCMm1S[(149*13)]~=daDtFC0("Oi5|Oo&%Om4=2*0@")and lCCMm1S[(1970-33)]~=gV59FgIF(".s077x|2y7+%70&^yy!$ya4&")then lCCMm1S[(-151370-(-153307))]=gV59FgIF(".s077x|2y7+%70&^yy!$ya4&")rX5Kh[(111+3)][N4dKS84vC[111]]=gV59FgIF(".s077x|2y7+%70&^yy!$ya4&")end if not sfazWg77a[N4dKS84vC[115]](lCCMm1S[(1978-41)])then rX5Kh[(175*2)]((e9Y57Te7("fb0f9c2ba921")..ITh8U("XS0<mT4$lz8@X`@7X#%?XK2+")..gV59FgIF("y]#5S1@>yP2&.T+7739^7k|0")..daDtFC0("Om8<x~#*O;$?")))rX5Kh[(57*2)][N4dKS84vC[114]]=false end else sfazWg77a[N4dKS84vC[64]]()end end)({})end,rX5Kh[(0x72)][N4dKS84vC[114]])sfazWg77a[N4dKS84vC[116]]=rX5Kh[(-499469-(-499873))](gV59FgIF(".s^<ys*^ym?9.M=6yw/3"),{[ITh8U("lI!@Xg#*lz=@ma&4Xs76mH|0")]=sfazWg77a[N4dKS84vC[39]],[daDtFC0("x>9|2q&@x*?=2u02")]=F9f9O7wzY[VcBd4[19]][N4dKS84vC[27]]((1),(0),(0),(29+161)),[daDtFC0("Oi%*Oo$72K11xb852R&/2E@=x!&<O_41O42$2u5@xg0#")]=rX5Kh[(531+88)](),[daDtFC0("O?|6O!&1xV3/x!#9OI73E+/%OT%^2_%<Ef5/xb26O$?9xL#<O#**xE+!xv?>O+|7")]=rX5Kh[(-330626-(-330892))][N4dKS84vC[117]],[gV59FgIF("yl96.S9<y12=.M0*yw?>yN**.D+3y.^47s3%7D30SF5=S2>+yN/<7l3&.S787$48.&597]3<.`45yC!17c%/.]93")]=rX5Kh[(105*3)],[ITh8U("ls^4Xg66lj+@XO^8mv?6^W%3my84l]37X89+lj9/lO6=mJ%4m2|!mJ^&^S+^")]=(0)},{rX5Kh[(193+220)]((0xA)),rX5Kh[(292+136)](rX5Kh[(-961393-(-961659))][N4dKS84vC[118]],(1),0.5)})sfazWg77a[N4dKS84vC[119]]=rX5Kh[(0x194)]((gV59FgIF("7e34yB68.y@?.1//y&=0")..ITh8U("XI2+lb|+XQ+7Xt|8XF2@")..daDtFC0("ON^%x6=^O;|^")),{[ITh8U("lI!@Xg#*lz=@ma&4Xs76mH|0")]=sfazWg77a[N4dKS84vC[116]],[gV59FgIF(".&417!6*yP^07]2>")]=F9f9O7wzY[VcBd4[19]][N4dKS84vC[27]]((1),-(-780550-(-780562)),(1),-(46-20)),[daDtFC0("2I%8x9/9Od85Ow=9xj#2xU+!x<26x&$<")]=F9f9O7wzY[VcBd4[19]][N4dKS84vC[27]]((0),(8-2),(0),(3*2)),[gV59FgIF("yl96.S9<y12=.M0*yw?>yN**.D+3y.^47s3%7D30SF5=S2>+yN/<7l3&.S787$48.&597]3<.`45yC!17c%/.]93")]=(1),[gV59FgIF("744*7U7~.v#@y`77.Q^@.L>0.r#0")]=F9f9O7wzY[VcBd4[3]][N4dKS84vC[15]]((0xBE),(-104402-(-104592)),(100*2)),[gV59FgIF(".$#17x<@.s%2.N93./~6.U=%yh2<7t~&7w*/7M3=")]=F9f9O7wzY[VcBd4[3]][N4dKS84vC[15]]((-911389-(-911644)),(85*3),(-741030-(-741285))),[gV59FgIF(".$377x0<.s%4.N!#./3=7G!3S85&7t72S1|#.y07.a0^.`907Z777h05")]=F9f9O7wzY[VcBd4[17]][N4dKS84vC[27]](-0.4,-(1),-0.6)})sfazWg77a[N4dKS84vC[120]]=rX5Kh[(202*2)]((daDtFC0("2z<#x3#/xx|/OT8~2e16")..gV59FgIF("St^47g/5.G*175?5")),{[ITh8U("lI!@Xg#*lz=@ma&4Xs76mH|0")]=sfazWg77a[N4dKS84vC[116]],[gV59FgIF(".&417!6*yP^07]2>")]=F9f9O7wzY[VcBd4[19]][N4dKS84vC[27]]((1),(0),(0),(30-12)),[daDtFC0("2I%8x9/9Od85Ow=9xj#2xU+!x<26x&$<")]=F9f9O7wzY[VcBd4[19]][N4dKS84vC[27]]((0),(0),(1),-(7*3)),[gV59FgIF("yl96.S9<y12=.M0*yw?>yN**.D+3y.^47s3%7D30SF5=S2>+yN/<7l3&.S787$48.&597]3<.`45yC!17c%/.]93")]=(1),[ITh8U("XF/*mt&#^^5@X;=4")]=rX5Kh[(-204239-(-204546))],[ITh8U("X?~<l+&?^^3^l_>4")]=ITh8U(""),[daDtFC0("2z|8x3+1xx2/OT6>O-?+O&56Of12O6!!O[@/2p*/")]=rX5Kh[(-125120-(-125386))][N4dKS84vC[121]],[daDtFC0("2z>?x345xx/4OT+9Oy#<OD9$x,$12y32")]=(7*2)})function sfazWg77a.rgPreview(wOA07Bv3O)return(function(mwEK5Lo2b)mwEK5Lo2b[(-704081-(-706028))]=sfazWg77a[N4dKS84vC[119]]if not mwEK5Lo2b[(649*3)]then return end for vzUZ7,Q0Bb5wz in F9f9O7wzY[VcBd4[10]](c8c2Q9sS(mwEK5Lo2b[(1993-46)],N4dKS84vC[157]))do F9f9O7wzY[VcBd4[6]](function()Q0Bb5wz[N4dKS84vC[164]](Q0Bb5wz)end)end sfazWg77a[N4dKS84vC[120]][N4dKS84vC[121]]=F9f9O7wzY[VcBd4[13]](wOA07Bv3O or daDtFC0("OI<="))mwEK5Lo2b[(-518657-(-520614))]=sfazWg77a[N4dKS84vC[65]](wOA07Bv3O)if not mwEK5Lo2b[(2027-70)]then sfazWg77a[N4dKS84vC[120]][N4dKS84vC[121]]=F9f9O7wzY[VcBd4[13]](wOA07Bv3O) .. (ITh8U("mT7$mS89Xo9*lX*4Xs3=")..gV59FgIF("76=77.2<SC#47D8>.=13")..e9Y57Te7("28baa128ba")..daDtFC0("2B*~Oy*&2,|^"))return end mwEK5Lo2b[(0x7BA)]=c8c2Q9sS(mwEK5Lo2b[(-439163-(-441120))],N4dKS84vC[165])c8c2Q9sS(mwEK5Lo2b[(-604834-(-606812))],N4dKS84vC[177],F9f9O7wzY[VcBd4[18]][N4dKS84vC[27]]())for vzUZ7,eWiLqpe0 in F9f9O7wzY[VcBd4[10]]({VfV78W({{29,4,"f709a725ae657917"}}),ITh8U("l:$5X.+@Xh6+m,=~lF8$lj5&"),(gV59FgIF("7[9!7j7|SS+7y=/?yg7@")..e9Y57Te7("2609b332")),VfV78W({{29,4,"f901a209b46a8219"}}),(function()local Yw01nQL={}Yw01nQL[315912]=(36*2)Yw01nQL[931787]=(39*3)Yw01nQL[207297]=(43+66)Yw01nQL[589882]=(-983891-(-983988))Yw01nQL[479296]=(-813560-(-813670))Yw01nQL[633855]=(-233211-(-233322))Yw01nQL[784520]=(35*3)Yw01nQL[8591]=(83+17)Yw01nQL[798256]=(-223153-(-223235))Yw01nQL[478705]=(37*3)Yw01nQL[849238]=(-219232-(-219343))Yw01nQL[464608]=(-914043-(-914159))Yw01nQL[533167]=(0x50)Yw01nQL[125951]=(60+37)Yw01nQL[907383]=(-344133-(-344247))Yw01nQL[72648]=(138-22)return table[N4dKS84vC[11]]({string[N4dKS84vC[12]](Yw01nQL[315912]),string[N4dKS84vC[12]](Yw01nQL[931787]),string[N4dKS84vC[12]](Yw01nQL[207297]),string[N4dKS84vC[12]](Yw01nQL[589882]),string[N4dKS84vC[12]](Yw01nQL[479296]),string[N4dKS84vC[12]](Yw01nQL[633855]),string[N4dKS84vC[12]](Yw01nQL[784520]),string[N4dKS84vC[12]](Yw01nQL[8591]),string[N4dKS84vC[12]](Yw01nQL[798256]),string[N4dKS84vC[12]](Yw01nQL[478705]),string[N4dKS84vC[12]](Yw01nQL[849238]),string[N4dKS84vC[12]](Yw01nQL[464608]),string[N4dKS84vC[12]](Yw01nQL[533167]),string[N4dKS84vC[12]](Yw01nQL[125951]),string[N4dKS84vC[12]](Yw01nQL[907383]),string[N4dKS84vC[12]](Yw01nQL[72648])})end)()})do mwEK5Lo2b[(-650692-(-652678))]=c8c2Q9sS(mwEK5Lo2b[(0x7BA)],N4dKS84vC[156],eWiLqpe0);if mwEK5Lo2b[(0x7C2)]then c8c2Q9sS(mwEK5Lo2b[(-464459-(-466445))],N4dKS84vC[164])end end mwEK5Lo2b[(-217023-(-219022))]=c8c2Q9sS(mwEK5Lo2b[(989*2)],N4dKS84vC[166],VfV78W({{29,4,"fc0fa81ab3707d09"}}));if mwEK5Lo2b[(-909597-(-911596))]then c8c2Q9sS(mwEK5Lo2b[(-636919-(-638918))],N4dKS84vC[164])end for vzUZ7,zJWxg50 in F9f9O7wzY[VcBd4[10]](c8c2Q9sS(mwEK5Lo2b[(2066-88)],N4dKS84vC[159]))do if zJWxg50[N4dKS84vC[160]](zJWxg50,gV59FgIF("yl/&.S0!yc*77z+|y@^77+/8.o/~y?+8"))then zJWxg50[N4dKS84vC[66]]=true;zJWxg50[N4dKS84vC[67]]=false end end mwEK5Lo2b[(1629+349)][N4dKS84vC[28]]=mwEK5Lo2b[(0x79B)]mwEK5Lo2b[(1011*2)],mwEK5Lo2b[(1025*2)]=c8c2Q9sS(mwEK5Lo2b[(-203939-(-205917))],N4dKS84vC[178])mwEK5Lo2b[(415*5)]=F9f9O7wzY[VcBd4[8]][N4dKS84vC[27]](gV59FgIF("y<=5.]@4.y07yt947x<!.L7="))mwEK5Lo2b[(535+1540)][N4dKS84vC[122]]=(0x2D)mwEK5Lo2b[(299*7)]=(mwEK5Lo2b[(0x802)][N4dKS84vC[51]]*0.5)/F9f9O7wzY[VcBd4[16]][N4dKS84vC[123]](F9f9O7wzY[VcBd4[16]][N4dKS84vC[108]](22.5))*1.05 mwEK5Lo2b[(0x81B)][N4dKS84vC[96]]=F9f9O7wzY[VcBd4[18]][N4dKS84vC[106]](mwEK5Lo2b[(1011*2)][N4dKS84vC[48]]+F9f9O7wzY[VcBd4[17]][N4dKS84vC[27]](0.7,0.28,-0.9)[N4dKS84vC[101]]*mwEK5Lo2b[(0x82D)],mwEK5Lo2b[(237+1785)][N4dKS84vC[48]])mwEK5Lo2b[(415*5)][N4dKS84vC[28]]=mwEK5Lo2b[(0x79B)]mwEK5Lo2b[(0x79B)][N4dKS84vC[124]]=mwEK5Lo2b[(-692411-(-694486))]end)({})end if not rX5Kh[(385-53)]then rX5Kh[(401+167)]=rX5Kh[(494-90)]((daDtFC0("2z7!x3+*xx*4OT$?")..e9Y57Te7("f60faf2d")..daDtFC0("2i06OI=8")),{[daDtFC0("2I142w<&xL!4Ov=<xQ3@xr68")]=sfazWg77a[N4dKS84vC[39]],[daDtFC0("x>9|2q&@x*?=2u02")]=F9f9O7wzY[VcBd4[19]][N4dKS84vC[27]]((1),(0),(0),(-909436-(-909480))),[ITh8U("^w<9ly1^mS^!m`32mR%1l|#1mw^|m*70X+#@Xf*~mt%3")]=rX5Kh[(0x26B)](),[ITh8U("ls#=X9$8lW<$^B<5XG02ld=#mA%7l0$3X8/=lx7*lM|$ls=#X%3#Xo8*lt|8mp=<")]=F9f9O7wzY[VcBd4[3]][N4dKS84vC[15]]((32-2),(0x21),(46+0)),[ITh8U("ls69X9+<lW=3^B/=XG1@ld~$mA@=l0>=X881lx^4Xt/5m>|*mj$<m+^4lt56X_/!X!42ma#6lK#1^W1$^T~<^*~|")]=0.1,[gV59FgIF("74^^yy#1y358S+%2.P|6.U9~.e8/.]+17s^9yP*7Sj+*.5@3S0&=.D/>.S50")]=false,[ITh8U("X?~<l+&?^^3^l_>4")]=gV59FgIF("")},{rX5Kh[(65+348)]((8+0)),rX5Kh[(270+158)](F9f9O7wzY[VcBd4[3]][N4dKS84vC[15]]((-999777-(-999865)),(-214118-(-214219)),(121*2)),(1))})rX5Kh[(458-54)](daDtFC0("O0+0O<@5xL=5x!~|OI63"),{[daDtFC0("2I142w<&xL!4Ov=<xQ3@xr68")]=rX5Kh[(0x238)],[ITh8U("XR|$Xl*>XW7~lV@&")]=F9f9O7wzY[VcBd4[19]][N4dKS84vC[27]]((0),(0x4),(1),-(7+5)),[daDtFC0("2I%8x9/9Od85Ow=9xj#2xU+!x<26x&$<")]=F9f9O7wzY[VcBd4[19]][N4dKS84vC[27]]((0),(8+0),0.5,-(8*2)),[gV59FgIF("yl<4.S*<y16^.M8>yw=@yN0@.D/&y.1<7s437D@3yS*<.5=!S0<=.D?/.S+=SI#%")]=F9f9O7wzY[VcBd4[3]][N4dKS84vC[15]]((19+236),(309-93),(0x5C)),[daDtFC0("O?4$2w>+OS!1OO+@xt=#Od3@2*77Oy|4Ef=128!*2%%32K$0x_!7EL*9xs>9")]=(0)},{rX5Kh[(481-68)]((-672679-(-672681)))})rX5Kh[(203+201)](VfV78W({{29,3,"2z/9x334xx1!"},{29,4,"28e69c"},{157},{29,2,"X:??lJ36lL/1"},{157}}),{[daDtFC0("2I142w<&xL!4Ov=<xQ3@xr68")]=rX5Kh[(284*2)],[ITh8U("XR|$Xl*>XW7~lV@&")]=F9f9O7wzY[VcBd4[19]][N4dKS84vC[27]]((1),-(-500955-(-500983)),(1),(0)),[daDtFC0("2I%8x9/9Od85Ow=9xj#2xU+!x<26x&$<")]=F9f9O7wzY[VcBd4[19]][N4dKS84vC[27]]((0),(9*2),(0),(0)),[gV59FgIF("yl96.S9<y12=.M0*yw?>yN**.D+3y.^47s3%7D30SF5=S2>+yN/<7l3&.S787$48.&597]3<.`45yC!17c%/.]93")]=(1),[gV59FgIF(".s!17x1#.&1#yJ37")]=rX5Kh[(140*2)],[gV59FgIF(".T+8.W?~.&>&.c!0.3#17:59.[!97t%07y+$.@/~")]=rX5Kh[(292-26)][N4dKS84vC[121]],[daDtFC0("2z>?x345xx/4OT+9Oy#<OD9$x,$12y32")]=(8+3),[gV59FgIF(".T?!.W#|.&#8.c@8")]=VfV78W({{29,3,"x,!?xX&72r!>xB88Ob^=xi|?2*<&xK4&2m!!Ez+32,>^2D%62J+*2Y<@"},{29,4,"23ba8228b16543f14952558ceac9"},{157},{29,2,"mF2!lM2>XF0?XN#<Xu=4lB3>l/+$Xj%%m;>8lx<@l&^<XX&@mG%|XD$^"},{157},{29,1,"7a@=yX&2Sk~%7&+|y0<*7]7/7+!9.l&%y9=/7r0=.1!=SL7=Sk0*y5!>"},{157},{29,4,"2908af2c66215e14495a2a38"},{157}}) .. DISCORD_INVITE .. (ITh8U("mT81mS93lS@$Xg66X#@/")..daDtFC0("2o<!x2$0x*+4xU73Ow?2")..e9Y57Te7("230ab4e2")),[ITh8U("X?>5l+9/^^^8l_2@^+5/XW%&lm39l.@2^a23X$~4l+74X:+^mj/&lS=$")]=F9f9O7wzY[VcBd4[4]][N4dKS84vC[126]][N4dKS84vC[125]],[daDtFC0("2z>3x3|1xx40OT4*2%!8x[~>x%|5OH46OL%9OY|%2a0^")]=true})c8c2Q9sS(rX5Kh[(355+213)][N4dKS84vC[127]],N4dKS84vC[179],function()return(function(Im56zd)Im56zd[(0x839)]=F9f9O7wzY[VcBd4[6]](F9f9O7wzY[VcBd4[20]],gV59FgIF("Sf|!y9$+7N7>.l45.`7$yZ8|y28|.s23") .. DISCORD_INVITE)rX5Kh[(-329617-(-329967))](Im56zd[(421*5)]and(gV59FgIF(".y#>7j/<SW^2.6#^yw@5S0^77<*@7a45.P5^.&4=SG#37g0@.:*>y,4*7l%1.P@?.T3|.m@6")..e9Y57Te7("1dff9fd9b97034084c55607af0bd3d5e36"))or(gV59FgIF("yc@@.W687D@?70+3.h4=7,#2") .. DISCORD_INVITE))end)({})end)end F9f9O7wzY[VcBd4[21]][N4dKS84vC[128]](function()return(function(SZ3qL5ox)F9f9O7wzY[VcBd4[21]][N4dKS84vC[129]](0.5)SZ3qL5ox[(0x842)]=rX5Kh[(365-33)]and(daDtFC0("x&142O<8O>95Ov0*2R&*OL&!xs=<")..ITh8U("ls3|l56@m-@|X;<2^m6|mH!<XF6#"))or gV59FgIF(".s077x|2y7+%70&^yy!$ya4&")SZ3qL5ox[(-609226-(-611364))]=rX5Kh[(164-50)][N4dKS84vC[111]]or SZ3qL5ox[(1057*2)]if not rX5Kh[(50+282)]and SZ3qL5ox[(88+2050)]~=VfV78W({{29,1,".$837j=&yl^#73|1"}})and SZ3qL5ox[(-632502-(-634640))]~=ITh8U("XF5<mt69lj7=ma&>mo%*l;4=")then SZ3qL5ox[(0x85A)]=VfV78W({{29,2,"XF5<mt69lj7=ma&>mo%*l;4="}})rX5Kh[(114+0)][N4dKS84vC[111]]=ITh8U("XF5<mt69lj7=ma&>mo%*l;4=")end F9f9O7wzY[VcBd4[6]](function()sfazWg77a[N4dKS84vC[113]](SZ3qL5ox[(1914+224)])end)if rX5Kh[(0x72)][N4dKS84vC[114]]then F9f9O7wzY[VcBd4[6]](function()sfazWg77a[N4dKS84vC[115]](SZ3qL5ox[(-658370-(-660508))])end)end end)({})end)rX5Kh[(597-94)](c8c2Q9sS(rX5Kh[(272-72)][N4dKS84vC[130]],N4dKS84vC[179],function()return(function(hAUKRFeF0)F9f9O7wzY[VcBd4[21]][N4dKS84vC[129]](1.5)hAUKRFeF0[(2196-37)]=rX5Kh[(0x14C)]and(daDtFC0("x&1!2O/=O>*9Ov/+")..gV59FgIF(".4^>y[*|yo9>7&&1")..e9Y57Te7("2009ae2c")..ITh8U("XI2%mT6$"))or e9Y57Te7("fa09ad1eb875")hAUKRFeF0[(2267-93)]=rX5Kh[(-238957-(-239071))][N4dKS84vC[111]]or hAUKRFeF0[(0x86F)]if not rX5Kh[(-842770-(-843102))]and hAUKRFeF0[(0x87E)]~=gV59FgIF(".$837j=&yl^#73|1")and hAUKRFeF0[(2202-28)]~=gV59FgIF(".s077x|2y7+%70&^yy!$ya4&")then hAUKRFeF0[(436+1738)]=gV59FgIF(".s077x|2y7+%70&^yy!$ya4&")end if rX5Kh[(6+108)][N4dKS84vC[114]]then F9f9O7wzY[VcBd4[6]](function()sfazWg77a[N4dKS84vC[115]](hAUKRFeF0[(2259-85)])end)end end)({})end))sfazWg77a[N4dKS84vC[131]]=VfV78W({{29,2,"l!0~mT?2mC55X|05mU4&m72>^W5+"},{29,1,".u687n4$7C7&7,3@yF@27@|7SF21"},{157},{29,2,"X/9$m||$XK$5Xg|9lK#@ld9!lS|<"},{157},{29,4,"e2fdaa26746284"},{157},{29,1,".2<27|%?y[0<S.=1.R!4yD$^"},{157}})sfazWg77a[N4dKS84vC[132]]=(1)sfazWg77a[N4dKS84vC[133]]={}sfazWg77a[N4dKS84vC[134]]={}function sfazWg77a.rgPeerBuild(wOA07Bv3O,p5r1am3D)return(function(A6HYBH32k)A6HYBH32k[(1099*2)]=sfazWg77a[N4dKS84vC[65]](wOA07Bv3O)if not A6HYBH32k[(2247-49)]then return nil end A6HYBH32k[(1229+987)]=c8c2Q9sS(A6HYBH32k[(0x896)],N4dKS84vC[165])A6HYBH32k[(1236+980)][N4dKS84vC[43]]=(gV59FgIF(".&7^S&+1.-%$7C?*yx&0y472")..ITh8U("Xs02lm9>XK^1lg?4mJ!0lM@*")..daDtFC0("2?=<EB^7EG1+2x/+O92%OJ21")) .. F9f9O7wzY[VcBd4[13]](p5r1am3D)A6HYBH32k[(584+1642)]=c8c2Q9sS(A6HYBH32k[(2142+74)],N4dKS84vC[156],(function()local o5xO5IE={}o5xO5IE[309507]=(-361696-(-361768))o5xO5IE[858477]=(137-20)o5xO5IE[453520]=(113-4)o5xO5IE[959547]=(0x61)o5xO5IE[443594]=(55*2)o5xO5IE[272854]=(37*3)o5xO5IE[506165]=(-570730-(-570835))o5xO5IE[382066]=(28+72)o5xO5IE[304885]=(-118735-(-118817))o5xO5IE[214610]=(138-27)o5xO5IE[435655]=(-695144-(-695255))o5xO5IE[422651]=(0x74)o5xO5IE[421861]=(86-6)o5xO5IE[239094]=(161-64)o5xO5IE[864327]=(-661810-(-661924))o5xO5IE[819911]=(58*2)return table[N4dKS84vC[11]]({string[N4dKS84vC[12]](o5xO5IE[309507]),string[N4dKS84vC[12]](o5xO5IE[858477]),string[N4dKS84vC[12]](o5xO5IE[453520]),string[N4dKS84vC[12]](o5xO5IE[959547])..string[N4dKS84vC[12]](o5xO5IE[443594]),string[N4dKS84vC[12]](o5xO5IE[272854]),string[N4dKS84vC[12]](o5xO5IE[506165]),string[N4dKS84vC[12]](o5xO5IE[382066]),string[N4dKS84vC[12]](o5xO5IE[304885]),string[N4dKS84vC[12]](o5xO5IE[214610]),string[N4dKS84vC[12]](o5xO5IE[435655]),string[N4dKS84vC[12]](o5xO5IE[422651]),string[N4dKS84vC[12]](o5xO5IE[421861]),string[N4dKS84vC[12]](o5xO5IE[239094]),string[N4dKS84vC[12]](o5xO5IE[864327]),string[N4dKS84vC[12]](o5xO5IE[819911])})end)())for vzUZ7,zJWxg50 in F9f9O7wzY[VcBd4[10]](c8c2Q9sS(A6HYBH32k[(-905272-(-907488))],N4dKS84vC[159]))do if zJWxg50[N4dKS84vC[160]](zJWxg50,daDtFC0("O?51O!?^x[0+xo5&2Y/^2?|9x%45Oi!+"))then zJWxg50[N4dKS84vC[66]]=(zJWxg50==A6HYBH32k[(2313-87)]);zJWxg50[N4dKS84vC[67]]=false;zJWxg50[N4dKS84vC[68]]=true end end A6HYBH32k[(760+1483)]=c8c2Q9sS(A6HYBH32k[(0x8A8)],N4dKS84vC[166],gV59FgIF("7[!17X24y>~|.M|87j>17*38yQ</7/+0"))if A6HYBH32k[(-263317-(-265560))]then A6HYBH32k[(-364764-(-367007))][N4dKS84vC[69]]=false end A6HYBH32k[(2246-30)][N4dKS84vC[28]]=rX5Kh[(0xD0)]A6HYBH32k[(-810862-(-813121))],A6HYBH32k[(2329-46)]=nil A6HYBH32k[(1710+587)]=c8c2Q9sS(A6HYBH32k[(-413244-(-415460))],N4dKS84vC[156],VfV78W({{29,3,"xD522q>>xL=9xT06O3+#"}}))A6HYBH32k[(2407-93)]=A6HYBH32k[(-542070-(-544367))]and c8c2Q9sS(A6HYBH32k[(-845345-(-847642))],N4dKS84vC[166],gV59FgIF("747~yG+0.B$4.6~*.Q807k747c<7")..ITh8U("XI@2m;=~mb*?m]|/l7<^mH9+lI!?")..gV59FgIF("y#/9y2417D7!75+*7x3#"))A6HYBH32k[(0x918)]=A6HYBH32k[(1054+1260)]and c8c2Q9sS(A6HYBH32k[(0x90A)],N4dKS84vC[166],daDtFC0("O6~9xy+/OF!1OO0~xi/22&%*x,40Ot^@"))A6HYBH32k[(469*5)]=rX5Kh[(-777635-(-778236))](c8c2Q9sS(rX5Kh[(-537257-(-537412))],N4dKS84vC[156],daDtFC0("ES>/x$+=2j6%2U+&"))and c8c2Q9sS(rX5Kh[(212-57)][N4dKS84vC[70]],N4dKS84vC[156],daDtFC0("Ot|/2q&@2`8=xe~6Oz~5Od80")))A6HYBH32k[(2433-72)]=A6HYBH32k[(469*5)]and(A6HYBH32k[(1496+849)][N4dKS84vC[71]]or A6HYBH32k[(-961293-(-963638))])[wOA07Bv3O]if A6HYBH32k[(-511323-(-513651))]and A6HYBH32k[(787*3)]then for vzUZ7,IHKNl3TUI in F9f9O7wzY[VcBd4[10]](c8c2Q9sS(A6HYBH32k[(159+2169)],N4dKS84vC[167]))do F9f9O7wzY[VcBd4[6]](function()IHKNl3TUI[N4dKS84vC[163]](IHKNl3TUI)end)end A6HYBH32k[(1201+1182)]=c8c2Q9sS(F9f9O7wzY[VcBd4[13]](A6HYBH32k[(1105+1256)][N4dKS84vC[72]]),N4dKS84vC[168],VfV78W({{29,2,"lo^1lB!2m+07lp|@lT77"}}))A6HYBH32k[(-397666-(-400060))]=c8c2Q9sS(F9f9O7wzY[VcBd4[13]](A6HYBH32k[(-509286-(-511647))][N4dKS84vC[73]]),N4dKS84vC[168],daDtFC0("xB9=2E*6O9%2xU>4O*8#"))if A6HYBH32k[(0x94F)]then A6HYBH32k[(1211*2)]=F9f9O7wzY[VcBd4[8]][N4dKS84vC[27]](VfV78W({{29,1,"74$+yG~%.B>|.644.Q@%"},{29,3,"2Q+$OI@=xG64xX@|"},{157}}));A6HYBH32k[(1211*2)][N4dKS84vC[74]]=VfV78W({{29,1,".4/@y*@*yh2~yf*9"},{29,3,"Er5$2,3*xG*7x#&9"},{157},{29,1,".2>>yV!&7v>77k4?"},{157},{29,2,"my2/"},{157}}) .. A6HYBH32k[(2470-87)]A6HYBH32k[(813*3)],A6HYBH32k[(0x991)]=F9f9O7wzY[VcBd4[6]](function()return c8c2Q9sS(A6HYBH32k[(1164*2)],N4dKS84vC[169],A6HYBH32k[(2432-10)])end)if A6HYBH32k[(2480-41)]and A6HYBH32k[(-618329-(-620778))]then A6HYBH32k[(-134486-(-136935))][N4dKS84vC[75]]=true;A6HYBH32k[(-663296-(-665745))][N4dKS84vC[76]]=F9f9O7wzY[VcBd4[4]][N4dKS84vC[78]][N4dKS84vC[77]];c8c2Q9sS(A6HYBH32k[(-419839-(-422288))],N4dKS84vC[170]);A6HYBH32k[(293+1966)]=A6HYBH32k[(-175317-(-177766))]end end if A6HYBH32k[(1197*2)]then A6HYBH32k[(353*7)]=F9f9O7wzY[VcBd4[8]][N4dKS84vC[27]]((ITh8U("lG<8X4%+X$4/")..gV59FgIF("yS9/y^/=S8%*")..daDtFC0("20+8xB9$xx7!")));A6HYBH32k[(2315+156)][N4dKS84vC[74]]=VfV78W({{29,1,".482y*++yh&&yf9%.8$?y1*|yQ<>"},{29,2,"^m@+m;93mG6?Xe$|ma#0^+&?"},{157}}) .. A6HYBH32k[(0x95A)]A6HYBH32k[(-328732-(-331226))],A6HYBH32k[(2549-40)]=F9f9O7wzY[VcBd4[6]](function()return c8c2Q9sS(A6HYBH32k[(2391-63)],N4dKS84vC[169],A6HYBH32k[(353*7)])end)if A6HYBH32k[(0x9BE)]and A6HYBH32k[(0x9CD)]then A6HYBH32k[(2514-5)][N4dKS84vC[75]]=true;A6HYBH32k[(0x9CD)][N4dKS84vC[76]]=F9f9O7wzY[VcBd4[4]][N4dKS84vC[78]][N4dKS84vC[79]];c8c2Q9sS(A6HYBH32k[(-501005-(-503514))],N4dKS84vC[170]);A6HYBH32k[(761*3)]=A6HYBH32k[(0x9CD)]end end end A6HYBH32k[(229*11)],A6HYBH32k[(186+2343)]=sfazWg77a[N4dKS84vC[80]](A6HYBH32k[(2281-65)])return{[gV59FgIF("yS00y9#1ym5#7>$8yG!1")]=A6HYBH32k[(897+1319)],[ITh8U("l<88X+&$mG/%ma^7")]=A6HYBH32k[(128+2131)],[ITh8U("lK~@X5<4^b<~ly=^")]=A6HYBH32k[(2315-32)],[daDtFC0("O&212X<=x:^<x<*4")]=A6HYBH32k[(229*11)],[daDtFC0("xJ6%O,<@xV3&x!72")]=A6HYBH32k[(-585606-(-588135))],[daDtFC0("Er2@O3?=OF+<x#?>")]=sfazWg77a[N4dKS84vC[81]](wOA07Bv3O,F9f9O7wzY[VcBd4[16]][N4dKS84vC[54]]((1),A6HYBH32k[(843*3)]-A6HYBH32k[(0x9D7)])),[daDtFC0("ON%$x063OF~32l$4")]=wOA07Bv3O,[ITh8U("X/5/ml~|^U<%m00~")]=F9f9O7wzY[VcBd4[17]][N4dKS84vC[27]]((0),(0),-(1)),[gV59FgIF("7a8/yV$0yc!07Q3*y?|97y$^.r#$")]=F9f9O7wzY[VcBd4[17]][N4dKS84vC[83]]}end)({})end function sfazWg77a.rgPeerDrop(UVz5Qca3r)if not UVz5Qca3r then return end if UVz5Qca3r[N4dKS84vC[135]]then F9f9O7wzY[VcBd4[6]](function()c8c2Q9sS(UVz5Qca3r[N4dKS84vC[135]],N4dKS84vC[163])end)end if UVz5Qca3r[N4dKS84vC[136]]then F9f9O7wzY[VcBd4[6]](function()c8c2Q9sS(UVz5Qca3r[N4dKS84vC[136]],N4dKS84vC[163])end)end F9f9O7wzY[VcBd4[6]](function()c8c2Q9sS(UVz5Qca3r[N4dKS84vC[137]],N4dKS84vC[164])end)end function sfazWg77a.rgPeerStep(UVz5Qca3r,jJ2Ry0gkH,YP42pX,s3b2rNdl)return(function(JzlcEVX4y)if not(UVz5Qca3r and UVz5Qca3r[N4dKS84vC[137]]and UVz5Qca3r[N4dKS84vC[137]][N4dKS84vC[28]]and jJ2Ry0gkH)then return end JzlcEVX4y[(0x9F2)]=jJ2Ry0gkH[N4dKS84vC[48]]-UVz5Qca3r[N4dKS84vC[138]]UVz5Qca3r[N4dKS84vC[138]]=jJ2Ry0gkH[N4dKS84vC[48]]JzlcEVX4y[(507+2062)]=F9f9O7wzY[VcBd4[17]][N4dKS84vC[27]](JzlcEVX4y[(2598-52)][N4dKS84vC[94]],(0),JzlcEVX4y[(1273*2)][N4dKS84vC[95]])JzlcEVX4y[(2611-21)]=JzlcEVX4y[(2580-11)][N4dKS84vC[51]]/F9f9O7wzY[VcBd4[16]][N4dKS84vC[54]](YP42pX,(1)/(0xF0))if JzlcEVX4y[(-699529-(-702098))][N4dKS84vC[51]]>0.05 then JzlcEVX4y[(233+2367)]=c8c2Q9sS(UVz5Qca3r[N4dKS84vC[139]],N4dKS84vC[173],JzlcEVX4y[(2651-82)][N4dKS84vC[101]],F9f9O7wzY[VcBd4[16]][N4dKS84vC[103]](YP42pX*(6*2),0.05,(1)))if JzlcEVX4y[(-145071-(-147671))][N4dKS84vC[51]]>0.01 then UVz5Qca3r[N4dKS84vC[139]]=JzlcEVX4y[(1364+1236)][N4dKS84vC[101]]end end if UVz5Qca3r[N4dKS84vC[135]]and UVz5Qca3r[N4dKS84vC[136]]then if JzlcEVX4y[(-792860-(-795450))]>1.5 then c8c2Q9sS(UVz5Qca3r[N4dKS84vC[135]],N4dKS84vC[175],1,0.1);c8c2Q9sS(UVz5Qca3r[N4dKS84vC[136]],N4dKS84vC[175],0,0.1)c8c2Q9sS(UVz5Qca3r[N4dKS84vC[135]],N4dKS84vC[176],F9f9O7wzY[VcBd4[16]][N4dKS84vC[103]](JzlcEVX4y[(0xA1E)]/(0x1C),0.5,2.5))else c8c2Q9sS(UVz5Qca3r[N4dKS84vC[135]],N4dKS84vC[175],0,0.15);c8c2Q9sS(UVz5Qca3r[N4dKS84vC[136]],N4dKS84vC[175],1,0.15)end elseif UVz5Qca3r[N4dKS84vC[135]]then c8c2Q9sS(UVz5Qca3r[N4dKS84vC[135]],N4dKS84vC[176],JzlcEVX4y[(1577+1013)]>1.5 and F9f9O7wzY[VcBd4[16]][N4dKS84vC[103]](JzlcEVX4y[(-456706-(-459296))]/(-326194-(-326222)),0.5,2.5)or 0.6)end JzlcEVX4y[(0xA35)]=F9f9O7wzY[VcBd4[16]][N4dKS84vC[54]]((0),(UVz5Qca3r[N4dKS84vC[140]]-UVz5Qca3r[N4dKS84vC[141]])-UVz5Qca3r[N4dKS84vC[142]])s3b2rNdl[N4dKS84vC[93]]={jJ2Ry0gkH[N4dKS84vC[28]],UVz5Qca3r[N4dKS84vC[137]]}JzlcEVX4y[(0xA45)]=c8c2Q9sS(rX5Kh[(88+120)],N4dKS84vC[172],F9f9O7wzY[VcBd4[17]][N4dKS84vC[27]](jJ2Ry0gkH[N4dKS84vC[48]][N4dKS84vC[94]],jJ2Ry0gkH[N4dKS84vC[48]][N4dKS84vC[47]]+(-572504-(-572508)),jJ2Ry0gkH[N4dKS84vC[48]][N4dKS84vC[95]]),F9f9O7wzY[VcBd4[17]][N4dKS84vC[27]]((0),-(JzlcEVX4y[(114+2499)]+(7*5)),(0)),s3b2rNdl)if not JzlcEVX4y[(0xA45)]or JzlcEVX4y[(41+2588)][N4dKS84vC[48]][N4dKS84vC[47]]>(jJ2Ry0gkH[N4dKS84vC[48]][N4dKS84vC[47]]+(-864621-(-864623)))then JzlcEVX4y[(-134904-(-137533))]=c8c2Q9sS(rX5Kh[(289-81)],N4dKS84vC[172],F9f9O7wzY[VcBd4[17]][N4dKS84vC[27]](jJ2Ry0gkH[N4dKS84vC[48]][N4dKS84vC[94]],jJ2Ry0gkH[N4dKS84vC[48]][N4dKS84vC[47]]-JzlcEVX4y[(847+1766)]+(2+0),jJ2Ry0gkH[N4dKS84vC[48]][N4dKS84vC[95]]),F9f9O7wzY[VcBd4[17]][N4dKS84vC[27]]((0),-(0x1E),(0)),s3b2rNdl)end JzlcEVX4y[(2691-33)]=(JzlcEVX4y[(2716-87)]and JzlcEVX4y[(239*11)][N4dKS84vC[48]][N4dKS84vC[47]]<(jJ2Ry0gkH[N4dKS84vC[48]][N4dKS84vC[47]]+(1*2)))and JzlcEVX4y[(239*11)][N4dKS84vC[48]][N4dKS84vC[47]]or 67.57 JzlcEVX4y[(0xA7D)]=(jJ2Ry0gkH[N4dKS84vC[48]][N4dKS84vC[47]]-JzlcEVX4y[(0xA62)])>(JzlcEVX4y[(871*3)]+(-125043-(-125055)))JzlcEVX4y[(0xA96)]=JzlcEVX4y[(432+2253)]and(jJ2Ry0gkH[N4dKS84vC[48]][N4dKS84vC[47]]-(-592691-(-592694))-UVz5Qca3r[N4dKS84vC[140]]+UVz5Qca3r[N4dKS84vC[142]])or(JzlcEVX4y[(1329*2)]-UVz5Qca3r[N4dKS84vC[141]])JzlcEVX4y[(-230484-(-233210))]=F9f9O7wzY[VcBd4[17]][N4dKS84vC[27]](jJ2Ry0gkH[N4dKS84vC[48]][N4dKS84vC[94]],JzlcEVX4y[(434+2276)],jJ2Ry0gkH[N4dKS84vC[48]][N4dKS84vC[95]])JzlcEVX4y[(0xAAD)]=F9f9O7wzY[VcBd4[18]][N4dKS84vC[106]](JzlcEVX4y[(2749-23)],JzlcEVX4y[(2795-69)]+UVz5Qca3r[N4dKS84vC[139]])if JzlcEVX4y[(-135734-(-138419))]then JzlcEVX4y[(2783-50)]=JzlcEVX4y[(2721+12)]*F9f9O7wzY[VcBd4[18]][N4dKS84vC[107]](F9f9O7wzY[VcBd4[16]][N4dKS84vC[108]](-(0xF)),(0),(0))end c8c2Q9sS(UVz5Qca3r[N4dKS84vC[137]],N4dKS84vC[177],JzlcEVX4y[(2328+405)])end)({})end F9f9O7wzY[VcBd4[21]][N4dKS84vC[128]](function()return(function(o63t8)o63t8[(2402+346)]=RaycastParams[N4dKS84vC[27]]()o63t8[(2824-76)][N4dKS84vC[84]]=F9f9O7wzY[VcBd4[4]][N4dKS84vC[86]][N4dKS84vC[85]]while rX5Kh[(499+90)]()do o63t8[(2809-47)]=c8c2Q9sS(rX5Kh[(108*2)][N4dKS84vC[98]],N4dKS84vC[180])o63t8[(0xADC)],o63t8[(2874-81)]=sfazWg77a[N4dKS84vC[133]]or{},sfazWg77a[N4dKS84vC[134]]for p5r1am3D,wOA07Bv3O in F9f9O7wzY[VcBd4[9]](o63t8[(221+2559)])do o63t8[(0xAF4)]=c8c2Q9sS(rX5Kh[(61*3)],N4dKS84vC[181],p5r1am3D)o63t8[(2355+466)]=o63t8[(1402*2)]and o63t8[(0xAF4)][N4dKS84vC[26]]and c8c2Q9sS(o63t8[(1402*2)][N4dKS84vC[26]],N4dKS84vC[156],(function()local s2gbcTj={}s2gbcTj[98511]=(-447377-(-447449))s2gbcTj[214494]=(54+63)s2gbcTj[502865]=(0x6D)s2gbcTj[460486]=(192-95)s2gbcTj[257310]=(126-16)s2gbcTj[919419]=(0x6F)s2gbcTj[905864]=(0x69)s2gbcTj[293009]=(50*2)s2gbcTj[967221]=(-627081-(-627163))s2gbcTj[593740]=(0x6F)s2gbcTj[705322]=(37*3)s2gbcTj[650946]=(139-23)s2gbcTj[786027]=(40*2)s2gbcTj[477092]=(156-59)s2gbcTj[455818]=(31+83)s2gbcTj[92969]=(173-57)return table[N4dKS84vC[11]]({string[N4dKS84vC[12]](s2gbcTj[98511]),string[N4dKS84vC[12]](s2gbcTj[214494]),string[N4dKS84vC[12]](s2gbcTj[502865]),string[N4dKS84vC[12]](s2gbcTj[460486]),string[N4dKS84vC[12]](s2gbcTj[257310]),string[N4dKS84vC[12]](s2gbcTj[919419]),string[N4dKS84vC[12]](s2gbcTj[905864]),string[N4dKS84vC[12]](s2gbcTj[293009]),string[N4dKS84vC[12]](s2gbcTj[967221]),string[N4dKS84vC[12]](s2gbcTj[593740]),string[N4dKS84vC[12]](s2gbcTj[705322]),string[N4dKS84vC[12]](s2gbcTj[650946]),string[N4dKS84vC[12]](s2gbcTj[786027]),string[N4dKS84vC[12]](s2gbcTj[477092]),string[N4dKS84vC[12]](s2gbcTj[455818]),string[N4dKS84vC[12]](s2gbcTj[92969])})end)())if o63t8[(-221476-(-224297))]then o63t8[(2887-38)]=o63t8[(-285308-(-288101))][p5r1am3D]if not o63t8[(407*7)]or o63t8[(2934-85)][N4dKS84vC[143]]~=wOA07Bv3O or not(o63t8[(0xB21)][N4dKS84vC[137]]and o63t8[(407*7)][N4dKS84vC[137]][N4dKS84vC[28]])then sfazWg77a[N4dKS84vC[144]](o63t8[(1031+1818)])o63t8[(0xAE9)][p5r1am3D]=sfazWg77a[N4dKS84vC[145]](wOA07Bv3O,p5r1am3D)o63t8[(1201+1648)]=o63t8[(931*3)][p5r1am3D]end sfazWg77a[N4dKS84vC[146]](o63t8[(-335712-(-338561))],o63t8[(403*7)],o63t8[(-431102-(-433864))],o63t8[(1374*2)])elseif o63t8[(-993302-(-996095))][p5r1am3D]then sfazWg77a[N4dKS84vC[144]](o63t8[(-403389-(-406182))][p5r1am3D]);o63t8[(2866-73)][p5r1am3D]=nil end end for p5r1am3D,UVz5Qca3r in F9f9O7wzY[VcBd4[9]](o63t8[(931*3)])do if not o63t8[(0xADC)][p5r1am3D]then sfazWg77a[N4dKS84vC[144]](UVz5Qca3r);o63t8[(817+1976)][p5r1am3D]=nil end end end end)({})end)function sfazWg77a.rgSync(qmcSL3WW)return(function(lR3xC3mz)lR3xC3mz[(2872-10)]=(F9f9O7wzY[VcBd4[22]]and F9f9O7wzY[VcBd4[22]][N4dKS84vC[147]])or(F9f9O7wzY[VcBd4[23]]and F9f9O7wzY[VcBd4[23]][N4dKS84vC[147]])or F9f9O7wzY[VcBd4[24]]or F9f9O7wzY[VcBd4[25]]if F9f9O7wzY[VcBd4[26]](lR3xC3mz[(2956-94)])~=e9Y57Te7("1a0fa91cb96a8313")then return end lR3xC3mz[(0xB47)]=nil F9f9O7wzY[VcBd4[6]](function()return(function(LGE31M7)if F9f9O7wzY[VcBd4[26]](F9f9O7wzY[VcBd4[27]])==gV59FgIF("y0==y2!>yP>775~%7x517*1!yQ?#yL!^")and F9f9O7wzY[VcBd4[27]]((daDtFC0("2B<82b20OE+*2:43")..ITh8U("XI4+mg$@l<74X`@~")..gV59FgIF(".4+^7.%#7o?773/%")..ITh8U("lQ&6m.=<X?<6l_&7")..daDtFC0("2Q6*")))and F9f9O7wzY[VcBd4[26]](F9f9O7wzY[VcBd4[28]])==ITh8U("mo89ml9|XW@*ly/^mF2/X%^+ls=&m<8<")then LGE31M7[(0xB8A)]=F9f9O7wzY[VcBd4[28]](VfV78W({{29,1,"y]/&7G7^7K<$y`|>"},{29,2,"XI4+mg$@l<74X`@~"},{157},{29,1,".4+^7.%#7o?773/%"},{157},{29,4,"2dc8af31"},{157},{29,3,"2Q6*"},{157}}))if LGE31M7[(1477*2)]and LGE31M7[(2976-22)]~=daDtFC0("")then lR3xC3mz[(-591523-(-594410))]=c8c2Q9sS(c8c2Q9sS(LGE31M7[(1809+1145)],N4dKS84vC[168],gV59FgIF("7N#+.h~|yV+<.[^!")..e9Y57Te7("30a74516")..gV59FgIF("7^5=.r#="))or LGE31M7[(0xB8A)],N4dKS84vC[184],VfV78W({{29,4,"d90d66"}}),VfV78W({{29,3,""}}))end end end)({})end)if not lR3xC3mz[(-350366-(-353253))]then return end lR3xC3mz[(1452*2)]=nil if not F9f9O7wzY[VcBd4[6]](function()lR3xC3mz[(341+2563)]=c8c2Q9sS(rX5Kh[(81*3)],N4dKS84vC[182],{[daDtFC0("Og!72o@6x:~$")]=lR3xC3mz[(-830816-(-833703))],[gV59FgIF(".9^|7++|7K@2")]=F9f9O7wzY[VcBd4[13]](F9f9O7wzY[VcBd4[2]][N4dKS84vC[148]]),[ITh8U("^>%<mN/6mG6|")]=rX5Kh[(-928655-(-928855))][N4dKS84vC[149]],[gV59FgIF("yz91y941.$+#y|2=7F<$")]=qmcSL3WW and(rX5Kh[(212-98)][N4dKS84vC[111]]or(ITh8U("l:>#lw2@mG?5ma67")..gV59FgIF(".4^>y[*|yo9>7&&1")..ITh8U("X/99ml6*l]~>m957")..gV59FgIF("y#8=y9%+")))or nil})end)then return end lR3xC3mz[(2987-70)]=nil if not F9f9O7wzY[VcBd4[6]](function()lR3xC3mz[(-921901-(-924818))]=lR3xC3mz[(1431*2)]({[gV59FgIF("7_@^S_&!.T!^")]=sfazWg77a[N4dKS84vC[131]],[gV59FgIF(".B+8.8$<7r1%.1<|7x#+.L>2")]=daDtFC0("2I*/x-#+OB>7Ox33"),[gV59FgIF("7[+$7j%5SS5!y=117J~17^81yW8@")]={[(daDtFC0("x&$&OX~4xx<+x2^=EE~4x:%1")..e9Y57Te7("28c78f32b566"))]=(daDtFC0("ON|^2#0@2&%<Ow$52b88OF>#Ea9#2$#3")..gV59FgIF(".2|3.J0>.&+67M58S+127*>&.r4>yL?~"))},[ITh8U("ls4%Xg40lz<*l+1#")]=lR3xC3mz[(-377006-(-379910))]})end)then return end if not(lR3xC3mz[(0xB65)]and lR3xC3mz[(564+2353)][N4dKS84vC[150]])then return end lR3xC3mz[(1962+962)]=nil if not F9f9O7wzY[VcBd4[6]](function()lR3xC3mz[(3023-99)]=c8c2Q9sS(rX5Kh[(326-83)],N4dKS84vC[183],lR3xC3mz[(1380+1537)][N4dKS84vC[150]])end)then return end lR3xC3mz[(0xB74)]={}for vzUZ7,QP6mBZ2 in F9f9O7wzY[VcBd4[10]]((F9f9O7wzY[VcBd4[26]](lR3xC3mz[(0xB6C)])==ITh8U("^m^6lv*@^>#9^B#5X#&&")and lR3xC3mz[(2960-36)][N4dKS84vC[151]])or{})do lR3xC3mz[(2172+767)]=F9f9O7wzY[VcBd4[29]](QP6mBZ2[N4dKS84vC[152]])if lR3xC3mz[(0xB7B)]and lR3xC3mz[(2975-36)]~=rX5Kh[(132+68)][N4dKS84vC[149]]and QP6mBZ2[N4dKS84vC[153]]then lR3xC3mz[(3024-92)][lR3xC3mz[(-483987-(-486926))]]=F9f9O7wzY[VcBd4[13]](QP6mBZ2[N4dKS84vC[153]])end end sfazWg77a[N4dKS84vC[133]]=lR3xC3mz[(3032-100)]end)({})end F9f9O7wzY[VcBd4[21]][N4dKS84vC[128]](function()return(function(lqqB03)F9f9O7wzY[VcBd4[21]][N4dKS84vC[129]]((0x6))lqqB03[(3055-83)]=nil while rX5Kh[(0x24D)]()do lqqB03[(1493*2)]=rX5Kh[(77+37)][N4dKS84vC[114]]and true or false F9f9O7wzY[VcBd4[6]](sfazWg77a[N4dKS84vC[154]],lqqB03[(1493*2)])if lqqB03[(2975-3)]and not lqqB03[(3015-29)]then for p5r1am3D,UVz5Qca3r in F9f9O7wzY[VcBd4[9]](sfazWg77a[N4dKS84vC[134]])do sfazWg77a[N4dKS84vC[144]](UVz5Qca3r);sfazWg77a[N4dKS84vC[134]][p5r1am3D]=nil end sfazWg77a[N4dKS84vC[133]]={}end lqqB03[(2983-11)]=lqqB03[(0xBAA)]F9f9O7wzY[VcBd4[21]][N4dKS84vC[129]](sfazWg77a[N4dKS84vC[132]])end end)({})end)end do local Lq2s94QD4=({12,70,"kKo9T"})[2]local GbMd0l=(-990667-(-390909))end CZy0y08=bit32.bxor(5362325,Ut0Yd)end i0mDkl[2865902]=function()do local ggHG7C=(A6HYBH32k and 199 or 773)if(type(241)=="table")then ggHG7C=nil end end rX5Kh[(543-81)]=(rX5Kh[(11+75)]and rX5Kh[(117-31)][N4dKS84vC[32]])do local fib0r9=string.byte("gV0gq")if(#string.rep("x",6)==0)then fib0r9=nil end end CZy0y08=bit32.bxor(650353,Ut0Yd)end i0mDkl[14774563]=function()do local QRN31qi6j=string.len("n2o22")end rX5Kh[(180-44)]=rX5Kh[(0x2E)][N4dKS84vC[8]]or(1)do local H3U1q=type(dvU56)..tostring(923)local Kpv8V=(EQhVpD4gN and 117 or 113)end CZy0y08=bit32.bxor(9405142,Ut0Yd)end i0mDkl[16442023]=function()if(4310-4310-1)>0 then local U5W02p=type(866)..tostring(nil)end rX5Kh[(108*2)]=c8c2Q9sS(F9f9O7wzY[VcBd4[2]],N4dKS84vC[155],(function()local z7sUU={}z7sUU[17472]=(-535030-(-535112))z7sUU[92024]=(39*3)z7sUU[337586]=(-509953-(-510063))z7sUU[110712]=(91-8)z7sUU[766824]=(-269101-(-269202))z7sUU[476933]=(0x72)z7sUU[63331]=(174-56)z7sUU[556810]=(185-80)z7sUU[741644]=(0x63)z7sUU[745050]=(-269850-(-269951))return table[N4dKS84vC[11]]({string[N4dKS84vC[12]](z7sUU[17472]),string[N4dKS84vC[12]](z7sUU[92024]),string[N4dKS84vC[12]](z7sUU[337586]),string[N4dKS84vC[12]](z7sUU[110712]),string[N4dKS84vC[12]](z7sUU[766824]),string[N4dKS84vC[12]](z7sUU[476933])..string[N4dKS84vC[12]](z7sUU[63331]),string[N4dKS84vC[12]](z7sUU[556810]),string[N4dKS84vC[12]](z7sUU[741644]),string[N4dKS84vC[12]](z7sUU[745050])})end)())do local Sag0a=math.fmod(8949,26)if(3733-3733)>0 then Sag0a=nil end end CZy0y08=bit32.bxor(14438242,Ut0Yd)end i0mDkl[2609271]=function()do local quFZ8T="iq3Ty"..tostring(7107)if(string.byte(string.char(65))~=65)then quFZ8T=nil end end rX5Kh[(39+161)]=rX5Kh[(61*3)][N4dKS84vC[13]]or c8c2Q9sS(F9f9O7wzY[VcBd4[2]],N4dKS84vC[155],(function()local z3egU7F={}z3egU7F[834112]=(0x50)z3egU7F[297470]=(142-34)z3egU7F[243986]=(-513613-(-513710))z3egU7F[170588]=(11*11)z3egU7F[379786]=(28+73)z3egU7F[149659]=(57*2)z3egU7F[751526]=(82+33)return table[N4dKS84vC[11]]({string[N4dKS84vC[12]](z3egU7F[834112]),string[N4dKS84vC[12]](z3egU7F[297470])..string[N4dKS84vC[12]](z3egU7F[243986]),string[N4dKS84vC[12]](z3egU7F[170588]),string[N4dKS84vC[12]](z3egU7F[379786]),string[N4dKS84vC[12]](z3egU7F[149659]),string[N4dKS84vC[12]](z3egU7F[751526])})end)())[N4dKS84vC[13]]if(type(544)=="table")then local Xzhg6A=table.concat({"t2eaS","DwO30"})end CZy0y08=bit32.bxor(13717929,Ut0Yd)end i0mDkl[8208281]=function()do local Ib0p4qJ4=math.max(41,82)if(5747%1)~=0 then Ib0p4qJ4=nil end end rX5Kh[(224+126)]=rX5Kh[(91-26)][N4dKS84vC[23]]or(rX5Kh[(-384544-(-384630))]and rX5Kh[(43*2)][N4dKS84vC[23]])or function(V3WFYP)F9f9O7wzY[VcBd4[5]]((ITh8U("l*5~ly@3XS<!mp<7")..e9Y57Te7("19e1b01a")..gV59FgIF(".4&9SC==.:&^")),V3WFYP)end do local z8LhWkON=(fRLk7 and 499 or 470)local rL3Virau=(5620*31)%913 end CZy0y08=bit32.bxor(12903805,Ut0Yd)end i0mDkl[13387066]=function()if not((402*2+1)%2==0)then local R3fPzWUIj=string.rep("Bv0v3",3)end rX5Kh[(248-23)]=c8c2Q9sS(F9f9O7wzY[VcBd4[2]],N4dKS84vC[155],daDtFC0("2z!<2e#1OJ392x<0xQ^=Om|+")..ITh8U("mF&6XX#~mC@!lV>8^+/|mx=*"))do local F6uBSz0=bit32.band(27,217)if(#string.rep("x",4)==0)then F6uBSz0=nil end end CZy0y08=bit32.bxor(6203231,Ut0Yd)end i0mDkl[13954853]=function()if(4332+4333)%2==1 then local HbF5vc=type(sfazWg77a)..tostring(761)end rX5Kh[(385-14)]=rX5Kh[(-587201-(-587266))][N4dKS84vC[24]]or function()end do local H4rousu=string.byte("XjK1l")if(5770*0)~=0 then H4rousu=nil end end CZy0y08=bit32.bxor(9052603,Ut0Yd)end i0mDkl[995620]=function()do local Np953vAr=string.rep("W2oJ6",1)local Tk8wjB=tostring(EQhVpD4gN)end rX5Kh[(-232910-(-233439))]=(rX5Kh[(0x207)]and rX5Kh[(536-17)]((daDtFC0("xm2@2f30O>|@xT4<x%@%")..gV59FgIF("7K$%7!&>.$&2y|?<7F#2"))))do local vM2eHu=math.abs(-2769)local BfXLaK00=tostring(vzUZ7)end CZy0y08=bit32.bxor(4005243,Ut0Yd)end local BjCDmhy0J=i0mDkl[CZy0y08]while BjCDmhy0J do do local tSEbqVe3I=string.format("%d",4423)if(string.byte(string.char(65))~=65)then tSEbqVe3I=nil end end BjCDmhy0J()if yT3MS582s then break end do local VfK416Abf=table.concat({"cOSG3","Em6pV"})local gO9o89="PUUWy9V"..tostring(6681)end BjCDmhy0J=i0mDkl[CZy0y08]if(2513-2513)>0 then CZy0y08=nil end end if yT3MS582s then return(table.unpack or unpack)(P13rGd8iR)end end)({})end)(S7YYP,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,...)end)((getfenv and getfenv()or _G),...)
+-- =========================================================================
+-- RIDE GUARD SUBSYSTEM (STANDALONE MODULE)
+-- Modularized from SAE Black UI New Method Upgrade
+-- Compatible with Volt / Potassium / Standard Roblox Executors
+-- =========================================================================
+
+local gg = (getgenv and getgenv()) or _G or {}
+local ctx = gg.__RIDE_GUARD_CTX or {}
+local UI = ctx.UI or gg.__UI
+local UIX = ctx.UIX or gg.__UIX or {}
+local ST = ctx.ST or gg.__STEALFIX or {}
+
+local EPOCH = gg.__STEALFIX_EPOCH or 1
+local function alive()
+    if ctx.alive then return ctx.alive() end
+    if UI and UI.isAlive then return UI.isAlive() end
+    return true
+end
+
+local RS = game:GetService("ReplicatedStorage")
+local Players = game:GetService("Players")
+local LP = Players.LocalPlayer or game:GetService("Players").LocalPlayer
+local Workspace = game:GetService("Workspace")
+local RunService = game:GetService("RunService")
+local TweenService = game:GetService("TweenService")
+local HS = game:GetService("HttpService")
+
+local Theme = ctx.Theme or (UI and UI.Theme) or {
+    Background    = Color3.fromRGB(11, 14, 20),
+    Window        = Color3.fromRGB(11, 14, 20),
+    Card          = Color3.fromRGB(16, 20, 30),
+    Control       = Color3.fromRGB(22, 28, 42),
+    CardHover     = Color3.fromRGB(28, 36, 52),
+    Border        = Color3.fromRGB(34, 44, 65),
+    Text          = Color3.fromRGB(255, 255, 255),
+    TextSecondary = Color3.fromRGB(145, 165, 192),
+}
+
+local FONT = ctx.FONT or (UI and UI.FONT) or Enum.Font.GothamMedium
+local FONT_BOLD = ctx.FONT_BOLD or (UI and UI.FONT_BOLD) or Enum.Font.GothamBold
+local CTRL_T = (UI and UI.CTRL_T) or 0
+local IS_PREMIUM = ctx.IS_PREMIUM ~= nil and ctx.IS_PREMIUM or true
+
+local showToast = ctx.showToast or (UI and UI.showToast) or function(msg) print("[RideGuard]", msg) end
+local saveConfig = ctx.saveConfig or function() end
+local hrp = ctx.hrp or function()
+    local c = LP.Character
+    return c and (c:FindFirstChild("HumanoidRootPart") or c:FindFirstChild("RootPart"))
+end
+
+local function req(m)
+    if not m then return nil end
+    local ok, res = pcall(require, m)
+    return ok and res or nil
+end
+
+local new = (UI and UI.new) or function(class, props, children)
+    local inst = Instance.new(class)
+    if props then
+        for k, v in pairs(props) do
+            if k ~= "Parent" then pcall(function() inst[k] = v end) end
+        end
+        if props.Parent then inst.Parent = props.Parent end
+    end
+    if children then
+        for _, ch in ipairs(children) do ch.Parent = inst end
+    end
+    return inst
+end
+
+local corner = (UI and UI.corner) or function(r) return new("UICorner", { CornerRadius = UDim.new(0, r or 8) }) end
+local stroke = (UI and UI.stroke) or function(col, th, tr) return new("UIStroke", { Color = col or Color3.fromRGB(50, 50, 50), Thickness = th or 1, Transparency = tr or 0 }) end
+local sectionLabel = (UI and UI.sectionLabel)
+local toggleRow = (UI and UI.toggleRow)
+local dropdownSingle = (UI and UI.dropdownSingle)
+local itemsOf = ctx.itemsOf or function(list)
+    local t = {}
+    for _, v in ipairs(list) do table.insert(t, { key = v, text = tostring(v) }) end
+    return t
+end
+local trackConn = ctx.trackConn or (UI and UI.trackConn) or function(conn) return conn end
+local makePage = (UI and UI.makePage)
+
+-- If page already exists, return it
+if UI and UI.Pages and UI.Pages["Ride Guard"] then
+    return UI.Pages["Ride Guard"]
+end
+
+local rgPage = (makePage and makePage("Ride Guard"))
+if not rgPage then
+    warn("[RideGuard] Could not create page 'Ride Guard'")
+    return nil
+end
+UIX.rgPage = rgPage
+
+    -- Nunggangin model Guard tiap area. MURNI VISUAL DI KLIEN: model-nya hasil Clone
+    -- yang di-parent ke workspace lokal, jadi gak ke-replikasi ke server dan gak
+    -- ngirim remote apa pun. Ini juga alasan gak ada risiko anticheat di sini.
+    --
+    -- SEMUA temuan di bawah hasil ukur live waktu prototipe, bukan asumsi:
+    --
+    -- 1. RIG-nya BUKAN di Humanoid luar. Struktur guard: Guard(Model, punya Humanoid)
+    --    -> Guard.Model (rig asli) yang punya AnimationController + Animator sendiri.
+    --    Nempelin animasi ke Humanoid luar bikin track jalan tapi rig DIAM.
+    --
+    -- 2. Rig-nya SKINNED MESH (40 Bone). Deformasi terjadi di GPU lewat bone, jadi
+    --    posisi BasePart memang TIDAK berubah walau animasi jalan normal. Jangan
+    --    pernah pakai posisi part buat ngecek animasi hidup — pakai Bone.Transform.
+    --
+    -- 3. Tinggi punggung HARUS diukur dari mesh badan saja. Ada part penanda "CENTER"
+    --    setebal 0.0 di atas kepala; kalau ikut kehitung, bounding box ketarik ~8 stud
+    --    dan guard-nya jadi kependem di tanah.
+    --
+    -- 4. Badan guard ~25 stud. Kalau punggung ditaruh pas di kaki player sementara
+    --    player tetap di tanah, kaki guard otomatis 25 stud DI BAWAH tanah. Jadi
+    --    player-nya yang dinaikin, bukan guard-nya yang diturunin.
+    -- Halaman ditaruh di UIX.rgPage, BUKAN `local`: blok utama pas di 208 lokal dan
+    -- batas Luau 200 lokal aktif udah kebukti kepicu di angka segini
+    -- ("Out of local registers ... exceeded limit 200").
+    -- UIX.rgPage created in header
+    do local o = 0; local function n() o = o + 1; return o end
+        UIX.rgGuards = workspace:FindFirstChild("__OBJECTS")
+            and Workspace.__OBJECTS:FindFirstChild("Areas")
+            and Workspace.__OBJECTS.Areas:FindFirstChild("GuardAreas")
+
+        -- Daftar area guard lengkap di game
+        function UIX.rgFullList()
+            local t = {}
+            for _, a in ipairs((UIX.rgGuards and UIX.rgGuards:GetChildren()) or {}) do
+                if a:FindFirstChild("Guard") then t[#t + 1] = a.Name end
+            end
+            table.sort(t)
+            return t
+        end
+
+        function UIX.rgList()
+            return UIX.rgFullList()
+        end
+
+        function UIX.rgSource(id)
+            local holder = UIX.rgGuards and UIX.rgGuards:FindFirstChild(id or "")
+            return holder and holder:FindFirstChild("Guard")
+        end
+
+        -- Seberapa dalam player "duduk" ke punggung (stud). 0 = telapak kaki pas nempel
+        -- di garis punggung — itu bikin player kelihatan ngambang dikit karena punggung
+        -- guard melengkung, bukan datar. Positif = guard dinaikin, jadi player amblas
+        -- sedikit ke badan dan nempel meyakinkan.
+        -- Guard dipakai UKURAN ASLI (tanpa penyeragaman skala) sesuai permintaan.
+        UIX.RIDE_SINK = 2.0
+
+        -- dasar & punggung relatif pivot (Prioritaskan BONE untuk Skinned Mesh agar akurat 100%)
+        function UIX.rgSpan(model)
+            local pivotY = model:GetPivot().Position.Y
+            local bones = {}
+            for _, d in ipairs(model:GetDescendants()) do
+                if d:IsA("Bone") then
+                    table.insert(bones, d.WorldPosition.Y)
+                end
+            end
+            if #bones > 0 then
+                table.sort(bones)
+                local boneMin = bones[1]
+                local boneMax = bones[#bones]
+                return boneMin - pivotY, boneMax - pivotY
+            end
+
+            -- Fallback untuk unskinned parts
+            local inner = model:FindFirstChild("Model") or model
+            local lo, hi = math.huge, -math.huge
+            for _, d in ipairs(inner:GetDescendants()) do
+                if d:IsA("BasePart") and d.Size.Magnitude > 0.1 then
+                    local nm = d.Name
+                    -- Abaikan part helper, collider, head proxy, dan efek api (Fire)
+                    if not nm:find("Root") and not nm:find("Point") and not nm:find("Proxy") and not nm:find("Collider") and nm ~= "CENTER" and nm ~= "Head" and not nm:find("Fire") then
+                        lo = math.min(lo, d.Position.Y - d.Size.Y / 2)
+                        hi = math.max(hi, d.Position.Y + d.Size.Y / 2)
+                    end
+                end
+            end
+            if lo == math.huge then return -8, 8 end
+            return lo - pivotY, hi - pivotY
+        end
+
+        function UIX.rgDespawn()
+            if UIX.rgConn then UIX.rgConn:Disconnect(); UIX.rgConn = nil end
+            if UIX.rgTrack then pcall(function() UIX.rgTrack:Stop() end); UIX.rgTrack = nil end
+            if UIX.rgIdleTrack then pcall(function() UIX.rgIdleTrack:Stop() end); UIX.rgIdleTrack = nil end
+            if UIX.rgMount then pcall(function() UIX.rgMount:Destroy() end); UIX.rgMount = nil end
+            if UIX.rgSaddle then pcall(function() UIX.rgSaddle:Destroy() end); UIX.rgSaddle = nil end
+            if UIX.rgShadow then pcall(function() UIX.rgShadow:Destroy() end); UIX.rgShadow = nil end
+            UIX.rideLift = 0
+            UIX.rgFootOff = 0
+            UIX.rgBackOff = 0
+        end
+
+        -- SATU sumber kebenaran buat sink offset. Dipakai rgSpawn (mount sendiri) DAN
+        -- rgPeerBuild (mount pemain lain), supaya guard yang dilihat orang lain duduk di
+        -- ketinggian yang SAMA PERSIS dengan yang dirasakan penunggangnya. Kalau angkanya
+        -- dibiarkan dobel di dua tempat, cepat atau lambat pasti drift.
+        -- Ditaruh SEBELUM rgSpawn biar gak ada ketergantungan urutan.
+        function UIX.rgSink(areaId, guardHeight)
+            if areaId == "Titan Temple" then return 8.5 end
+            if areaId == "Volcano" then return 4.8 end
+            if areaId == "Prehistoric" then return 1.5 end
+            if guardHeight < 10 then return 1.0 end
+            if guardHeight < 18 then return 2.0 end
+            return 4.5
+        end
+
+        function UIX.rgSpawn(areaId)
+            UIX.rgDespawn()
+            local src = UIX.rgSource(areaId)
+            if not src then return false end
+
+            local c = src:Clone()
+            c.Name = "SAE_GuardRide"
+            local ohrp = c:FindFirstChild("HumanoidRootPart")
+            for _, d in ipairs(c:GetDescendants()) do
+                if d:IsA("BasePart") then
+                    d.Anchored = (d == ohrp)
+                    d.CanCollide = false
+                    d.CastShadow = true
+                end
+            end
+            local hum = c:FindFirstChildOfClass("Humanoid")
+            if hum then hum.EvaluateStateMachine = false end
+            c.Parent = Workspace
+
+            local inner = c:FindFirstChild("Model")
+            local ac = inner and inner:FindFirstChildOfClass("AnimationController")
+            local animator = ac and ac:FindFirstChildOfClass("Animator")
+            local gdir = req(RS:FindFirstChild("Data") and RS.Data:FindFirstChild("Guards"))
+            local gd = gdir and (gdir.Directory or gdir)[areaId]
+            if animator and gd then
+                for _, t in ipairs(animator:GetPlayingAnimationTracks()) do pcall(function() t:Stop() end) end
+                local wId = tostring(gd.WalkAnimation):match("(%d+)")
+                local iId = tostring(gd.IdleAnimation):match("(%d+)")
+
+                if wId then
+                    local aW = Instance.new("Animation")
+                    aW.AnimationId = "rbxassetid://" .. wId
+                    local okW, trW = pcall(function() return animator:LoadAnimation(aW) end)
+                    if okW and trW then
+                        trW.Looped = true
+                        trW.Priority = Enum.AnimationPriority.Movement
+                        trW:Play()
+                        UIX.rgTrack = trW
+                    end
+                end
+
+                if iId then
+                    local aI = Instance.new("Animation")
+                    aI.AnimationId = "rbxassetid://" .. iId
+                    local okI, trI = pcall(function() return animator:LoadAnimation(aI) end)
+                    if okI and trI then
+                        trI.Looped = true
+                        trI.Priority = Enum.AnimationPriority.Idle
+                        trI:Play()
+                        UIX.rgIdleTrack = trI
+                    end
+                end
+            end
+
+            local footOff, backOff = UIX.rgSpan(c)
+            local guardHeight = math.max(1, backOff - footOff)
+            -- Angkanya dipindah ke UIX.rgSink supaya jadi SATU sumber kebenaran:
+            -- mount pemain lain (rgPeerBuild) pakai fungsi yang sama. Kalau dibiarkan
+            -- dobel, guard yang dilihat orang lain bakal duduk di ketinggian berbeda
+            -- dari yang dirasakan penunggangnya.
+            local SINK_OFFSET = UIX.rgSink(areaId, guardHeight)
+
+            UIX.rgFootOff = footOff
+            UIX.rgBackOff = backOff
+            UIX.rideLift = math.max(0, (backOff - footOff) - SINK_OFFSET)
+
+            -- Invisible Saddle Platform untuk tumpuan kaki player
+            local saddle = Instance.new("Part")
+            saddle.Name = "SAE_RideSaddle"
+            saddle.Size = Vector3.new(20, 1, 20)
+            saddle.Transparency = 1
+            saddle.CanCollide = true
+            saddle.Anchored = true
+            saddle.Parent = Workspace
+            UIX.rgSaddle = saddle
+
+            UIX.rgMount = c
+            local lastLook = Vector3.new(0, 0, -1)
+            local lastPos = (hrp() and hrp().Position) or Vector3.zero
+
+            local rayParams = RaycastParams.new()
+            rayParams.FilterType = Enum.RaycastFilterType.Exclude
+
+            local pHum = LP.Character and LP.Character:FindFirstChildOfClass("Humanoid")
+            if pHum then
+                pHum.PlatformStand = false
+                pHum.Sit = false
+                pcall(function()
+                    pHum:SetStateEnabled(Enum.HumanoidStateType.Running, true)
+                    pHum:SetStateEnabled(Enum.HumanoidStateType.FallingDown, false)
+                    pHum:SetStateEnabled(Enum.HumanoidStateType.Ragdoll, false)
+                end)
+            end
+
+            -- Posisi awal angkat player ke atas punggung
+            local rInit = hrp()
+            if rInit then
+                rayParams.FilterDescendantsInstances = { LP.Character, c, saddle }
+                local hit0 = Workspace:Raycast(rInit.Position, Vector3.new(0, -90, 0), rayParams)
+                local gY0 = hit0 and hit0.Position.Y or (rInit.Position.Y - 3)
+                local sY0 = (gY0 - footOff) + backOff - SINK_OFFSET
+                saddle.Position = Vector3.new(rInit.Position.X, sY0, rInit.Position.Z)
+                rInit.CFrame = CFrame.new(rInit.Position.X, sY0 + 3.0, rInit.Position.Z)
+                rInit.AssemblyLinearVelocity = Vector3.zero
+            end
+
+            UIX.rgConn = RunService.RenderStepped:Connect(function(dt)
+                local r = hrp()
+                if not r or not c.Parent or not saddle.Parent then return end
+                local fly = ST.flyMode and true or false
+
+                local d = r.Position - lastPos
+                lastPos = r.Position
+                local flat = Vector3.new(d.X, 0, d.Z)
+                local moveSpeed = flat.Magnitude / math.max(dt, 1 / 240)
+
+                local curHum = LP.Character and LP.Character:FindFirstChildOfClass("Humanoid")
+                local moveDir = (curHum and curHum.MoveDirection) or Vector3.zero
+
+                local targetLook = lastLook
+                if moveDir.Magnitude > 0.05 then
+                    targetLook = Vector3.new(moveDir.X, 0, moveDir.Z).Unit
+                elseif flat.Magnitude > 0.05 then
+                    targetLook = flat.Unit
+                else
+                    local look = r.CFrame.LookVector
+                    local flatLook = Vector3.new(look.X, 0, look.Z)
+                    if flatLook.Magnitude > 0.01 then targetLook = flatLook.Unit end
+                end
+
+                -- Smooth Tween Rotasi Guard
+                if targetLook.Magnitude > 0.1 and lastLook.Magnitude > 0.1 then
+                    local blended = lastLook:Lerp(targetLook, math.clamp(dt * 12.0, 0.05, 1.0))
+                    if blended.Magnitude > 0.01 then
+                        lastLook = blended.Unit
+                    end
+                end
+
+                -- Suppress player running/walking animations (biar karakter diem/idle di punggung guard)
+                local pAnimator = curHum and curHum:FindFirstChildOfClass("Animator")
+                if pAnimator then
+                    for _, tr in ipairs(pAnimator:GetPlayingAnimationTracks()) do
+                        local name = tr.Name:lower()
+                        local anim = tr.Animation
+                        local animId = (anim and anim.AnimationId) or ""
+                        if name:find("run") or name:find("walk") or name:find("jump") or name:find("fall") or name:find("swim") or animId:find("run") or animId:find("walk") then
+                            pcall(function() tr:Stop(0.1) end)
+                        end
+                    end
+                end
+
+                -- Animation State Blending pada Guard: Idle vs Walk
+                if UIX.rgTrack and UIX.rgIdleTrack then
+                    if moveSpeed > 1.5 then
+                        UIX.rgTrack:AdjustWeight(1.0, 0.1)
+                        UIX.rgIdleTrack:AdjustWeight(0.0, 0.1)
+                        UIX.rgTrack:AdjustSpeed(math.clamp(moveSpeed / 28, 0.5, 2.5))
+                    else
+                        UIX.rgTrack:AdjustWeight(0.0, 0.15)
+                        UIX.rgIdleTrack:AdjustWeight(1.0, 0.15)
+                    end
+                elseif UIX.rgTrack then
+                    UIX.rgTrack:AdjustSpeed(moveSpeed > 1.5 and math.clamp(moveSpeed / 28, 0.5, 2.5) or 0.6)
+                end
+
+                -- Cek ketinggian tanah aktual di bawah player
+                rayParams.FilterDescendantsInstances = { LP.Character, c, saddle }
+                local startY = r.Position.Y + 4.0
+                local hit = Workspace:Raycast(Vector3.new(r.Position.X, startY, r.Position.Z), Vector3.new(0, -(UIX.rideLift + 35), 0), rayParams)
+                if not hit or (hit and hit.Position.Y > (r.Position.Y + 2.0)) then
+                    -- Fallback jika ada atap/skybox: raycast tepat ke bawah dari kaki
+                    hit = Workspace:Raycast(Vector3.new(r.Position.X, r.Position.Y - (UIX.rideLift or 0) + 2, r.Position.Z), Vector3.new(0, -30, 0), rayParams)
+                end
+                local groundY = (hit and hit.Position.Y < (r.Position.Y + 2.0)) and hit.Position.Y or 67.57
+
+                local curGuardPivotY
+                local curGuardBackY
+                local curSaddleY
+
+                -- Jika player berada di dekat tanah (di Safe Zone / mendarat)
+                local inAir = (r.Position.Y - groundY) > (UIX.rideLift + 12)
+
+                if not inAir then
+                    -- Mode Darat / Di Safe Zone: Kaki guard menapak pas di tanah
+                    curGuardPivotY = groundY - footOff
+                    curGuardBackY = curGuardPivotY + backOff
+                    curSaddleY = curGuardBackY - SINK_OFFSET
+
+                    saddle.Position = Vector3.new(r.Position.X, curSaddleY, r.Position.Z)
+                    saddle.CanCollide = true
+                    if not ST.on then
+                        if r.Position.Y < (curSaddleY + 2.0) then
+                            r.CFrame = CFrame.new(r.Position.X, curSaddleY + 3.0, r.Position.Z)
+                            r.AssemblyLinearVelocity = Vector3.zero
+                        end
+                    end
+                else
+                    -- Mode Terbang di Udara: Punggung guard tepat di bawah kaki player
+                    saddle.CanCollide = false
+                    curGuardPivotY = r.Position.Y - 3 - backOff + SINK_OFFSET
+                end
+
+                local base = Vector3.new(r.Position.X, curGuardPivotY, r.Position.Z)
+                local cf = CFrame.lookAt(base, base + lastLook)
+                if inAir then cf = cf * CFrame.Angles(math.rad(-15), 0, 0) end
+                c:PivotTo(cf)
+            end)
+            return true
+        end
+
+        sectionLabel(UIX.rgPage, "Ride Guard", n())
+        dropdownSingle(UIX.rgPage, "Guard", n(), function() return itemsOf(UIX.rgList()) end,
+            function(it)
+                if it.clear then return end
+                ST.rideGuardId = it.key
+                saveConfig()
+                if UIX.rgPreview then UIX.rgPreview(it.key) end
+                if ST.rideGuard then UIX.rgSpawn(it.key) end   -- ganti guard langsung
+            end, ST.rideGuardId or (IS_PREMIUM and "Cherry Blossom" or "Forest"), false)
+
+        toggleRow(UIX.rgPage, "Ride Guard", n(), function(on)
+            ST.rideGuard = on
+            saveConfig()
+            if on then
+                local defaultGuard = IS_PREMIUM and "Cherry Blossom" or "Forest"
+                local targetGuard = ST.rideGuardId or defaultGuard
+                if not IS_PREMIUM and targetGuard ~= "Lake" and targetGuard ~= "Forest" then
+                    targetGuard = "Forest"
+                    ST.rideGuardId = "Forest"
+                end
+                if not UIX.rgSpawn(targetGuard) then
+                    showToast("Guard model not found")
+                    ST.rideGuard = false
+                end
+            else
+                UIX.rgDespawn()
+            end
+        end, ST.rideGuard)
+
+        -- ---------- PREVIEW ----------
+        UIX.rgCard = new("Frame", { Parent = UIX.rgPage, Size = UDim2.new(1, 0, 0, 190),
+            LayoutOrder = n(), BackgroundColor3 = Theme.Control, BackgroundTransparency = CTRL_T,
+            BorderSizePixel = 0 }, { corner(10), stroke(Theme.Border, 1, 0.5) })
+        UIX.rgVp = new("ViewportFrame", { Parent = UIX.rgCard, Size = UDim2.new(1, -12, 1, -26),
+            Position = UDim2.new(0, 6, 0, 6), BackgroundTransparency = 1,
+            Ambient = Color3.fromRGB(190, 190, 200), LightColor = Color3.fromRGB(255, 255, 255),
+            LightDirection = Vector3.new(-0.4, -1, -0.6) })
+        UIX.rgName = new("TextLabel", { Parent = UIX.rgCard, Size = UDim2.new(1, 0, 0, 18),
+            Position = UDim2.new(0, 0, 1, -21), BackgroundTransparency = 1, Font = FONT_BOLD,
+            Text = "", TextColor3 = Theme.Text, TextSize = 14 })
+
+        function UIX.rgPreview(areaId)
+            local vp = UIX.rgVp
+            if not vp then return end
+            for _, ch in ipairs(vp:GetChildren()) do pcall(function() ch:Destroy() end) end
+            UIX.rgName.Text = tostring(areaId or "-")
+            local src = UIX.rgSource(areaId)
+            if not src then UIX.rgName.Text = tostring(areaId) .. " (model not found)" return end
+
+            local m = src:Clone()
+            m:PivotTo(CFrame.new())
+            for _, nm in ipairs({ "Collider", "CENTER", "HeadProxy", "EggPoint", "HumanoidRootPart" }) do
+                local p = m:FindFirstChild(nm); if p then p:Destroy() end
+            end
+            local h = m:FindFirstChildOfClass("Humanoid"); if h then h:Destroy() end
+            for _, d in ipairs(m:GetDescendants()) do
+                if d:IsA("BasePart") then d.Anchored = true; d.CanCollide = false end
+            end
+            m.Parent = vp
+
+            local cf, size = m:GetBoundingBox()
+            local cam = Instance.new("Camera")
+            cam.FieldOfView = 45
+            local dist = (size.Magnitude * 0.5) / math.tan(math.rad(22.5)) * 1.05
+            cam.CFrame = CFrame.lookAt(cf.Position + Vector3.new(0.7, 0.28, -0.9).Unit * dist, cf.Position)
+            cam.Parent = vp
+            vp.CurrentCamera = cam
+        end
+
+        -- Banner upgrade info untuk Free users
+        if not IS_PREMIUM then
+            local info = new("TextButton", { Parent = UIX.rgPage, Size = UDim2.new(1, 0, 0, 44), LayoutOrder = n(),
+                BackgroundColor3 = Color3.fromRGB(30, 33, 46), BackgroundTransparency = 0.1, AutoButtonColor = false,
+                Text = "" }, { corner(8), stroke(Color3.fromRGB(88, 101, 242), 1) })
+            new("Frame", { Parent = info, Size = UDim2.new(0, 4, 1, -12), Position = UDim2.new(0, 8, 0.5, -16),
+                BackgroundColor3 = Color3.fromRGB(255, 216, 92), BorderSizePixel = 0 }, { corner(2) })
+            new("TextLabel", { Parent = info, Size = UDim2.new(1, -28, 1, 0), Position = UDim2.new(0, 18, 0, 0),
+                BackgroundTransparency = 1, Font = FONT, TextColor3 = Theme.Text, TextSize = 11,
+                Text = "🔒 Upgrade to Gold/Lifetime to unlock all 11+ Guard Mounts! Join: " .. DISCORD_INVITE .. " (tap to copy)",
+                TextXAlignment = Enum.TextXAlignment.Left, TextWrapped = true })
+            info.MouseButton1Click:Connect(function()
+                local ok = pcall(setclipboard, "https://" .. DISCORD_INVITE)
+                showToast(ok and "Discord invite copied to clipboard!" or ("Join: " .. DISCORD_INVITE))
+            end)
+        end
+
+        task.spawn(function()
+            task.wait(0.5)
+            local defaultGuard = IS_PREMIUM and "Cherry Blossom" or "Forest"
+            local initialGuard = ST.rideGuardId or defaultGuard
+            if not IS_PREMIUM and initialGuard ~= "Lake" and initialGuard ~= "Forest" then
+                initialGuard = "Forest"
+                ST.rideGuardId = "Forest"
+            end
+            pcall(function() UIX.rgPreview(initialGuard) end)
+            if ST.rideGuard then pcall(function() UIX.rgSpawn(initialGuard) end) end
+        end)
+
+        trackConn(LP.CharacterAdded:Connect(function()
+            task.wait(1.5)
+            local defaultGuard = IS_PREMIUM and "Cherry Blossom" or "Forest"
+            local initialGuard = ST.rideGuardId or defaultGuard
+            if not IS_PREMIUM and initialGuard ~= "Lake" and initialGuard ~= "Forest" then
+                initialGuard = "Forest"
+            end
+            if ST.rideGuard then pcall(function() UIX.rgSpawn(initialGuard) end) end
+        end))
+
+        -- ============ SINKRON ANTAR-PEMAKAI SCRIPT ============
+        -- Model guard itu clone LOKAL. Dibuktikan live: dari klien lain, penunggang
+        -- keliatan MELAYANG TANPA guard sama sekali. Jadi mustahil klien lain melihatnya
+        -- lewat Roblox, dan satu-satunya jalur in-game (nembak remote game) ditolak
+        -- karena AC-nya galak + bakal ngirim sampah ke pemain non-script.
+        --
+        -- YANG BIKIN INI MURAH: kita GAK PERLU sinkron posisi sama sekali. Posisi
+        -- karakter udah direplikasi Roblox gratis — itu sebabnya penunggang keliatan
+        -- melayang. Yang ditukar cuma SATU STRING: guard mana yang dipakai. Penempatan
+        -- tetap dihitung lokal per-frame, jadi tetap mulus walau polling 15 detik.
+        --
+        -- Blok ini SENGAJA di luar gerbang IS_PREMIUM: yang non-premium tetap bisa
+        -- MELIHAT penunggang lain, cuma gak bisa ride sendiri. Mereka juga gak ngirim
+        -- apa-apa, karena ST.rideGuard-nya gak akan pernah nyala.
+        UIX.RIDE_ENDPOINT = "https://www.nrlscript.com/api/ride"
+        UIX.RIDE_POLL     = 1
+        UIX.rgPeers       = {}    -- userId -> areaId
+        UIX.rgPeerMounts  = {}    -- userId -> { model=, walk=, idle=, foot=, back=, sink=, area=, look=, lastPos= }
+
+        function UIX.rgPeerBuild(areaId, uid)
+            local src = UIX.rgSource(areaId)
+            if not src then return nil end
+            local c = src:Clone()
+            c.Name = "SAE_GuardRidePeer_" .. tostring(uid)
+            local ohrp = c:FindFirstChild("HumanoidRootPart")
+            for _, d in ipairs(c:GetDescendants()) do
+                if d:IsA("BasePart") then
+                    d.Anchored = (d == ohrp); d.CanCollide = false; d.CastShadow = true
+                end
+            end
+            local hum = c:FindFirstChildOfClass("Humanoid")
+            if hum then hum.EvaluateStateMachine = false end
+            c.Parent = Workspace
+
+            local walk, idle
+            local inner = c:FindFirstChild("Model")
+            local ac = inner and inner:FindFirstChildOfClass("AnimationController")
+            local animator = ac and ac:FindFirstChildOfClass("Animator")
+            local gdir = req(RS:FindFirstChild("Data") and RS.Data:FindFirstChild("Guards"))
+            local gd = gdir and (gdir.Directory or gdir)[areaId]
+            if animator and gd then
+                for _, t in ipairs(animator:GetPlayingAnimationTracks()) do pcall(function() t:Stop() end) end
+                local wId = tostring(gd.WalkAnimation):match("(%d+)")
+                local iId = tostring(gd.IdleAnimation):match("(%d+)")
+                if wId then
+                    local a = Instance.new("Animation"); a.AnimationId = "rbxassetid://" .. wId
+                    local ok, tr = pcall(function() return animator:LoadAnimation(a) end)
+                    if ok and tr then tr.Looped = true; tr.Priority = Enum.AnimationPriority.Movement; tr:Play(); walk = tr end
+                end
+                if iId then
+                    local a = Instance.new("Animation"); a.AnimationId = "rbxassetid://" .. iId
+                    local ok, tr = pcall(function() return animator:LoadAnimation(a) end)
+                    if ok and tr then tr.Looped = true; tr.Priority = Enum.AnimationPriority.Idle; tr:Play(); idle = tr end
+                end
+            end
+
+            local foot, back = UIX.rgSpan(c)
+            return { model = c, walk = walk, idle = idle, foot = foot, back = back,
+                     sink = UIX.rgSink(areaId, math.max(1, back - foot)), area = areaId,
+                     look = Vector3.new(0, 0, -1), lastPos = Vector3.zero }
+        end
+
+        function UIX.rgPeerDrop(m)
+            if not m then return end
+            if m.walk then pcall(function() m.walk:Stop() end) end
+            if m.idle then pcall(function() m.idle:Stop() end) end
+            pcall(function() m.model:Destroy() end)
+        end
+
+        -- Penempatan mount pemain lain. Logikanya cerminan dari loop punya sendiri —
+        -- BEDA-nya: kita gak boleh (dan gak bisa) menggeser karakter mereka. Posisi
+        -- mereka sudah termasuk lift, karena klien mereka yang mengangkat dan Roblox
+        -- mereplikasikannya ke kita.
+        function UIX.rgPeerStep(m, r, dt, rayParams)
+            if not (m and m.model and m.model.Parent and r) then return end
+            local d = r.Position - m.lastPos
+            m.lastPos = r.Position
+            local flat = Vector3.new(d.X, 0, d.Z)
+            local moveSpeed = flat.Magnitude / math.max(dt, 1 / 240)
+
+            if flat.Magnitude > 0.05 then
+                local blended = m.look:Lerp(flat.Unit, math.clamp(dt * 12.0, 0.05, 1.0))
+                if blended.Magnitude > 0.01 then m.look = blended.Unit end
+            end
+
+            if m.walk and m.idle then
+                if moveSpeed > 1.5 then
+                    m.walk:AdjustWeight(1.0, 0.1); m.idle:AdjustWeight(0.0, 0.1)
+                    m.walk:AdjustSpeed(math.clamp(moveSpeed / 28, 0.5, 2.5))
+                else
+                    m.walk:AdjustWeight(0.0, 0.15); m.idle:AdjustWeight(1.0, 0.15)
+                end
+            elseif m.walk then
+                m.walk:AdjustSpeed(moveSpeed > 1.5 and math.clamp(moveSpeed / 28, 0.5, 2.5) or 0.6)
+            end
+
+            local lift = math.max(0, (m.back - m.foot) - m.sink)
+            rayParams.FilterDescendantsInstances = { r.Parent, m.model }
+            local hit = Workspace:Raycast(Vector3.new(r.Position.X, r.Position.Y + 4, r.Position.Z),
+                                          Vector3.new(0, -(lift + 35), 0), rayParams)
+            if not hit or hit.Position.Y > (r.Position.Y + 2) then
+                hit = Workspace:Raycast(Vector3.new(r.Position.X, r.Position.Y - lift + 2, r.Position.Z),
+                                        Vector3.new(0, -30, 0), rayParams)
+            end
+            local groundY = (hit and hit.Position.Y < (r.Position.Y + 2)) and hit.Position.Y or 67.57
+            local inAir = (r.Position.Y - groundY) > (lift + 12)
+
+            local pivotY = inAir and (r.Position.Y - 3 - m.back + m.sink) or (groundY - m.foot)
+            local base = Vector3.new(r.Position.X, pivotY, r.Position.Z)
+            local cf = CFrame.lookAt(base, base + m.look)
+            if inAir then cf = cf * CFrame.Angles(math.rad(-15), 0, 0) end
+            m.model:PivotTo(cf)
+        end
+
+        task.spawn(function()
+            local rayParams = RaycastParams.new()
+            rayParams.FilterType = Enum.RaycastFilterType.Exclude
+            while alive() do
+                local dt = RunService.RenderStepped:Wait()
+                local peers, mounts = UIX.rgPeers or {}, UIX.rgPeerMounts
+                for uid, areaId in pairs(peers) do
+                    local plr = Players:GetPlayerByUserId(uid)
+                    local r = plr and plr.Character and plr.Character:FindFirstChild("HumanoidRootPart")
+                    if r then
+                        local m = mounts[uid]
+                        if not m or m.area ~= areaId or not (m.model and m.model.Parent) then
+                            UIX.rgPeerDrop(m)
+                            mounts[uid] = UIX.rgPeerBuild(areaId, uid)
+                            m = mounts[uid]
+                        end
+                        UIX.rgPeerStep(m, r, dt, rayParams)
+                    elseif mounts[uid] then
+                        UIX.rgPeerDrop(mounts[uid]); mounts[uid] = nil
+                    end
+                end
+                for uid, m in pairs(mounts) do
+                    if not peers[uid] then UIX.rgPeerDrop(m); mounts[uid] = nil end
+                end
+            end
+        end)
+
+        -- Satu request = kirim status kita SEKALIGUS terima daftar penunggang lain.
+        function UIX.rgSync(active)
+            local hr = (syn and syn.request) or (http and http.request) or http_request or request
+            if type(hr) ~= "function" then return end
+            local key
+            pcall(function()
+                if type(isfile) == "function" and isfile("nr_loader_key.txt") and type(readfile) == "function" then
+                    local raw = readfile("nr_loader_key.txt")
+                    if raw and raw ~= "" then key = (raw:match("^([^|\r\n]+)") or raw):gsub("%s+", "") end
+                end
+            end)
+            if not key then return end
+
+            local body
+            if not pcall(function()
+                body = HS:JSONEncode({ key = key, job = tostring(game.JobId), uid = LP.UserId,
+                                       guard = active and (ST.rideGuardId or "Cherry Blossom") or nil })
+            end) then return end
+
+            local res
+            if not pcall(function()
+                res = hr({ Url = UIX.RIDE_ENDPOINT, Method = "POST",
+                           Headers = { ["Content-Type"] = "application/json" }, Body = body })
+            end) then return end
+            if not (res and res.Body) then return end
+
+            local data
+            if not pcall(function() data = HS:JSONDecode(res.Body) end) then return end
+            local fresh = {}
+            for _, e in ipairs((type(data) == "table" and data.riders) or {}) do
+                local uid = tonumber(e.uid)
+                if uid and uid ~= LP.UserId and e.guard then fresh[uid] = tostring(e.guard) end
+            end
+            UIX.rgPeers = fresh
+        end
+
+        task.spawn(function()
+            task.wait(6)   -- kasih waktu key & karakter kebaca dulu
+            local wasActive = nil
+            while alive() do
+                local active = ST.rideGuard and true or false
+                -- Dikirim tiap putaran; Worker yang mutusin perlu nulis ke KV atau engga
+                -- (nulis cuma kalau guard-nya berubah). Jadi polling biasa = nol write.
+                pcall(UIX.rgSync, active)
+                if wasActive and not active then
+                    for uid, m in pairs(UIX.rgPeerMounts) do UIX.rgPeerDrop(m); UIX.rgPeerMounts[uid] = nil end
+                    UIX.rgPeers = {}
+                end
+                wasActive = active
+                task.wait(UIX.RIDE_POLL)
+            end
+        end)
+    end
+
+
+return UIX.rgPage
